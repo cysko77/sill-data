@@ -1,1 +1,36 @@
-[]
+[
+    {
+        "id": 1,
+        "name": "Manycore platform Simulation tool for NoC-based platform at a Cycle-accurate level",
+        "description": "A SystemC simulator able to simulate embedded applications described using the AMALTHEA application model on top of NoC-based manycore architectures in a cycle accurate way. This simulator is based on NoCTweak and has been developed by the LIRMM laboratory of Montpellier.",
+        "referencedSinceTime": 1708112982815,
+        "updateTime": 1708112982815,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": false,
+        "isPresentInSupportContract": false,
+        "similarSoftwareExternalDataIds": [
+            "1836189"
+        ],
+        "externalId": "2100357",
+        "license": "GNU Lesser General Public License v3.0 only",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": false,
+                "linux": false,
+                "mac": true,
+                "android": false,
+                "ios": false
+            }
+        },
+        "versionMin": "1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "jerome.burkard@beta.gouv.fr",
+        "keywords": [
+            ""
+        ]
+    }
+]
