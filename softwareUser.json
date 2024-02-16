@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "softwareId": 1,
+        "agentEmail": "jerome.burkard@beta.gouv.fr",
+        "os": "mac",
+        "useCaseDescription": "Ceci est un test",
+        "version": "10"
+    }
+]
