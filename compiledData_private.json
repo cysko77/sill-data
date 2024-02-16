@@ -79,7 +79,14 @@
         "externalDataOrigin": "HAL"
       }
     ],
-    "users": [],
+    "users": [
+      {
+        "organization": "Beta.gouv",
+        "os": "mac",
+        "useCaseDescription": "Ceci est un test",
+        "version": "10"
+      }
+    ],
     "referents": [],
     "instances": []
   }
