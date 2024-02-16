@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Manycore platform Simulation tool for NoC-based platform at a Cycle-accurate level",
+    "description": "A SystemC simulator able to simulate embedded applications described using the AMALTHEA application model on top of NoC-based manycore architectures in a cycle accurate way. This simulator is based on NoCTweak and has been developed by the LIRMM laboratory of Montpellier.",
+    "referencedSinceTime": 1708112982815,
+    "updateTime": 1708112982815,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": false,
+    "isPresentInSupportContract": false,
+    "license": "GNU Lesser General Public License v3.0 only",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": false,
+        "linux": false,
+        "mac": true,
+        "android": false,
+        "ios": false
+      }
+    },
+    "versionMin": "1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "jerome.burkard@beta.gouv.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "compte à supprimer 263",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/312"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "2100357",
+      "externalDataOrigin": "HAL",
+      "developers": [
+        {
+          "id": "selva,-manuel",
+          "name": "Selva, Manuel"
+        },
+        {
+          "id": "gamatié,-abdoulaye",
+          "name": "Gamatié, Abdoulaye"
+        }
+      ],
+      "label": {
+        "en": "Manycore platform Simulation tool for NoC-based platform at a Cycle-accurate level",
+        "fr": "Manycore platform Simulation tool for NoC-based platform at a Cycle-accurate level"
+      },
+      "description": {
+        "en": "A SystemC simulator able to simulate embedded applications described using the AMALTHEA application model on top of NoC-based manycore architectures in a cycle accurate way. This simulator is based on NoCTweak and has been developed by the LIRMM laboratory of Montpellier.",
+        "fr": "A SystemC simulator able to simulate embedded applications described using the AMALTHEA application model on top of NoC-based manycore architectures in a cycle accurate way. This simulator is based on NoCTweak and has been developed by the LIRMM laboratory of Montpellier."
+      },
+      "documentationUrl": "https://inria.hal.science/hal-02100357",
+      "isLibreSoftware": false,
+      "license": "GNU Lesser General Public License v3.0 only",
+      "sourceUrl": "https://github.com/DreamCloud-Project/McSim-Cycle-accurate-NoC",
+      "websiteUrl": "https://inria.hal.science/hal-02100357",
+      "framaLibreId": "",
+      "logoUrl": ""
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "1836189",
+        "label": {
+          "en": "Croc",
+          "fr": "Croc"
+        },
+        "description": {
+          "en": "We present CROC (Coreference Resolution for Oral Corpus), the first machine learning system for coreference resolution in French. One specific aspect of the system is that it has been trained on data that are exclusively oral, namely ANCOR (ANaphora and Coreference in ORal corpus), the first corpus in oral French with anaphorical relations annotations. In its current state, the CROC system requires pre-annotated mentions. We detail the features that we chose to be used by the learning algorithms, and we present a set of experiments with these features. The scores we obtain are close to those of state-of-the-art systems for written English. Then we give future works on the design of an end-to-end system for oral and written French.",
+          "fr": "We present CROC (Coreference Resolution for Oral Corpus), the first machine learning system for coreference resolution in French. One specific aspect of the system is that it has been trained on data that are exclusively oral, namely ANCOR (ANaphora and Coreference in ORal corpus), the first corpus in oral French with anaphorical relations annotations. In its current state, the CROC system requires pre-annotated mentions. We detail the features that we chose to be used by the learning algorithms, and we present a set of experiments with these features. The scores we obtain are close to those of state-of-the-art systems for written English. Then we give future works on the design of an end-to-end system for oral and written French."
+        },
+        "isLibreSoftware": true,
+        "externalDataOrigin": "HAL"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
+  }
+]
