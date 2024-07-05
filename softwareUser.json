@@ -1,7 +1,7 @@
 [
     {
         "softwareId": 1,
-        "agentEmail": "jerome.burkard@beta.gouv.fr",
+        "agentEmail": "cyrille.kozlowski@gmail.com",
         "os": "mac",
         "useCaseDescription": "Ceci est un test",
         "version": "10"
