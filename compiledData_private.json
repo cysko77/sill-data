@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Manycore platform Simulation tool for NoC-based platform at a Cycle-accurate level",
+    "description": "A SystemC simulator able to simulate embedded applications described using the AMALTHEA application model on top of NoC-based manycore architectures in a cycle accurate way. This simulator is based on NoCTweak and has been developed by the LIRMM laboratory of Montpellier.",
+    "referencedSinceTime": 1708112982815,
+    "updateTime": 1708112982815,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": false,
+    "isPresentInSupportContract": false,
+    "license": "GNU Lesser General Public License v3.0 only",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": false,
+        "linux": false,
+        "mac": true,
+        "android": false,
+        "ios": false
+      }
+    },
+    "versionMin": "1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@gmail.com",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "compte à supprimer 263",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/312"
+      }
+    ],
+    "similarExternalSoftwares": [],
+    "users": [
+      {
+        "organization": "ars-idf",
+        "os": "mac",
+        "useCaseDescription": "Ceci est un test",
+        "version": "10"
+      }
+    ],
+    "referents": [],
+    "instances": []
+  }
+]
