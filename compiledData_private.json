@@ -100,7 +100,14 @@
       "developers": []
     },
     "similarExternalSoftwares": [],
-    "users": [],
+    "users": [
+      {
+        "organization": "ars-idf",
+        "os": "windows",
+        "useCaseDescription": "ino",
+        "version": ""
+      }
+    ],
     "referents": [
       {
         "email": "cyrille.kozlowski@gmail.com",

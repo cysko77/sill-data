@@ -100,7 +100,7 @@
     "userAndReferentCountByOrganization": {
       "ars-idf": {
         "referentCount": 1,
-        "userCount": 0
+        "userCount": 1
       }
     },
     "instances": [
