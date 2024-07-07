@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": 1,
+        "addedByAgentEmail": "cyrille.kozlowski@gmail.com",
+        "organization": "dgdfd",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "fgdfgd",
+        "referencedSinceTime": 1720393726549,
+        "updateTime": 1720393726549
+    }
+]
