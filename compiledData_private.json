@@ -30,9 +30,9 @@
     ],
     "serviceProviders": [
       {
-        "name": "compte à supprimer 263",
-        "website": "",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/312"
+        "name": "Libre en Ariège",
+        "website": "https://www.libre-en-ariege.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3999"
       }
     ],
     "similarExternalSoftwares": [],
@@ -44,6 +44,63 @@
         "version": "10"
       }
     ],
+    "referents": [],
+    "instances": []
+  },
+  {
+    "id": 2,
+    "name": "Yuyao",
+    "description": "ville chinoise",
+    "referencedSinceTime": 1720393477191,
+    "updateTime": 1720393477191,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": true,
+    "isPresentInSupportContract": true,
+    "license": "GNU",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false,
+        "android": false,
+        "ios": false
+      }
+    },
+    "versionMin": "1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@gmail.com",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q1011201",
+      "externalDataOrigin": "wikidata",
+      "label": {
+        "fr": "Yuyao",
+        "en": "Yuyao City"
+      },
+      "description": {
+        "fr": "ville chinoise",
+        "en": "county-level city"
+      },
+      "websiteUrl": "http://www.yy.gov.cn/",
+      "isLibreSoftware": false,
+      "developers": []
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
     "referents": [],
     "instances": []
   }
