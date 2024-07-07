@@ -101,7 +101,14 @@
     },
     "similarExternalSoftwares": [],
     "users": [],
-    "referents": [],
+    "referents": [
+      {
+        "email": "cyrille.kozlowski@gmail.com",
+        "organization": "ars-idf",
+        "isExpert": true,
+        "useCaseDescription": "test"
+      }
+    ],
     "instances": []
   }
 ]

@@ -96,8 +96,13 @@
       "developers": []
     },
     "similarExternalSoftwares": [],
-    "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "hasExpertReferent": true,
+    "userAndReferentCountByOrganization": {
+      "ars-idf": {
+        "referentCount": 1,
+        "userCount": 0
+      }
+    },
     "instances": []
   }
 ]
