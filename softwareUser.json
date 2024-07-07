@@ -5,5 +5,12 @@
         "os": "mac",
         "useCaseDescription": "Ceci est un test",
         "version": "10"
+    },
+    {
+        "softwareId": 2,
+        "agentEmail": "cyrille.kozlowski@gmail.com",
+        "os": "windows",
+        "useCaseDescription": "ino",
+        "version": ""
     }
 ]
