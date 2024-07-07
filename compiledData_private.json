@@ -109,6 +109,14 @@
         "useCaseDescription": "test"
       }
     ],
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "dgdfd",
+        "targetAudience": "fgdfgd",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "cyrille.kozlowski@gmail.com"
+      }
+    ]
   }
 ]

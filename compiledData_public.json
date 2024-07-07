@@ -103,6 +103,13 @@
         "userCount": 0
       }
     },
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "dgdfd",
+        "targetAudience": "fgdfgd",
+        "otherWikidataSoftwares": []
+      }
+    ]
   }
 ]
