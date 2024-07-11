@@ -70,14 +70,14 @@
       "type": "desktop/mobile",
       "os": {
         "windows": true,
-        "linux": false,
+        "linux": true,
         "mac": false,
         "android": false,
         "ios": false
       }
     },
     "testUrls": [],
-    "updateTime": 1720393477191,
+    "updateTime": 1720703435375,
     "versionMin": "1",
     "workshopUrls": [],
     "softwareExternalData": {

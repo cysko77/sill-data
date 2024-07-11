@@ -52,7 +52,7 @@
     "name": "Yuyao",
     "description": "ville chinoise",
     "referencedSinceTime": 1720393477191,
-    "updateTime": 1720393477191,
+    "updateTime": 1720703435375,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": true,
@@ -62,7 +62,7 @@
       "type": "desktop/mobile",
       "os": {
         "windows": true,
-        "linux": false,
+        "linux": true,
         "mac": false,
         "android": false,
         "ios": false
