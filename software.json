@@ -35,32 +35,32 @@
     },
     {
         "id": 2,
-        "name": "Yuyao",
-        "description": "ville chinoise",
         "referencedSinceTime": 1720393477191,
-        "updateTime": 1720393477191,
+        "updateTime": 1720703435375,
         "isStillInObservation": false,
         "doRespectRgaa": true,
+        "addedByAgentEmail": "cyrille.kozlowski@gmail.com",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": true,
         "isPresentInSupportContract": true,
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q1011201",
+        "description": "ville chinoise",
         "license": "GNU",
+        "versionMin": "1",
+        "name": "Yuyao",
         "softwareType": {
             "type": "desktop/mobile",
             "os": {
                 "windows": true,
-                "linux": false,
+                "linux": true,
                 "mac": false,
                 "android": false,
                 "ios": false
             }
         },
-        "versionMin": "1",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "cyrille.kozlowski@gmail.com",
+        "externalId": "Q1011201",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg",
         "keywords": [
             ""
