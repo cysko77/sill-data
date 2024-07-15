@@ -4,5 +4,11 @@
         "agentEmail": "cyrille.kozlowski@gmail.com",
         "isExpert": true,
         "useCaseDescription": "test"
+    },
+    {
+        "softwareId": 4,
+        "agentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "isExpert": true,
+        "useCaseDescription": "test"
     }
 ]
