@@ -167,7 +167,14 @@
         "externalDataOrigin": "wikidata"
       }
     ],
-    "users": [],
+    "users": [
+      {
+        "organization": "ARS",
+        "serviceUrl": "http://localhost:3000",
+        "useCaseDescription": "travail",
+        "version": ""
+      }
+    ],
     "referents": [],
     "instances": []
   },
