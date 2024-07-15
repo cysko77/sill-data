@@ -12,12 +12,5 @@
         "os": "windows",
         "useCaseDescription": "ino",
         "version": ""
-    },
-    {
-        "softwareId": 3,
-        "agentEmail": "cyrille.kozlowski@ars.sante.fr",
-        "serviceUrl": "http://localhost:3000",
-        "useCaseDescription": "travail",
-        "version": ""
     }
 ]
