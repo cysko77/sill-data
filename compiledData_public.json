@@ -61,7 +61,7 @@
     "description": "ville chinoise",
     "doRespectRgaa": true,
     "id": 2,
-    "isFromFrenchPublicService": true,
+    "isFromFrenchPublicService": false,
     "isPresentInSupportContract": true,
     "isStillInObservation": false,
     "keywords": [
@@ -76,13 +76,11 @@
       "os": {
         "windows": true,
         "linux": true,
-        "mac": false,
-        "android": false,
-        "ios": false
+        "mac": false
       }
     },
     "testUrls": [],
-    "updateTime": 1720703435375,
+    "updateTime": 1721085428579,
     "versionMin": "1",
     "workshopUrls": [],
     "softwareExternalData": {
