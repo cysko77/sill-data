@@ -131,5 +131,35 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 5,
+        "name": "Microsoft Excel",
+        "description": "Logiciel de tableur",
+        "referencedSinceTime": 1721085226409,
+        "updateTime": 1721085226409,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": false,
+        "isPresentInSupportContract": false,
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q11272",
+        "license": "non-free license",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": true
+            }
+        },
+        "versionMin": "12",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
