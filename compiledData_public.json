@@ -153,12 +153,7 @@
       }
     ],
     "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {
-      "ARS": {
-        "referentCount": 0,
-        "userCount": 1
-      }
-    },
+    "userAndReferentCountByOrganization": {},
     "instances": []
   },
   {
