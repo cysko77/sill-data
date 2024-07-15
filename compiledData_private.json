@@ -170,5 +170,63 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 4,
+    "name": "Microsoft Office",
+    "description": "série de logiciels de bureautique développés par Microsoft",
+    "referencedSinceTime": 1721084388257,
+    "updateTime": 1721084388257,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": true,
+    "isPresentInSupportContract": true,
+    "license": "Microsoft EULA",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false
+      }
+    },
+    "versionMin": "1.0",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "FactorFX",
+        "website": "https://www.factorfx.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3284"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q11255",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Office",
+      "description": {
+        "fr": "série de logiciels de bureautique développés par Microsoft",
+        "en": "series of office programmes developed by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Microsoft_Office_Logo_%282019%29.png/220px-Microsoft_Office_Logo_%282019%29.png",
+      "websiteUrl": "https://www.office.com/",
+      "license": "Microsoft EULA",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
