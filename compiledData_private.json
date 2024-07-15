@@ -175,7 +175,15 @@
         "version": ""
       }
     ],
-    "referents": [],
+    "referents": [
+      {
+        "email": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS",
+        "isExpert": false,
+        "serviceUrl": "",
+        "useCaseDescription": "yhhh"
+      }
+    ],
     "instances": []
   },
   {

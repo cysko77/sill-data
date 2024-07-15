@@ -155,7 +155,7 @@
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {
       "ARS": {
-        "referentCount": 0,
+        "referentCount": 1,
         "userCount": 1
       }
     },
