@@ -90,7 +90,12 @@
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "keywords": [
             "hgh"
-        ]
+        ],
+        "dereferencing": {
+            "time": 1721085053771,
+            "reason": "jj",
+            "lastRecommendedVersion": "1"
+        }
     },
     {
         "id": 4,
