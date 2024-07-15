@@ -132,6 +132,11 @@
     "description": "tt",
     "referencedSinceTime": 1720716798871,
     "updateTime": 1720716798871,
+    "dereferencing": {
+      "time": 1721085053771,
+      "reason": "jj",
+      "lastRecommendedVersion": "1"
+    },
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
