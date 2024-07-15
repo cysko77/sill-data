@@ -91,5 +91,35 @@
         "keywords": [
             "hgh"
         ]
+    },
+    {
+        "id": 4,
+        "name": "Microsoft Office",
+        "description": "série de logiciels de bureautique développés par Microsoft",
+        "referencedSinceTime": 1721084388257,
+        "updateTime": 1721084388257,
+        "isStillInObservation": false,
+        "doRespectRgaa": true,
+        "isFromFrenchPublicService": true,
+        "isPresentInSupportContract": true,
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q11255",
+        "license": "Microsoft EULA",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "versionMin": "1.0",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
