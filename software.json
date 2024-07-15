@@ -41,14 +41,14 @@
     {
         "id": 2,
         "referencedSinceTime": 1720393477191,
-        "updateTime": 1720703435375,
+        "updateTime": 1721085428579,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@gmail.com",
         "categories": [],
         "testUrls": [],
         "workshopUrls": [],
-        "isFromFrenchPublicService": true,
+        "isFromFrenchPublicService": false,
         "isPresentInSupportContract": true,
         "similarSoftwareExternalDataIds": [],
         "description": "ville chinoise",
@@ -60,9 +60,7 @@
             "os": {
                 "windows": true,
                 "linux": true,
-                "mac": false,
-                "android": false,
-                "ios": false
+                "mac": false
             }
         },
         "externalId": "Q1011201",
