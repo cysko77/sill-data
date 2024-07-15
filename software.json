@@ -31,7 +31,12 @@
         "addedByAgentEmail": "cyrille.kozlowski@gmail.com",
         "keywords": [
             ""
-        ]
+        ],
+        "dereferencing": {
+            "time": 1721085107593,
+            "reason": "tr",
+            "lastRecommendedVersion": "1"
+        }
     },
     {
         "id": 2,
