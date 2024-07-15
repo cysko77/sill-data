@@ -8,6 +8,11 @@
       }
     ],
     "categories": [],
+    "dereferencing": {
+      "time": 1721085107593,
+      "reason": "tr",
+      "lastRecommendedVersion": "1"
+    },
     "description": "A SystemC simulator able to simulate embedded applications described using the AMALTHEA application model on top of NoC-based manycore architectures in a cycle accurate way. This simulator is based on NoCTweak and has been developed by the LIRMM laboratory of Montpellier.",
     "doRespectRgaa": null,
     "id": 1,
