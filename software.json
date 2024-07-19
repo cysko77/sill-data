@@ -159,5 +159,35 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 6,
+        "name": "Google Maps",
+        "description": "service de cartographie",
+        "referencedSinceTime": 1721398656380,
+        "updateTime": 1721398656380,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q12013",
+        "license": "GNU",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": false
+            }
+        },
+        "versionMin": "12",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
