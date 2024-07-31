@@ -719,5 +719,94 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 7,
+    "name": "Microsoft Teams",
+    "description": "messagerie instantanée à usage professionnel",
+    "referencedSinceTime": 1722459746480,
+    "updateTime": 1722459746480,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "license": "non-free license",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": true,
+        "mac": false
+      }
+    },
+    "versionMin": "1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "POP-IT",
+        "website": "http://www.pop-it.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/259"
+      },
+      {
+        "name": "Syloé",
+        "website": "http://www.syloe.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/132"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q28406404",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Teams",
+      "description": {
+        "fr": "messagerie instantanée à usage professionnel",
+        "en": "team collaboration and videoconferencing application developed by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/220px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png",
+      "websiteUrl": "https://teams.microsoft.com",
+      "license": "non-free license",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q94979732",
+        "label": "Zoom",
+        "description": {
+          "fr": "application de réseau social",
+          "en": "social networking app"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
