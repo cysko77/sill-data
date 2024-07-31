@@ -189,5 +189,37 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 7,
+        "name": "Microsoft Teams",
+        "description": "messagerie instantanée à usage professionnel",
+        "referencedSinceTime": 1722459746480,
+        "updateTime": 1722459746480,
+        "isStillInObservation": false,
+        "doRespectRgaa": true,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "similarSoftwareExternalDataIds": [
+            "Q94979732"
+        ],
+        "externalId": "Q28406404",
+        "license": "non-free license",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": false
+            }
+        },
+        "versionMin": "1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
