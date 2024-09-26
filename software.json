@@ -1,31 +1,32 @@
 [
     {
         "id": 1,
-        "name": "ez",
-        "description": "ez",
         "referencedSinceTime": 1727375574607,
-        "updateTime": 1727375574607,
+        "updateTime": 1727375970269,
         "isStillInObservation": false,
         "doRespectRgaa": true,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": true,
-        "scoreDisponibilite": 0,
-        "scoreTracabilite": 0,
-        "scoreConfidentialite": 0,
-        "scoreIntegrite": 0,
+        "scoreDisponibilite": 1,
+        "scoreTracabilite": 2,
+        "scoreConfidentialite": 3,
+        "scoreIntegrite": 4,
         "scopesProcessus": [
-            1
+            1,
+            2
         ],
         "similarSoftwareExternalDataIds": [],
+        "description": "ez",
         "license": "ze",
+        "versionMin": "1",
+        "name": "ez",
         "softwareType": {
             "type": "cloud"
         },
-        "versionMin": "1",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
         "keywords": [
             ""
         ]
