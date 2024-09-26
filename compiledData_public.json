@@ -13,12 +13,13 @@
     "id": 1,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
-    "scoreDisponibilite": 0,
-    "scoreTracabilite": 0,
-    "scoreConfidentialite": 0,
-    "scoreIntegrite": 0,
+    "scoreDisponibilite": 1,
+    "scoreTracabilite": 2,
+    "scoreConfidentialite": 3,
+    "scoreIntegrite": 4,
     "scopesProcessus": [
-      1
+      1,
+      2
     ],
     "isStillInObservation": false,
     "keywords": [
@@ -31,7 +32,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1727375574607,
+    "updateTime": 1727375970269,
     "versionMin": "1",
     "workshopUrls": [],
     "similarExternalSoftwares": [],
