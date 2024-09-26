@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "ez",
+    "description": "ez",
+    "referencedSinceTime": 1727375574607,
+    "updateTime": 1727375574607,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "scoreDisponibilite": 0,
+    "scoreTracabilite": 0,
+    "scoreConfidentialite": 0,
+    "scoreIntegrite": 0,
+    "scopesProcessus": [
+      1
+    ],
+    "license": "ze",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "Libre en Ariège",
+        "website": "https://www.libre-en-ariege.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3999"
+      }
+    ],
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
+  }
+]
