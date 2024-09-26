@@ -36,7 +36,12 @@
     "workshopUrls": [],
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "userAndReferentCountByOrganization": {
+      "ARS": {
+        "referentCount": 1,
+        "userCount": 0
+      }
+    },
     "instances": []
   }
 ]
