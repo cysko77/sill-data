@@ -14,9 +14,9 @@
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
     "scoreDisponibilite": 4,
-    "scoreTracabilite": 2,
-    "scoreConfidentialite": 3,
-    "scoreIntegrite": 4,
+    "scoreTracabilite": 3,
+    "scoreConfidentialite": 2,
+    "scoreIntegrite": 1,
     "scopesProcessus": [
       2
     ],
@@ -31,7 +31,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1727444677948,
+    "updateTime": 1727445338113,
     "versionMin": "1",
     "workshopUrls": [],
     "similarExternalSoftwares": [],
