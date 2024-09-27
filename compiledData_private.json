@@ -47,5 +47,66 @@
       }
     ],
     "instances": []
+  },
+  {
+    "id": 2,
+    "name": "Microsoft Windows",
+    "description": "famille de systèmes d'exploitation produits pour les ordinateurs personnels, les serveurs, les smartphones et les périphériques intégrés par Microsoft",
+    "referencedSinceTime": 1727446269784,
+    "updateTime": 1727446269784,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "scoreDisponibilite": 4,
+    "scoreTracabilite": 3,
+    "scoreConfidentialite": 2,
+    "scoreIntegrite": 1,
+    "scopesProcessus": [
+      1,
+      8
+    ],
+    "license": "non-free license",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "Last version",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q1406",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Windows",
+      "description": {
+        "fr": "famille de systèmes d'exploitation produits pour les ordinateurs personnels, les serveurs, les smartphones et les périphériques intégrés par Microsoft",
+        "en": "family of computer operating systems developed by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/220px-Windows_logo_and_wordmark_-_2021.svg.png",
+      "websiteUrl": "https://windows.com",
+      "license": "non-free license",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]

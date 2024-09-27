@@ -43,5 +43,65 @@
       }
     },
     "instances": []
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "categories": [],
+    "description": "famille de systèmes d'exploitation produits pour les ordinateurs personnels, les serveurs, les smartphones et les périphériques intégrés par Microsoft",
+    "doRespectRgaa": false,
+    "id": 2,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "scoreDisponibilite": 4,
+    "scoreTracabilite": 3,
+    "scoreConfidentialite": 2,
+    "scoreIntegrite": 1,
+    "scopesProcessus": [
+      1,
+      8
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      ""
+    ],
+    "license": "non-free license",
+    "name": "Microsoft Windows",
+    "referencedSinceTime": 1727446269784,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1727446269784,
+    "versionMin": "Last version",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q1406",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Windows",
+      "description": {
+        "fr": "famille de systèmes d'exploitation produits pour les ordinateurs personnels, les serveurs, les smartphones et les périphériques intégrés par Microsoft",
+        "en": "family of computer operating systems developed by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/220px-Windows_logo_and_wordmark_-_2021.svg.png",
+      "websiteUrl": "https://windows.com",
+      "license": "non-free license",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": []
   }
 ]
