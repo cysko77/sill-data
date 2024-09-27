@@ -18,9 +18,6 @@
     "scoreConfidentialite": 3,
     "scoreIntegrite": 4,
     "scopesProcessus": [
-      1,
-      2,
-      3,
       8
     ],
     "isStillInObservation": false,
@@ -34,7 +31,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1727433574292,
+    "updateTime": 1727436905561,
     "versionMin": "1",
     "workshopUrls": [],
     "similarExternalSoftwares": [],
