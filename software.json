@@ -70,5 +70,43 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 3,
+        "name": "Microsoft Word",
+        "description": "logiciel informatique",
+        "referencedSinceTime": 1727447662801,
+        "updateTime": 1727447662801,
+        "isStillInObservation": false,
+        "doRespectRgaa": true,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "scoreDisponibilite": 0,
+        "scoreTracabilite": 0,
+        "scoreConfidentialite": 0,
+        "scoreIntegrite": 0,
+        "scopesProcessus": [
+            1
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q11261",
+        "license": "EULA",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": true,
+                "mac": true
+            }
+        },
+        "versionMin": "Last version",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            "traitement de text",
+            "travailler"
+        ]
     }
 ]
