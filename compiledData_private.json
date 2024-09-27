@@ -140,7 +140,15 @@
       }
     ],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "ARS IDF",
+        "targetAudience": "Ars",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+      }
+    ]
   },
   {
     "id": 3,
