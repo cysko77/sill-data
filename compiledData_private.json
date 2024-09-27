@@ -134,5 +134,71 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 3,
+    "name": "Microsoft Word",
+    "description": "logiciel informatique",
+    "referencedSinceTime": 1727447662801,
+    "updateTime": 1727447662801,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "scoreDisponibilite": 0,
+    "scoreTracabilite": 0,
+    "scoreConfidentialite": 0,
+    "scoreIntegrite": 0,
+    "scopesProcessus": [
+      1
+    ],
+    "license": "EULA",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": true,
+        "mac": true
+      }
+    },
+    "versionMin": "Last version",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+    "keywords": [
+      "traitement de text",
+      "travailler"
+    ],
+    "serviceProviders": [
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q11261",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Word",
+      "description": {
+        "fr": "logiciel informatique",
+        "en": "word processor software part of Microsoft 365"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png",
+      "websiteUrl": "https://products.office.com/word",
+      "license": "EULA",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
