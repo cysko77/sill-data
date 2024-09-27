@@ -2,7 +2,7 @@
     {
         "id": 1,
         "referencedSinceTime": 1727375574607,
-        "updateTime": 1727375970269,
+        "updateTime": 1727423436965,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -11,13 +11,15 @@
         "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": true,
-        "scoreDisponibilite": 1,
+        "scoreDisponibilite": 4,
         "scoreTracabilite": 2,
         "scoreConfidentialite": 3,
         "scoreIntegrite": 4,
         "scopesProcessus": [
             1,
-            2
+            2,
+            8,
+            52
         ],
         "similarSoftwareExternalDataIds": [],
         "description": "ez",
