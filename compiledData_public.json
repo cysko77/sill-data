@@ -20,8 +20,7 @@
     "scopesProcessus": [
       1,
       2,
-      8,
-      52
+      3
     ],
     "isStillInObservation": false,
     "keywords": [
@@ -34,7 +33,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1727433142761,
+    "updateTime": 1727433304184,
     "versionMin": "1",
     "workshopUrls": [],
     "similarExternalSoftwares": [],
