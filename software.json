@@ -2,7 +2,7 @@
     {
         "id": 1,
         "referencedSinceTime": 1727375574607,
-        "updateTime": 1727438438719,
+        "updateTime": 1727444677948,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -19,10 +19,10 @@
             2
         ],
         "similarSoftwareExternalDataIds": [],
-        "description": "ez",
+        "description": "If you can't understand where it's coming from in the stack traces, please post screenshots or create reproducing sandboxes and we'll try to help. Most of these are probably coming from a few libraries, so the most productive thing to do is to reduce these cases and then file issues with those libraries.",
         "license": "ze",
         "versionMin": "1",
-        "name": "ez",
+        "name": "Test logiciel",
         "softwareType": {
             "type": "cloud"
         },
