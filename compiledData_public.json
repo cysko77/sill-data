@@ -9,7 +9,7 @@
     ],
     "categories": [],
     "description": "If you can't understand where it's coming from in the stack traces, please post screenshots or create reproducing sandboxes and we'll try to help. Most of these are probably coming from a few libraries, so the most productive thing to do is to reduce these cases and then file issues with those libraries.",
-    "doRespectRgaa": true,
+    "doRespectRgaa": false,
     "id": 1,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
@@ -28,13 +28,29 @@
     "name": "Test logiciel",
     "referencedSinceTime": 1727375574607,
     "softwareType": {
-      "type": "cloud"
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": true,
+        "mac": true
+      }
     },
     "testUrls": [],
-    "updateTime": 1727445338113,
+    "updateTime": 1727447543738,
     "versionMin": "1",
     "workshopUrls": [],
-    "similarExternalSoftwares": [],
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q1406",
+        "label": "Microsoft Windows",
+        "description": {
+          "fr": "famille de systèmes d'exploitation produits pour les ordinateurs personnels, les serveurs, les smartphones et les périphériques intégrés par Microsoft",
+          "en": "family of computer operating systems developed by Microsoft"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {
       "ARS": {
