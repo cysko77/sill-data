@@ -131,7 +131,14 @@
       ]
     },
     "similarExternalSoftwares": [],
-    "users": [],
+    "users": [
+      {
+        "organization": "ARS",
+        "serviceUrl": "",
+        "useCaseDescription": "redaction lettre",
+        "version": ""
+      }
+    ],
     "referents": [],
     "instances": []
   },

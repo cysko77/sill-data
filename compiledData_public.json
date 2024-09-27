@@ -127,7 +127,12 @@
     },
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "userAndReferentCountByOrganization": {
+      "ARS": {
+        "referentCount": 0,
+        "userCount": 1
+      }
+    },
     "instances": []
   },
   {
