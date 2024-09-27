@@ -144,7 +144,7 @@
     "id": 3,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": false,
-    "scoreDisponibilite": 0,
+    "scoreDisponibilite": 3,
     "scoreTracabilite": 0,
     "scoreConfidentialite": 0,
     "scoreIntegrite": 0,
@@ -168,7 +168,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1727447662801,
+    "updateTime": 1727447734462,
     "versionMin": "Last version",
     "workshopUrls": [],
     "softwareExternalData": {
@@ -190,7 +190,18 @@
         }
       ]
     },
-    "similarExternalSoftwares": [],
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q1406",
+        "label": "Microsoft Windows",
+        "description": {
+          "fr": "famille de systèmes d'exploitation produits pour les ordinateurs personnels, les serveurs, les smartphones et les périphériques intégrés par Microsoft",
+          "en": "family of computer operating systems developed by Microsoft"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
     "instances": []
