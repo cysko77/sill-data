@@ -29,5 +29,38 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 2,
+        "name": "Microsoft Windows",
+        "description": "famille de systèmes d'exploitation produits pour les ordinateurs personnels, les serveurs, les smartphones et les périphériques intégrés par Microsoft",
+        "referencedSinceTime": 1727446269784,
+        "updateTime": 1727446269784,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "scoreDisponibilite": 4,
+        "scoreTracabilite": 3,
+        "scoreConfidentialite": 2,
+        "scoreIntegrite": 1,
+        "scopesProcessus": [
+            1,
+            8
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q1406",
+        "license": "non-free license",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "Last version",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
