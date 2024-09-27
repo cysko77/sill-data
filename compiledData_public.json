@@ -36,7 +36,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1727447543738,
+    "updateTime": 1727447573335,
     "versionMin": "1",
     "workshopUrls": [],
     "similarExternalSoftwares": [
@@ -46,6 +46,16 @@
         "description": {
           "fr": "famille de systèmes d'exploitation produits pour les ordinateurs personnels, les serveurs, les smartphones et les périphériques intégrés par Microsoft",
           "en": "family of computer operating systems developed by Microsoft"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      },
+      {
+        "externalId": "Q11261",
+        "label": "Microsoft Word",
+        "description": {
+          "fr": "logiciel informatique",
+          "en": "word processor software part of Microsoft 365"
         },
         "isLibreSoftware": false,
         "externalDataOrigin": "wikidata"
