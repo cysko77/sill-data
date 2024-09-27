@@ -4,7 +4,7 @@
     "name": "ez",
     "description": "ez",
     "referencedSinceTime": 1727375574607,
-    "updateTime": 1727437186271,
+    "updateTime": 1727437371161,
     "isStillInObservation": false,
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
@@ -14,8 +14,7 @@
     "scoreConfidentialite": 3,
     "scoreIntegrite": 4,
     "scopesProcessus": [
-      8,
-      1
+      8
     ],
     "license": "ze",
     "softwareType": {
