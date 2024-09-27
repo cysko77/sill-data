@@ -73,24 +73,30 @@
     },
     {
         "id": 3,
-        "name": "Microsoft Word",
-        "description": "logiciel informatique",
         "referencedSinceTime": 1727447662801,
-        "updateTime": 1727447662801,
+        "updateTime": 1727447734462,
         "isStillInObservation": false,
         "doRespectRgaa": true,
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": false,
-        "scoreDisponibilite": 0,
+        "scoreDisponibilite": 3,
         "scoreTracabilite": 0,
         "scoreConfidentialite": 0,
         "scoreIntegrite": 0,
         "scopesProcessus": [
             1
         ],
-        "similarSoftwareExternalDataIds": [],
-        "externalId": "Q11261",
+        "similarSoftwareExternalDataIds": [
+            "Q1406"
+        ],
+        "description": "logiciel informatique",
         "license": "EULA",
+        "versionMin": "Last version",
+        "name": "Microsoft Word",
         "softwareType": {
             "type": "desktop/mobile",
             "os": {
@@ -99,11 +105,7 @@
                 "mac": true
             }
         },
-        "versionMin": "Last version",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "externalId": "Q11261",
         "keywords": [
             "traitement de text",
             "travailler"
