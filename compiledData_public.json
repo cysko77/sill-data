@@ -13,10 +13,12 @@
     "id": 1,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
-    "scoreDisponibilite": 4,
-    "scoreTracabilite": 3,
-    "scoreConfidentialite": 2,
-    "scoreIntegrite": 1,
+    "dicts":{
+            "scoreDisponibilite": 4,
+            "scoreTracabilite": 3,
+            "scoreConfidentialite": 2,
+            "scoreIntegrite": 1
+    },
     "scopesProcessus": [
       2
     ],
@@ -84,10 +86,12 @@
     "id": 2,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": false,
-    "scoreDisponibilite": 4,
-    "scoreTracabilite": 3,
-    "scoreConfidentialite": 2,
-    "scoreIntegrite": 1,
+    "dicts":{
+            "scoreDisponibilite": 4,
+            "scoreTracabilite": 3,
+            "scoreConfidentialite": 2,
+            "scoreIntegrite": 1
+    },
     "scopesProcessus": [
       1,
       8
@@ -156,10 +160,12 @@
     "id": 3,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": false,
-    "scoreDisponibilite": 3,
-    "scoreTracabilite": 0,
-    "scoreConfidentialite": 0,
-    "scoreIntegrite": 0,
+   "dicts":{
+            "scoreDisponibilite": 4,
+            "scoreTracabilite": 3,
+            "scoreConfidentialite": 2,
+            "scoreIntegrite": 1
+    },
     "scopesProcessus": [
       1
     ],
