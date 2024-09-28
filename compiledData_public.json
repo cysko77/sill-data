@@ -13,11 +13,11 @@
     "id": 1,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
-    "dicts":{
-            "scoreDisponibilite": 4,
-            "scoreTracabilite": 3,
-            "scoreConfidentialite": 2,
-            "scoreIntegrite": 1
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 2
     },
     "scopesProcessus": [
       2
@@ -38,7 +38,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1727447573335,
+    "updateTime": 1727522652013,
     "versionMin": "1",
     "workshopUrls": [],
     "similarExternalSoftwares": [
@@ -86,11 +86,11 @@
     "id": 2,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": false,
-    "dicts":{
-            "scoreDisponibilite": 4,
-            "scoreTracabilite": 3,
-            "scoreConfidentialite": 2,
-            "scoreIntegrite": 1
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 1
     },
     "scopesProcessus": [
       1,
@@ -160,11 +160,11 @@
     "id": 3,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": false,
-   "dicts":{
-            "scoreDisponibilite": 4,
-            "scoreTracabilite": 3,
-            "scoreConfidentialite": 2,
-            "scoreIntegrite": 1
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 1
     },
     "scopesProcessus": [
       1

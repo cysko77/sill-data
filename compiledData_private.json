@@ -4,16 +4,16 @@
     "name": "Test logiciel",
     "description": "If you can't understand where it's coming from in the stack traces, please post screenshots or create reproducing sandboxes and we'll try to help. Most of these are probably coming from a few libraries, so the most productive thing to do is to reduce these cases and then file issues with those libraries.",
     "referencedSinceTime": 1727375574607,
-    "updateTime": 1727447573335,
+    "updateTime": 1727522652013,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
-    "dicts":{
-            "scoreDisponibilite": 4,
-            "scoreTracabilite": 3,
-            "scoreConfidentialite": 2,
-            "scoreIntegrite": 1
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 2
     },
     "scopesProcessus": [
       2
@@ -86,11 +86,11 @@
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": false,
-    "dicts":{
-            "scoreDisponibilite": 4,
-            "scoreTracabilite": 3,
-            "scoreConfidentialite": 2,
-            "scoreIntegrite": 1
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 1
     },
     "scopesProcessus": [
       1,
@@ -164,11 +164,11 @@
     "doRespectRgaa": true,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": false,
-    "dicts":{
-            "scoreDisponibilite": 4,
-            "scoreTracabilite": 3,
-            "scoreConfidentialite": 2,
-            "scoreIntegrite": 1
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 1
     },
     "scopesProcessus": [
       1
