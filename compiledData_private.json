@@ -232,7 +232,14 @@
         "externalDataOrigin": "wikidata"
       }
     ],
-    "users": [],
+    "users": [
+      {
+        "organization": "ARS",
+        "os": "windows",
+        "useCaseDescription": "POUR TRAVAILLER",
+        "version": "2.0.1"
+      }
+    ],
     "referents": [],
     "instances": []
   },
