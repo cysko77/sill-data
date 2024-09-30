@@ -223,5 +223,76 @@
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
     "instances": []
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "FactorFX",
+        "website": "https://www.factorfx.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3284"
+      }
+    ],
+    "categories": [],
+    "description": "service de messagerie web",
+    "doRespectRgaa": false,
+    "id": 4,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 3,
+      "scoreIntegrite": 2
+    },
+    "scopesProcessus": [
+      1,
+      2
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      ""
+    ],
+    "license": "GNU",
+    "name": "Outlook.com",
+    "referencedSinceTime": 1727680071586,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1727680071586,
+    "versionMin": "latest",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q219136",
+      "externalDataOrigin": "wikidata",
+      "label": "Outlook.com",
+      "description": {
+        "fr": "service de messagerie web",
+        "en": "Microsoft webmail service"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/220px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q376522",
+        "label": "WAMP",
+        "description": {
+          "fr": "logiciel de serveur Web",
+          "en": "software bundle for web applications"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": []
   }
 ]
