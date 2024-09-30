@@ -230,7 +230,16 @@
         "userCount": 1
       }
     },
-    "instances": []
+    "instances": [
+      {
+        "id": 2,
+        "organization": "ARS IDF",
+        "targetAudience": "Développeur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": []
+      }
+    ]
   },
   {
     "serviceProviders": [

@@ -248,7 +248,17 @@
         "useCaseDescription": "test"
       }
     ],
-    "instances": []
+    "instances": [
+      {
+        "id": 2,
+        "organization": "ARS IDF",
+        "targetAudience": "Développeur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      }
+    ]
   },
   {
     "id": 4,
