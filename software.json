@@ -156,5 +156,39 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 5,
+        "name": "Amazon Web Services",
+        "description": "service de cloud computing",
+        "referencedSinceTime": 1727690472332,
+        "updateTime": 1727690472332,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 4,
+            "scoreTracabilite": 4,
+            "scoreConfidentialite": 4,
+            "scoreIntegrite": 4
+        },
+        "scopesProcessus": [
+            1
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q456157",
+        "license": "GNU",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "fdsf"
+        ]
     }
 ]
