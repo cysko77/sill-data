@@ -20,7 +20,10 @@
       "scoreIntegrite": 2
     },
     "scopesProcessus": [
-      2
+      2,
+      38,
+      52,
+      1
     ],
     "isStillInObservation": false,
     "keywords": [
@@ -38,7 +41,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1727523128166,
+    "updateTime": 1727682633918,
     "versionMin": "1",
     "workshopUrls": [],
     "similarExternalSoftwares": [
