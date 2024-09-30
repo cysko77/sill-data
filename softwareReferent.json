@@ -5,5 +5,11 @@
         "isExpert": false,
         "serviceUrl": "",
         "useCaseDescription": "a"
+    },
+    {
+        "softwareId": 3,
+        "agentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "isExpert": true,
+        "useCaseDescription": "test"
     }
 ]
