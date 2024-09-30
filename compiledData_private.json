@@ -240,7 +240,14 @@
         "version": "2.0.1"
       }
     ],
-    "referents": [],
+    "referents": [
+      {
+        "email": "cyrille.kozlowski@ars.sante.fr",
+        "organization": "ARS",
+        "isExpert": true,
+        "useCaseDescription": "test"
+      }
+    ],
     "instances": []
   },
   {

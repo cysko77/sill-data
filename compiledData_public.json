@@ -223,10 +223,10 @@
         "externalDataOrigin": "wikidata"
       }
     ],
-    "hasExpertReferent": false,
+    "hasExpertReferent": true,
     "userAndReferentCountByOrganization": {
       "ARS": {
-        "referentCount": 0,
+        "referentCount": 1,
         "userCount": 1
       }
     },
