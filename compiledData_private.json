@@ -331,5 +331,166 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 5,
+    "name": "Amazon Web Services",
+    "description": "service de cloud computing",
+    "referencedSinceTime": 1727690472332,
+    "updateTime": 1727690472332,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopesProcessus": [
+      1
+    ],
+    "license": "GNU",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "fdsf"
+    ],
+    "serviceProviders": [
+      {
+        "name": "YPSI",
+        "website": "https://www.ypsi.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3280"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "Data Bene",
+        "website": "https://data-bene.io",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3188"
+      },
+      {
+        "name": "2i2L",
+        "website": "https://www.2i2l.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/57"
+      },
+      {
+        "name": "Bearstech",
+        "website": "https://bearstech.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
+      },
+      {
+        "name": "Ethicsys",
+        "website": "https://www.ethicsys.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3304"
+      },
+      {
+        "name": "Champs-Libres",
+        "website": "https://www.champs-libres.coop",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/991"
+      },
+      {
+        "name": "Ouidou",
+        "website": "https://www.ouidou.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3857"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "SIGMAZ Consilium",
+        "website": "https://sigmaz-consilium.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3893"
+      },
+      {
+        "name": "BeeZim",
+        "website": "https://www.beezim.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3445"
+      },
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
+      },
+      {
+        "name": "Liberasys",
+        "website": "https://www.liberasys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2351"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "Julien Palard",
+        "website": "https://mdk.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3408"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q456157",
+      "externalDataOrigin": "wikidata",
+      "label": "Amazon Web Services",
+      "description": {
+        "fr": "service de cloud computing",
+        "en": "subsidiary of Amazon that provides on-demand cloud computing platforms on a metered pay-as-you-go basis"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/220px-Amazon_Web_Services_Logo.svg.png",
+      "websiteUrl": "https://aws.amazon.com/",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Amazon",
+          "id": "Q3884"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
