@@ -116,5 +116,42 @@
             "traitement de text",
             "travailler"
         ]
+    },
+    {
+        "id": 4,
+        "name": "Outlook.com",
+        "description": "service de messagerie web",
+        "referencedSinceTime": 1727680071586,
+        "updateTime": 1727680071586,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 3,
+            "scoreTracabilite": 4,
+            "scoreConfidentialite": 3,
+            "scoreIntegrite": 2
+        },
+        "scopesProcessus": [
+            1,
+            2
+        ],
+        "similarSoftwareExternalDataIds": [
+            "Q376522"
+        ],
+        "externalId": "Q219136",
+        "license": "GNU",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "latest",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
