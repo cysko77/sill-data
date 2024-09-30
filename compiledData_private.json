@@ -832,6 +832,16 @@
     ],
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 4,
+        "organization": "ARS PACA",
+        "targetAudience": "Développeur",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      }
+    ]
   }
 ]
