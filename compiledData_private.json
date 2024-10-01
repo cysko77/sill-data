@@ -530,6 +530,11 @@
     "description": "bibliothèque JavaScript",
     "referencedSinceTime": 1727769771544,
     "updateTime": 1727769771544,
+    "dereferencing": {
+      "time": 1727793782430,
+      "reason": "out",
+      "lastRecommendedVersion": "v18.3.1"
+    },
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
