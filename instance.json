@@ -24,14 +24,14 @@
     {
         "id": 3,
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
-        "organization": "ARS IDF",
         "mainSoftwareSillId": 5,
+        "organization": "ARS IDF",
         "otherSoftwareWikidataIds": [],
-        "targetAudience": "Développeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
+        "cloudValue": "outscale-snc",
+        "softwareType": "cloud",
+        "targetAudience": "Développeur web",
         "referencedSinceTime": 1727690494926,
-        "updateTime": 1727690494926
+        "updateTime": 1727781762358
     },
     {
         "id": 4,
