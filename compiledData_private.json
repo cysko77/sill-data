@@ -872,5 +872,126 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 7,
+    "name": "Java",
+    "description": "langage de programmation informatique orienté objet",
+    "referencedSinceTime": 1727780086850,
+    "updateTime": 1727780086850,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopesProcessus": [
+      132
+    ],
+    "license": "GPL",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "javamelody-core-2.2.0",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "POP-IT",
+        "website": "http://www.pop-it.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/259"
+      },
+      {
+        "name": "Syloé",
+        "website": "http://www.syloe.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/132"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q251",
+      "externalDataOrigin": "wikidata",
+      "label": "Java",
+      "description": {
+        "fr": "langage de programmation informatique orienté objet",
+        "en": "object-oriented programming language"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/e/eb/Java_get_powered.jpg",
+      "websiteUrl": "https://www.oracle.com/java/",
+      "license": "GPL",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "James Gosling",
+          "id": "Q92622"
+        },
+        {
+          "name": "Sun Microsystems",
+          "id": "Q14647"
+        },
+        {
+          "name": "ORCL",
+          "id": "Q19900"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q15777",
+        "label": "C",
+        "description": {
+          "fr": "langage de programmation créé en 1972",
+          "en": "general-purpose programming language"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "comptoirDuLibreSoftware": {
+      "id": 195,
+      "created": "2018-09-04T09:00:29+00:00",
+      "modified": "2022-08-07T14:07:05+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/195",
+      "name": "JavaMelody",
+      "licence": "Apache License 2.0",
+      "external_resources": {
+        "website": "https://github.com/javamelody/javamelody/wiki",
+        "repository": "https://github.com/javamelody/javamelody"
+      },
+      "providers": [],
+      "users": [],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/JavaMelody/avatar/Logo-00-logiciel-par-defaut.png",
+      "keywords": []
+    },
+    "latestVersion": {
+      "semVer": "javamelody-core-2.2.0",
+      "publicationTime": 1717036014000
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
