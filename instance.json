@@ -32,17 +32,5 @@
         "osSelectValue": "windows",
         "referencedSinceTime": 1727690494926,
         "updateTime": 1727690494926
-    },
-    {
-        "id": 4,
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
-        "organization": "ARS PACA",
-        "mainSoftwareSillId": 6,
-        "otherSoftwareWikidataIds": [],
-        "targetAudience": "Développeur",
-        "softwareType": "cloud",
-        "cloudValue": "dnum",
-        "referencedSinceTime": 1727708325410,
-        "updateTime": 1727708325410
     }
 ]

@@ -193,28 +193,30 @@
     },
     {
         "id": 6,
-        "name": "Microsoft Azure",
-        "description": "plateforme d'informatique en nuage exploitée par Microsoft",
-        "referencedSinceTime": 1727708261178,
-        "updateTime": 1727708261178,
+        "name": "React",
+        "description": "bibliothèque JavaScript",
+        "referencedSinceTime": 1727769771544,
+        "updateTime": 1727769771544,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": true,
         "dicts": {
             "scoreDisponibilite": 4,
-            "scoreTracabilite": 3,
-            "scoreConfidentialite": 3,
+            "scoreTracabilite": 2,
+            "scoreConfidentialite": 2,
             "scoreIntegrite": 4
         },
         "scopesProcessus": [
-            1389
+            4,
+            5,
+            6
         ],
         "similarSoftwareExternalDataIds": [
-            "Q456157"
+            "Q56062435"
         ],
-        "externalId": "Q725967",
-        "license": "GNU",
+        "externalId": "Q19399674",
+        "license": "MIT licence",
         "softwareType": {
             "type": "cloud"
         },
@@ -224,7 +226,7 @@
         "categories": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
         "keywords": [
-            "fdsf"
+            ""
         ]
     }
 ]
