@@ -235,6 +235,8 @@
         "id": 2,
         "organization": "ARS IDF",
         "targetAudience": "Développeur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
         "otherWikidataSoftwares": []
       }
     ]
@@ -308,7 +310,16 @@
     ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": []
+    "instances": [
+      {
+        "id": 4,
+        "organization": "ARS IDF",
+        "targetAudience": "dev",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "otherWikidataSoftwares": []
+      }
+    ]
   },
   {
     "serviceProviders": [
@@ -473,6 +484,8 @@
         "id": 3,
         "organization": "ARS IDF",
         "targetAudience": "Développeur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
         "otherWikidataSoftwares": []
       }
     ]
