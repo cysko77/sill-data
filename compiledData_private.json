@@ -505,9 +505,9 @@
       {
         "id": 3,
         "organization": "ARS IDF",
-        "targetAudience": "Développeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "outscale-snc",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
