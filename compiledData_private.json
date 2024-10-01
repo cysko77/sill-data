@@ -152,6 +152,8 @@
         "id": 1,
         "organization": "ARS IDF",
         "targetAudience": "Ars",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
       }
