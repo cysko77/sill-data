@@ -148,6 +148,14 @@
         "softwareType": "cloud",
         "cloudValue": "dnum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 5,
+        "organization": "ARS PACA",
+        "targetAudience": "Chef de projet",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": []
       }
     ]
   },

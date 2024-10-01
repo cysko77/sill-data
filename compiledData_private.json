@@ -156,6 +156,15 @@
         "cloudValue": "dnum",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr"
+      },
+      {
+        "id": 5,
+        "organization": "ARS PACA",
+        "targetAudience": "Chef de projet",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
