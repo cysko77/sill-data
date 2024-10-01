@@ -227,7 +227,12 @@
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
         "keywords": [
             ""
-        ]
+        ],
+        "dereferencing": {
+            "time": 1727793782430,
+            "reason": "out",
+            "lastRecommendedVersion": "v18.3.1"
+        }
     },
     {
         "id": 7,
