@@ -253,8 +253,6 @@
         "id": 2,
         "organization": "ARS IDF",
         "targetAudience": "Développeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
@@ -496,8 +494,6 @@
         "id": 3,
         "organization": "ARS IDF",
         "targetAudience": "Développeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
@@ -505,24 +501,26 @@
   },
   {
     "id": 6,
-    "name": "Microsoft Azure",
-    "description": "plateforme d'informatique en nuage exploitée par Microsoft",
-    "referencedSinceTime": 1727708261178,
-    "updateTime": 1727708261178,
+    "name": "React",
+    "description": "bibliothèque JavaScript",
+    "referencedSinceTime": 1727769771544,
+    "updateTime": 1727769771544,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": true,
     "dicts": {
       "scoreDisponibilite": 4,
-      "scoreTracabilite": 3,
-      "scoreConfidentialite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 2,
       "scoreIntegrite": 4
     },
     "scopesProcessus": [
-      1389
+      4,
+      5,
+      6
     ],
-    "license": "GNU",
+    "license": "MIT licence",
     "softwareType": {
       "type": "cloud"
     },
@@ -532,7 +530,7 @@
     "categories": [],
     "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
     "keywords": [
-      "fdsf"
+      ""
     ],
     "serviceProviders": [
       {
@@ -709,32 +707,55 @@
       }
     ],
     "softwareExternalData": {
-      "externalId": "Q725967",
+      "externalId": "Q19399674",
       "externalDataOrigin": "wikidata",
-      "label": "Microsoft Azure",
+      "label": "React",
       "description": {
-        "fr": "plateforme d'informatique en nuage exploitée par Microsoft",
-        "en": "cloud computing platform operated by Microsoft"
+        "fr": "bibliothèque JavaScript",
+        "en": "JavaScript library for building user interfaces"
       },
-      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/220px-Microsoft_Azure.svg.png",
-      "websiteUrl": "https://azure.microsoft.com/",
-      "isLibreSoftware": false,
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/220px-React_Logo_SVG.svg.png",
+      "sourceUrl": "https://github.com/facebook/react",
+      "websiteUrl": "https://react.dev/",
+      "documentationUrl": "https://reactjs.org/docs/getting-started.html",
+      "license": "MIT licence",
+      "isLibreSoftware": true,
       "developers": [
         {
-          "name": "Microsoft",
-          "id": "Q2283"
+          "name": "Meta Platforms",
+          "id": "Q380"
+        },
+        {
+          "name": "Harshil Patel",
+          "id": "Q59307003"
+        },
+        {
+          "name": "Sebastian Markbåge",
+          "id": "Q108496793"
+        },
+        {
+          "name": "Dan Abramov",
+          "id": "Q98363379"
+        },
+        {
+          "name": "Rachel Nabors",
+          "id": "Q7279338"
+        },
+        {
+          "name": "Andrew Clark",
+          "id": "Q108498206"
         }
       ]
     },
     "similarExternalSoftwares": [
       {
-        "externalId": "Q456157",
-        "label": "Amazon Web Services",
+        "externalId": "Q56062435",
+        "label": "Next.js",
         "description": {
-          "fr": "service de cloud computing",
-          "en": "subsidiary of Amazon that provides on-demand cloud computing platforms on a metered pay-as-you-go basis"
+          "fr": "bibliothèque logicielle JavaScript",
+          "en": "Framework per applicazioni web"
         },
-        "isLibreSoftware": false,
+        "isLibreSoftware": true,
         "externalDataOrigin": "wikidata"
       }
     ],
@@ -830,18 +851,12 @@
         "url": "https://annuaire.cnll.fr/societes/451952295"
       }
     ],
+    "latestVersion": {
+      "semVer": "v18.3.1",
+      "publicationTime": 1714161222000
+    },
     "users": [],
     "referents": [],
-    "instances": [
-      {
-        "id": 4,
-        "organization": "ARS PACA",
-        "targetAudience": "Développeur",
-        "softwareType": "cloud",
-        "cloudValue": "dnum",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
-      }
-    ]
+    "instances": []
   }
 ]
