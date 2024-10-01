@@ -228,5 +228,42 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 7,
+        "name": "Java",
+        "description": "langage de programmation informatique orienté objet",
+        "referencedSinceTime": 1727780086850,
+        "updateTime": 1727780086850,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 4,
+            "scoreTracabilite": 3,
+            "scoreConfidentialite": 4,
+            "scoreIntegrite": 4
+        },
+        "scopesProcessus": [
+            132
+        ],
+        "similarSoftwareExternalDataIds": [
+            "Q15777"
+        ],
+        "externalId": "Q251",
+        "comptoirDuLibreId": 195,
+        "license": "GPL",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "javamelody-core-2.2.0",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
