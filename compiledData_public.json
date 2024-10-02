@@ -171,6 +171,14 @@
         "targetAudience": "dev",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 10,
+        "organization": "ARS paca",
+        "targetAudience": "directeur",
+        "softwareType": "cloud",
+        "cloudValue": "nubo",
+        "otherWikidataSoftwares": []
       }
     ]
   },

@@ -182,6 +182,15 @@
         "softwareType": "stack",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 10,
+        "organization": "ARS paca",
+        "targetAudience": "directeur",
+        "softwareType": "cloud",
+        "cloudValue": "nubo",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
