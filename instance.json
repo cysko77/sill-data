@@ -104,5 +104,17 @@
         "softwareType": "stack",
         "referencedSinceTime": 1727871725899,
         "updateTime": 1727871725899
+    },
+    {
+        "id": 10,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS paca",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "directeur",
+        "softwareType": "cloud",
+        "cloudValue": "nubo",
+        "referencedSinceTime": 1727871849778,
+        "updateTime": 1727871849778
     }
 ]
