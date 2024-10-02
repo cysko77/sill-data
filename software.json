@@ -270,5 +270,41 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 8,
+        "name": "C#",
+        "description": "langage de programmation informatique",
+        "referencedSinceTime": 1727855192871,
+        "updateTime": 1727855192871,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 3,
+            "scoreTracabilite": 2,
+            "scoreConfidentialite": 4,
+            "scoreIntegrite": 4
+        },
+        "scopesProcessus": [
+            1
+        ],
+        "similarSoftwareExternalDataIds": [
+            "Q2407"
+        ],
+        "externalId": "Q2370",
+        "license": "GNU",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "fdsf"
+        ]
     }
 ]
