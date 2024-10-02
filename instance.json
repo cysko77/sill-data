@@ -69,5 +69,17 @@
         "softwareType": "stack",
         "referencedSinceTime": 1727862585951,
         "updateTime": 1727862585951
+    },
+    {
+        "id": 7,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS ARA",
+        "mainSoftwareSillId": 5,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Chef de projet",
+        "softwareType": "cloud",
+        "cloudValue": "ovh",
+        "referencedSinceTime": 1727869105893,
+        "updateTime": 1727869105893
     }
 ]
