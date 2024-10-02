@@ -1121,5 +1121,114 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 9,
+    "name": "Microsoft Azure",
+    "description": "plateforme d'informatique en nuage exploitée par Microsoft",
+    "referencedSinceTime": 1727862028688,
+    "updateTime": 1727862028688,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopesProcessus": [
+      6
+    ],
+    "license": "GNU",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "AtolCD",
+        "website": "https://www.atolcd.com/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/13"
+      },
+      {
+        "name": "Bearstech",
+        "website": "https://bearstech.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
+      },
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "France Labs",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/537588089",
+        "siren": "537588089"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q725967",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Azure",
+      "description": {
+        "fr": "plateforme d'informatique en nuage exploitée par Microsoft",
+        "en": "cloud computing platform operated by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/220px-Microsoft_Azure.svg.png",
+      "websiteUrl": "https://azure.microsoft.com/",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q456157",
+        "label": "Amazon Web Services",
+        "description": {
+          "fr": "service de cloud computing",
+          "en": "subsidiary of Amazon that provides on-demand cloud computing platforms on a metered pay-as-you-go basis"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "France Labs",
+        "siren": "537588089",
+        "url": "https://annuaire.cnll.fr/societes/537588089"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
