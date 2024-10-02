@@ -1201,6 +1201,14 @@
     ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": []
+    "instances": [
+      {
+        "id": 6,
+        "organization": "ARS IDF",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
+      }
+    ]
   }
 ]
