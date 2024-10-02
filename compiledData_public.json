@@ -497,6 +497,14 @@
         "softwareType": "cloud",
         "cloudValue": "outscale-snc",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 7,
+        "organization": "ARS ARA",
+        "targetAudience": "Chef de projet",
+        "softwareType": "cloud",
+        "cloudValue": "ovh",
+        "otherWikidataSoftwares": []
       }
     ]
   },

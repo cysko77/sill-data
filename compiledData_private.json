@@ -521,6 +521,15 @@
         "cloudValue": "outscale-snc",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 7,
+        "organization": "ARS ARA",
+        "targetAudience": "Chef de projet",
+        "softwareType": "cloud",
+        "cloudValue": "ovh",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
