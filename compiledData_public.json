@@ -164,6 +164,13 @@
         "softwareType": "cloud",
         "cloudValue": "dnum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 9,
+        "organization": "ARS idf",
+        "targetAudience": "dev",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
