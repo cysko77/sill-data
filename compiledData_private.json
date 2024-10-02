@@ -1009,5 +1009,117 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 8,
+    "name": "C#",
+    "description": "langage de programmation informatique",
+    "referencedSinceTime": 1727855192871,
+    "updateTime": 1727855192871,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopesProcessus": [
+      1
+    ],
+    "license": "GNU",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "fdsf"
+    ],
+    "serviceProviders": [
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/534906698",
+        "siren": "534906698"
+      },
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "OPCoach",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/512740572",
+        "siren": "512740572"
+      },
+      {
+        "name": "BlueMind",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/525347498",
+        "siren": "525347498"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q2370",
+      "externalDataOrigin": "wikidata",
+      "label": "C#",
+      "description": {
+        "fr": "langage de programmation informatique",
+        "en": "multi-paradigm (object-oriented) programming language"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/220px-C_Sharp_Logo_2023.svg.png",
+      "sourceUrl": "https://github.com/dotnet/csharplang",
+      "websiteUrl": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q2407",
+        "label": "C++",
+        "description": {
+          "fr": "langage de programmation",
+          "en": "general-purpose programming language"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "APLOSE",
+        "siren": "534906698",
+        "url": "https://annuaire.cnll.fr/societes/534906698"
+      },
+      {
+        "name": "OPCoach",
+        "siren": "512740572",
+        "url": "https://annuaire.cnll.fr/societes/512740572"
+      },
+      {
+        "name": "BlueMind",
+        "siren": "525347498",
+        "url": "https://annuaire.cnll.fr/societes/525347498"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
