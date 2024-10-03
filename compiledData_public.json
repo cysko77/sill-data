@@ -1256,5 +1256,122 @@
         "otherWikidataSoftwares": []
       }
     ]
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/534906698",
+        "siren": "534906698"
+      },
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "Logmotion",
+        "website": "https://logmotion.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4037"
+      },
+      {
+        "name": "SIGMAZ Consilium",
+        "website": "https://sigmaz-consilium.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3893"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      },
+      {
+        "name": "XWIKI",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/477865281",
+        "siren": "477865281"
+      },
+      {
+        "name": "NS-Team",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/449396704",
+        "siren": "449396704"
+      },
+      {
+        "name": "EVOLIX",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/451952295",
+        "siren": "451952295"
+      }
+    ],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "APLOSE",
+        "siren": "534906698",
+        "url": "https://annuaire.cnll.fr/societes/534906698"
+      },
+      {
+        "name": "XWIKI",
+        "siren": "477865281",
+        "url": "https://annuaire.cnll.fr/societes/477865281"
+      },
+      {
+        "name": "NS-Team",
+        "siren": "449396704",
+        "url": "https://annuaire.cnll.fr/societes/449396704"
+      },
+      {
+        "name": "EVOLIX",
+        "siren": "451952295",
+        "url": "https://annuaire.cnll.fr/societes/451952295"
+      }
+    ],
+    "categories": [],
+    "description": "No description",
+    "doRespectRgaa": false,
+    "id": 10,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 2
+    },
+    "scopesProcessus": [
+      121
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "sécurité"
+    ],
+    "license": "GNU",
+    "name": "Cyberwatch",
+    "referencedSinceTime": 1727961377140,
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false
+      }
+    },
+    "testUrls": [],
+    "updateTime": 1727961377140,
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q113835054",
+      "externalDataOrigin": "wikidata",
+      "label": "Cyberwatch",
+      "description": {
+        "en": "No description"
+      },
+      "websiteUrl": "https://cyberwatch.fr",
+      "isLibreSoftware": false,
+      "developers": []
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": []
   }
 ]
