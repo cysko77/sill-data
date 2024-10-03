@@ -528,6 +528,13 @@
         "softwareType": "cloud",
         "cloudValue": "ovh",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 11,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
