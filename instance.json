@@ -127,5 +127,17 @@
         "softwareType": "stack",
         "referencedSinceTime": 1727941032398,
         "updateTime": 1727941032398
+    },
+    {
+        "id": 12,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Provence-Alpes-Côte d'Azur",
+        "mainSoftwareSillId": 9,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Chef de projet",
+        "softwareType": "cloud",
+        "cloudValue": "nubo",
+        "referencedSinceTime": 1727942256562,
+        "updateTime": 1727942256562
     }
 ]
