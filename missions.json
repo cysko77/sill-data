@@ -166,5 +166,5 @@
  { "secteur_id": 12, "mission_id": "7", "mission_label": "Elaboration et suivi du PRS et de ses composantes (COS, SRS et PRAPS)" },
  { "secteur_id": 12, "mission_id": "11", "mission_label": "Promotion des parcours de santé et de vie, de l'innovation en santé et animation territoriale" },
  { "secteur_id": 12, "mission_id": "910", "mission_label": "Management général" },
- { "secteur_id": 12, "mission_id": "960", "mission_label": "Secrétariat de direction" }, 
+ { "secteur_id": 12, "mission_id": "960", "mission_label": "Secrétariat de direction" }
 ]
