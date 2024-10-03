@@ -116,5 +116,16 @@
         "cloudValue": "nubo",
         "referencedSinceTime": 1727871849778,
         "updateTime": 1727871849778
+    },
+    {
+        "id": 11,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Centre-Val de Loire",
+        "mainSoftwareSillId": 5,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "referencedSinceTime": 1727941032398,
+        "updateTime": 1727941032398
     }
 ]
