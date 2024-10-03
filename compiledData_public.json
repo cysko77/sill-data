@@ -1246,6 +1246,14 @@
         "targetAudience": "Développeur",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 12,
+        "organization": "ARS Provence-Alpes-Côte d'Azur",
+        "targetAudience": "Chef de projet",
+        "softwareType": "cloud",
+        "cloudValue": "nubo",
+        "otherWikidataSoftwares": []
       }
     ]
   }
