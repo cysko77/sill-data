@@ -1,0 +1,14 @@
+[
+ { "secteur_id": 1,  "secteur_label": "Ambulatoires" },
+ { "secteur_id": 2,  "secteur_label": "Appui" },
+ { "secteur_id": 3,  "secteur_label": "Gestion sanitaire" },
+ { "secteur_id": 4,  "secteur_label": "Hospitaliers" },
+ { "secteur_id": 5,  "secteur_label": "Médico-social - PA" },
+ { "secteur_id": 6,  "secteur_label": "Médico-social - PH" },
+ { "secteur_id": 7,  "secteur_label" : "Prévention promotion santé"},
+ { "secteur_id": 8,  "secteur_label" : "Professionnels santé"},
+ { "secteur_id": 9,  "secteur_label" : "Sécurité sanitaire"},
+ { "secteur_id": 10, "secteur_label" : "Situations particulières"},
+ { "secteur_id": 11, "secteur_label" : "Support"},
+ { "secteur_id": 12, "secteur_label" : "Transverse"}
+]
