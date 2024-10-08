@@ -186,6 +186,13 @@
         "targetAudience": "Développeur web",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 27,
+        "organization": "ARS Bretagne",
+        "targetAudience": "web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
