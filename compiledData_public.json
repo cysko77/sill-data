@@ -1126,7 +1126,7 @@
       }
     ],
     "categories": [],
-    "description": "langage de programmation informatique",
+    "description": "langage de programmation",
     "doRespectRgaa": false,
     "id": 8,
     "isFromFrenchPublicService": false,
@@ -1151,7 +1151,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1727855192871,
+    "updateTime": 1728397665210,
     "versionMin": "v18.3.1",
     "workshopUrls": [],
     "softwareExternalData": {
@@ -1173,18 +1173,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q2407",
-        "label": "C++",
-        "description": {
-          "fr": "langage de programmation",
-          "en": "general-purpose programming language"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
     "instances": [

@@ -1119,9 +1119,9 @@
   {
     "id": 8,
     "name": "C#",
-    "description": "langage de programmation informatique",
+    "description": "langage de programmation",
     "referencedSinceTime": 1727855192871,
-    "updateTime": 1727855192871,
+    "updateTime": 1728397665210,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
@@ -1195,18 +1195,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q2407",
-        "label": "C++",
-        "description": {
-          "fr": "langage de programmation",
-          "en": "general-purpose programming language"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "annuaireCnllServiceProviders": [
       {
         "name": "APLOSE",
