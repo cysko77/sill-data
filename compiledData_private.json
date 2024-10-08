@@ -1465,5 +1465,71 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 11,
+    "name": "YouTube",
+    "description": "site web d'hébergement de vidéos",
+    "referencedSinceTime": 1728392632663,
+    "updateTime": 1728392632663,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopesProcessus": [
+      1
+    ],
+    "license": "EULA",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "abcd",
+      "efgh",
+      "ijkl"
+    ],
+    "serviceProviders": [],
+    "softwareExternalData": {
+      "externalId": "Q866",
+      "externalDataOrigin": "wikidata",
+      "label": "YouTube",
+      "description": {
+        "fr": "site web d'hébergement de vidéos",
+        "en": "American video-sharing platform owned by Alphabet Inc."
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/220px-YouTube_Logo_2017.svg.png",
+      "websiteUrl": "https://www.youtube.com/",
+      "license": "EULA",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Steve Chen",
+          "id": "Q379396"
+        },
+        {
+          "name": "Chad Hurley",
+          "id": "Q370299"
+        },
+        {
+          "name": "Jawed Karim",
+          "id": "Q76694"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
