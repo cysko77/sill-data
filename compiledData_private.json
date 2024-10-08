@@ -191,6 +191,14 @@
         "cloudValue": "nubo",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 14,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
@@ -412,6 +420,11 @@
     ],
     "serviceProviders": [
       {
+        "name": "Oziolab",
+        "website": "https://www.oziolab.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
+      },
+      {
         "name": "YPSI",
         "website": "https://www.ypsi.fr",
         "cdlUrl": "https://comptoir-du-libre.org/fr/users/3280"
@@ -606,6 +619,11 @@
       ""
     ],
     "serviceProviders": [
+      {
+        "name": "Oziolab",
+        "website": "https://www.oziolab.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
+      },
       {
         "name": "Lan2Net",
         "cnllUrl": "https://annuaire.cnll.fr/societes/524457520",
