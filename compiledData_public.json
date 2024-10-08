@@ -1126,7 +1126,7 @@
       }
     ],
     "categories": [],
-    "description": "langage de programmation",
+    "description": "langage",
     "doRespectRgaa": false,
     "id": 8,
     "isFromFrenchPublicService": false,
@@ -1151,7 +1151,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1728397665210,
+    "updateTime": 1728397693248,
     "versionMin": "v18.3.1",
     "workshopUrls": [],
     "softwareExternalData": {
