@@ -154,12 +154,14 @@
     },
     {
         "id": 5,
-        "name": "Amazon Web Services",
-        "description": "service de cloud computing",
         "referencedSinceTime": 1727690472332,
-        "updateTime": 1727690472332,
+        "updateTime": 1728397584520,
         "isStillInObservation": false,
         "doRespectRgaa": false,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": false,
         "dicts": {
@@ -172,16 +174,14 @@
             1
         ],
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q456157",
+        "description": "service de cloud computing",
         "license": "GNU",
+        "versionMin": "v18.3.1",
+        "name": "Amazon Web Services",
         "softwareType": {
             "type": "cloud"
         },
-        "versionMin": "v18.3.1",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "externalId": "Q456157",
         "keywords": [
             "fdsf"
         ]
