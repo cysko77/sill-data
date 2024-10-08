@@ -571,6 +571,13 @@
         "targetAudience": "Développeur web",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 28,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "swag",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
