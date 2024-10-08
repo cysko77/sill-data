@@ -555,6 +555,13 @@
         "softwareType": "desktop",
         "osSelectValue": "linux",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 17,
+        "organization": "ARS Grand Est",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
