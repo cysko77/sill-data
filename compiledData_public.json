@@ -221,15 +221,10 @@
     "name": "Microsoft Word",
     "referencedSinceTime": 1727447662801,
     "softwareType": {
-      "type": "desktop/mobile",
-      "os": {
-        "windows": true,
-        "linux": true,
-        "mac": true
-      }
+      "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1727447734462,
+    "updateTime": 1728387301706,
     "versionMin": "Last version",
     "workshopUrls": [],
     "softwareExternalData": {
