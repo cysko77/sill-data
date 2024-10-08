@@ -1226,7 +1226,16 @@
     ],
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 29,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "dev",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      }
+    ]
   },
   {
     "id": 9,
