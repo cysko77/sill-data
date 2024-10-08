@@ -150,5 +150,16 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728043364744,
         "updateTime": 1728043364744
+    },
+    {
+        "id": 14,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Centre-Val de Loire",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728377680538,
+        "updateTime": 1728377680538
     }
 ]
