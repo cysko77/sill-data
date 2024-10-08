@@ -284,5 +284,17 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728394486944,
         "updateTime": 1728394486944
+    },
+    {
+        "id": 26,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Corse",
+        "mainSoftwareSillId": 11,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "developpeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "referencedSinceTime": 1728397313243,
+        "updateTime": 1728397313243
     }
 ]
