@@ -1183,6 +1183,13 @@
         "targetAudience": "dev",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 30,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "dev",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
