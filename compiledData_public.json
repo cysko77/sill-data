@@ -1279,6 +1279,14 @@
         "softwareType": "cloud",
         "cloudValue": "nubo",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 15,
+        "organization": "ARS Guyane",
+        "targetAudience": "Ars",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "otherWikidataSoftwares": []
       }
     ]
   },
