@@ -547,6 +547,14 @@
         "targetAudience": "Développeur web",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 16,
+        "organization": "ARS Corse",
+        "targetAudience": "Développeur",
+        "softwareType": "desktop",
+        "osSelectValue": "linux",
+        "otherWikidataSoftwares": []
       }
     ]
   },
