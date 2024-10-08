@@ -81,7 +81,7 @@
     {
         "id": 3,
         "referencedSinceTime": 1727447662801,
-        "updateTime": 1727447734462,
+        "updateTime": 1728387301706,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -107,12 +107,7 @@
         "versionMin": "Last version",
         "name": "Microsoft Word",
         "softwareType": {
-            "type": "desktop/mobile",
-            "os": {
-                "windows": true,
-                "linux": true,
-                "mac": true
-            }
+            "type": "cloud"
         },
         "externalId": "Q11261",
         "keywords": [
