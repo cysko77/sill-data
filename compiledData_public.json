@@ -1501,6 +1501,13 @@
         "targetAudience": "Développeur",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 21,
+        "organization": "ARS Guyane",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   }
