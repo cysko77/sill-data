@@ -1536,6 +1536,14 @@
         "targetAudience": "Développeur",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 26,
+        "organization": "ARS Corse",
+        "targetAudience": "developpeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "otherWikidataSoftwares": []
       }
     ]
   }

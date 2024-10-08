@@ -1586,6 +1586,15 @@
         "softwareType": "stack",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 26,
+        "organization": "ARS Corse",
+        "targetAudience": "developpeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   }
