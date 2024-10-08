@@ -240,5 +240,16 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728394035317,
         "updateTime": 1728394035317
+    },
+    {
+        "id": 22,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Guyane",
+        "mainSoftwareSillId": 11,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728394351693,
+        "updateTime": 1728394351693
     }
 ]
