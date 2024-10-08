@@ -269,7 +269,7 @@
     {
         "id": 8,
         "referencedSinceTime": 1727855192871,
-        "updateTime": 1728397665210,
+        "updateTime": 1728397693248,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
@@ -288,7 +288,7 @@
             1
         ],
         "similarSoftwareExternalDataIds": [],
-        "description": "langage de programmation",
+        "description": "langage",
         "license": "GNU",
         "versionMin": "v18.3.1",
         "name": "C#",
