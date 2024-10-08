@@ -379,12 +379,14 @@
     },
     {
         "id": 11,
-        "name": "YouTube",
-        "description": "site web d'hébergement de vidéos",
         "referencedSinceTime": 1728392632663,
-        "updateTime": 1728392632663,
+        "updateTime": 1728393164095,
         "isStillInObservation": false,
         "doRespectRgaa": false,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": false,
         "dicts": {
@@ -397,16 +399,14 @@
             1
         ],
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q866",
+        "description": "site web d'hébergement de vidéos",
         "license": "EULA",
+        "versionMin": "v18.3.1",
+        "name": "YouTube",
         "softwareType": {
             "type": "cloud"
         },
-        "versionMin": "v18.3.1",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "externalId": "Q866",
         "keywords": [
             "abcd",
             "efgh",
