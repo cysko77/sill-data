@@ -42,5 +42,17 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728480383648,
         "updateTime": 1728480383648
+    },
+    {
+        "id": 5,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Normandie",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "referencedSinceTime": 1728480413091,
+        "updateTime": 1728480413091
     }
 ]
