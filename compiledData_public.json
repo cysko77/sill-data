@@ -141,6 +141,13 @@
         "targetAudience": "Chef de projet",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 9,
+        "organization": "ARS Bretagne",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
