@@ -4,7 +4,7 @@
     "name": "React",
     "description": "bibliothèque JavaScript",
     "referencedSinceTime": 1728476531039,
-    "updateTime": 1728476531039,
+    "updateTime": 1728483634464,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
@@ -31,7 +31,9 @@
     "categories": [],
     "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
     "keywords": [
-      "benomar"
+      "benomar",
+      "vsvs",
+      "sds"
     ],
     "serviceProviders": [
       {

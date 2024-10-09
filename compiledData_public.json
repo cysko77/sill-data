@@ -27,7 +27,9 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "benomar"
+      "benomar",
+      "vsvs",
+      "sds"
     ],
     "license": "MIT licence",
     "name": "React",
@@ -40,7 +42,7 @@
       "semVer": "v18.3.1",
       "publicationTime": 1714161222000
     },
-    "updateTime": 1728476531039,
+    "updateTime": 1728483634464,
     "versionMin": "v18.3.1",
     "workshopUrls": [],
     "softwareExternalData": {
