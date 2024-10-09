@@ -191,5 +191,91 @@
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
+  },
+  {
+    "id": 3,
+    "name": "Visual Studio Code",
+    "description": "Editeur de code multiplateforme gratuit développé par Microsoft",
+    "referencedSinceTime": 1728482037583,
+    "updateTime": 1728482037583,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "license": "MIT licence",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false
+      }
+    },
+    "versionMin": "1.94.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q19841877",
+      "externalDataOrigin": "wikidata",
+      "label": "Visual Studio Code",
+      "description": {
+        "fr": "Editeur de code multiplateforme gratuit développé par Microsoft",
+        "en": "source code editor developed by Microsoft"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/220px-Visual_Studio_Code_1.35_icon.svg.png",
+      "sourceUrl": "https://github.com/microsoft/vscode",
+      "websiteUrl": "https://code.visualstudio.com",
+      "license": "MIT licence",
+      "isLibreSoftware": true,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q2033",
+        "label": "Notepad++",
+        "description": {
+          "fr": "éditeur de texte libre générique pour Windows",
+          "en": "text editor and source code editor for Windows"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "latestVersion": {
+      "semVer": "1.94.1",
+      "publicationTime": 1728408636000
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
