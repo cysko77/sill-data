@@ -267,7 +267,12 @@
       }
     ],
     "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "userAndReferentCountByOrganization": {
+      "ARS IDF": {
+        "referentCount": 0,
+        "userCount": 1
+      }
+    },
     "instances": []
   }
 ]

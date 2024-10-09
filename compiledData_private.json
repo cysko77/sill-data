@@ -274,7 +274,14 @@
       "semVer": "1.94.1",
       "publicationTime": 1728408636000
     },
-    "users": [],
+    "users": [
+      {
+        "organization": "ARS IDF",
+        "os": "windows",
+        "useCaseDescription": "Développement",
+        "version": ""
+      }
+    ],
     "referents": [],
     "instances": []
   }
