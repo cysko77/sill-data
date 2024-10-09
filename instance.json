@@ -57,51 +57,13 @@
     },
     {
         "id": 6,
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
-        "organization": "ARS Île-de-France",
-        "mainSoftwareSillId": 3,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Mayotte",
+        "mainSoftwareSillId": 1,
         "otherSoftwareWikidataIds": [],
-        "targetAudience": "developpeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "referencedSinceTime": 1728482168266,
-        "updateTime": 1728482168266
-    },
-    {
-        "id": 7,
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
-        "organization": "ARS Île-de-France",
-        "mainSoftwareSillId": 3,
-        "otherSoftwareWikidataIds": [],
-        "targetAudience": "developpeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "referencedSinceTime": 1728482230258,
-        "updateTime": 1728482230258
-    },
-    {
-        "id": 8,
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
-        "organization": "ARS Île-de-France",
-        "mainSoftwareSillId": 4,
-        "otherSoftwareWikidataIds": [
-            "Q850"
-        ],
-        "targetAudience": "developpeur",
+        "targetAudience": "Développeur web",
         "softwareType": "stack",
-        "referencedSinceTime": 1728482620427,
-        "updateTime": 1728482620427
-    },
-    {
-        "id": 9,
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
-        "organization": "ARS Île-de-France",
-        "mainSoftwareSillId": 5,
-        "otherSoftwareWikidataIds": [],
-        "targetAudience": "utilisateur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "referencedSinceTime": 1728482995620,
-        "updateTime": 1728482995620
+        "referencedSinceTime": 1728483309623,
+        "updateTime": 1728483309623
     }
 ]
