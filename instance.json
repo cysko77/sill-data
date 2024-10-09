@@ -54,5 +54,17 @@
         "cloudValue": "dnum",
         "referencedSinceTime": 1728480413091,
         "updateTime": 1728480413091
+    },
+    {
+        "id": 6,
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 3,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "developpeur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "referencedSinceTime": 1728482168266,
+        "updateTime": 1728482168266
     }
 ]
