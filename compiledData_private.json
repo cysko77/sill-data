@@ -283,6 +283,16 @@
       }
     ],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 6,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "developpeur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
+      }
+    ]
   }
 ]
