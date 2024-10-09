@@ -1632,6 +1632,14 @@
         "softwareType": "cloud",
         "cloudValue": "outscale-snc",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 42,
+        "organization": "ARS Bretagne",
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "outscale-snc",
+        "otherWikidataSoftwares": []
       }
     ]
   }
