@@ -154,5 +154,49 @@
         "keywords": [
             ""
         ]
+    },
+    {
+        "id": 5,
+        "name": "Microsoft Excel",
+        "description": "Logiciel de tableur",
+        "referencedSinceTime": 1728482863465,
+        "updateTime": 1728482863465,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "810",
+                "processus": 2292
+            }
+        ],
+        "similarSoftwareExternalDataIds": [
+            "Q10135"
+        ],
+        "externalId": "Q11272",
+        "license": "Payant",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "versionMin": "1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
     }
 ]
