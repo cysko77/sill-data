@@ -78,5 +78,18 @@
         "osSelectValue": "windows",
         "referencedSinceTime": 1728482230258,
         "updateTime": 1728482230258
+    },
+    {
+        "id": 8,
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 4,
+        "otherSoftwareWikidataIds": [
+            "Q850"
+        ],
+        "targetAudience": "developpeur",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728482620427,
+        "updateTime": 1728482620427
     }
 ]
