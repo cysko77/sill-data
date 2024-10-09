@@ -281,6 +281,14 @@
         "softwareType": "desktop",
         "osSelectValue": "windows",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 7,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "developpeur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": []
       }
     ]
   }
