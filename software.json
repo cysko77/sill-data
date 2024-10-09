@@ -81,7 +81,7 @@
     {
         "id": 3,
         "referencedSinceTime": 1727447662801,
-        "updateTime": 1728387301706,
+        "updateTime": 1728458006980,
         "isStillInObservation": false,
         "doRespectRgaa": true,
         "addedByAgentEmail": "cyrille.kozlowski@ars.sante.fr",
@@ -99,10 +99,8 @@
         "scopesProcessus": [
             1
         ],
-        "similarSoftwareExternalDataIds": [
-            "Q1406"
-        ],
-        "description": "logiciel informatique",
+        "similarSoftwareExternalDataIds": [],
+        "description": "logiciel",
         "license": "EULA",
         "versionMin": "Last version",
         "name": "Microsoft Word",
