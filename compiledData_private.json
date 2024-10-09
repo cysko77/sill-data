@@ -303,5 +303,131 @@
         "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
       }
     ]
+  },
+  {
+    "id": 4,
+    "name": "PHP",
+    "description": "langage de programmation orienté serveur web",
+    "referencedSinceTime": 1728482521609,
+    "updateTime": 1728482521609,
+    "isStillInObservation": false,
+    "doRespectRgaa": true,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "814",
+        "processus": 266
+      }
+    ],
+    "license": "GNU GPLv2",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+    "keywords": [
+      ""
+    ],
+    "serviceProviders": [
+      {
+        "name": "FactorFX",
+        "website": "https://www.factorfx.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3284"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q59",
+      "externalDataOrigin": "wikidata",
+      "label": "PHP",
+      "description": {
+        "fr": "langage de programmation orienté serveur web",
+        "en": "scripting language focused on web development"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/220px-Webysther_20160423_-_Elephpant.svg.png",
+      "sourceUrl": "https://github.com/php/php-src",
+      "websiteUrl": "https://www.php.net",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Rasmus Lerdorf",
+          "id": "Q92768"
+        },
+        {
+          "name": "Andi Gutmans",
+          "id": "Q466178"
+        },
+        {
+          "name": "PHP Group",
+          "id": "Q99273543"
+        },
+        {
+          "name": "Zend Technologies",
+          "id": "Q189477"
+        },
+        {
+          "name": "Zeev Suraski",
+          "id": "Q64050"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "comptoirDuLibreSoftware": {
+      "id": 199,
+      "created": "2018-09-04T09:12:31+00:00",
+      "modified": "2022-09-07T13:24:32+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/199",
+      "name": "phpBB",
+      "licence": "GNU GPLv2",
+      "external_resources": {
+        "website": "https://www.phpbb.com/",
+        "repository": "https://github.com/phpbb/phpbb"
+      },
+      "providers": [
+        {
+          "id": 3370,
+          "url": "https://comptoir-du-libre.org/fr/users/3370",
+          "name": "ARTABAN",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.artaban.fr"
+          }
+        },
+        {
+          "id": 162,
+          "url": "https://comptoir-du-libre.org/fr/users/162",
+          "name": "Your Own Net",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://yourownnet.net"
+          }
+        }
+      ],
+      "users": [
+        {
+          "id": 561,
+          "url": "https://comptoir-du-libre.org/fr/users/561",
+          "name": "CA du Puy-en-Velay",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.agglo-lepuyenvelay.fr/"
+          }
+        }
+      ],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/phpBB/avatar/Logo-Phpbb.png",
+      "keywords": []
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
