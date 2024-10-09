@@ -66,5 +66,17 @@
         "osSelectValue": "windows",
         "referencedSinceTime": 1728482168266,
         "updateTime": 1728482168266
+    },
+    {
+        "id": 7,
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 3,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "developpeur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "referencedSinceTime": 1728482230258,
+        "updateTime": 1728482230258
     }
 ]
