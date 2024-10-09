@@ -127,6 +127,13 @@
         "targetAudience": "Développeur web",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 7,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "Chef de projet",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
