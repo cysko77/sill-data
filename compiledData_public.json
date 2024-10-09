@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "serviceProviders": [
+      {
+        "name": "Libre en Ariège",
+        "website": "https://www.libre-en-ariege.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3999"
+      }
+    ],
+    "categories": [],
+    "description": "bibliothèque JavaScript",
+    "doRespectRgaa": false,
+    "id": 1,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "benomar"
+    ],
+    "license": "MIT licence",
+    "name": "React",
+    "referencedSinceTime": 1728476531039,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "latestVersion": {
+      "semVer": "v18.3.1",
+      "publicationTime": 1714161222000
+    },
+    "updateTime": 1728476531039,
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q19399674",
+      "externalDataOrigin": "wikidata",
+      "label": "React",
+      "description": {
+        "fr": "bibliothèque JavaScript",
+        "en": "JavaScript library for building user interfaces"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/220px-React_Logo_SVG.svg.png",
+      "sourceUrl": "https://github.com/facebook/react",
+      "websiteUrl": "https://react.dev/",
+      "documentationUrl": "https://reactjs.org/docs/getting-started.html",
+      "license": "MIT licence",
+      "isLibreSoftware": true,
+      "developers": [
+        {
+          "name": "Meta Platforms",
+          "id": "Q380"
+        },
+        {
+          "name": "Harshil Patel",
+          "id": "Q59307003"
+        },
+        {
+          "name": "Sebastian Markbåge",
+          "id": "Q108496793"
+        },
+        {
+          "name": "Dan Abramov",
+          "id": "Q98363379"
+        },
+        {
+          "name": "Rachel Nabors",
+          "id": "Q7279338"
+        },
+        {
+          "name": "Andrew Clark",
+          "id": "Q108498206"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": []
+  }
+]
