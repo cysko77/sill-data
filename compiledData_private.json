@@ -89,5 +89,64 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 2,
+    "name": "JavaScript",
+    "description": "langage de programmation",
+    "referencedSinceTime": 1728476750015,
+    "updateTime": 1728476750015,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 1,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "312",
+        "processus": 34
+      }
+    ],
+    "license": "GNU",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "développement"
+    ],
+    "serviceProviders": [
+      {
+        "name": "Obeo",
+        "website": "https://www.obeosoft.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/580"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q2005",
+      "externalDataOrigin": "wikidata",
+      "label": "JavaScript",
+      "description": {
+        "fr": "langage de programmation",
+        "en": "high-level programming language"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png",
+      "websiteUrl": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
+      "isLibreSoftware": false,
+      "developers": []
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
