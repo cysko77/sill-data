@@ -65,5 +65,16 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728483309623,
         "updateTime": 1728483309623
+    },
+    {
+        "id": 7,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Chef de projet",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728483364460,
+        "updateTime": 1728483364460
     }
 ]
