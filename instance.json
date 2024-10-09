@@ -417,5 +417,16 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728457939974,
         "updateTime": 1728457939974
+    },
+    {
+        "id": 38,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Grand Est",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Ars",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728457950961,
+        "updateTime": 1728457950961
     }
 ]
