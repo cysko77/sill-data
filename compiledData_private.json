@@ -428,6 +428,24 @@
     },
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 8,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "developpeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [
+          {
+            "externalId": "Q850",
+            "label": "MySQL",
+            "description": {
+              "fr": "système de gestion de base de données SQL",
+              "en": "SQL database engine software"
+            }
+          }
+        ],
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
+      }
+    ]
   }
 ]
