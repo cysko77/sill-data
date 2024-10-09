@@ -96,6 +96,14 @@
         "softwareType": "stack",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 2,
+        "organization": "ARS Nouvelle-Aquitaine",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },

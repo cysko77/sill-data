@@ -94,6 +94,13 @@
         "targetAudience": "Développeur",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 2,
+        "organization": "ARS Nouvelle-Aquitaine",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
