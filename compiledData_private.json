@@ -87,7 +87,15 @@
       "publicationTime": 1714161222000
     },
     "users": [],
-    "referents": [],
+    "referents": [
+      {
+        "email": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS IDF",
+        "isExpert": true,
+        "serviceUrl": "",
+        "useCaseDescription": "oui"
+      }
+    ],
     "instances": [
       {
         "id": 1,
