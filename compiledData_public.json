@@ -134,6 +134,13 @@
         "targetAudience": "Chef de projet",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 8,
+        "organization": "ARS Corse",
+        "targetAudience": "Chef de projet",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
