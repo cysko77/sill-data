@@ -73,7 +73,15 @@
         "userCount": 0
       }
     },
-    "instances": []
+    "instances": [
+      {
+        "id": 35,
+        "organization": "ARS Bretagne",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
+      }
+    ]
   },
   {
     "serviceProviders": [
