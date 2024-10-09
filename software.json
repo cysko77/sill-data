@@ -1,14 +1,12 @@
 [
     {
         "id": 1,
+        "name": "React",
+        "description": "bibliothèque JavaScript",
         "referencedSinceTime": 1728476531039,
-        "updateTime": 1728483634464,
+        "updateTime": 1728476531039,
         "isStillInObservation": false,
         "doRespectRgaa": false,
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
-        "categories": [],
-        "testUrls": [],
-        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": false,
         "dicts": {
@@ -24,18 +22,18 @@
             }
         ],
         "similarSoftwareExternalDataIds": [],
-        "description": "bibliothèque JavaScript",
+        "externalId": "Q19399674",
         "license": "MIT licence",
-        "versionMin": "v18.3.1",
-        "name": "React",
         "softwareType": {
             "type": "cloud"
         },
-        "externalId": "Q19399674",
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
         "keywords": [
-            "benomar",
-            "vsvs",
-            "sds"
+            "benomar"
         ]
     },
     {
@@ -73,6 +71,132 @@
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
         "keywords": [
             "développement"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Visual Studio Code",
+        "description": "Editeur de code multiplateforme gratuit développé par Microsoft",
+        "referencedSinceTime": 1728482037583,
+        "updateTime": 1728482037583,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [
+            "Q2033"
+        ],
+        "externalId": "Q19841877",
+        "license": "MIT licence",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "versionMin": "1.94.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
+    },
+    {
+        "id": 4,
+        "name": "PHP",
+        "description": "langage de programmation orienté serveur web",
+        "referencedSinceTime": 1728482521609,
+        "updateTime": 1728482521609,
+        "isStillInObservation": false,
+        "doRespectRgaa": true,
+        "isFromFrenchPublicService": true,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "814",
+                "processus": 266
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q59",
+        "comptoirDuLibreId": 199,
+        "license": "GNU GPLv2",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+        "keywords": [
+            ""
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Microsoft Excel",
+        "description": "Logiciel de tableur",
+        "referencedSinceTime": 1728482863465,
+        "updateTime": 1728482863465,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "810",
+                "processus": 2292
+            }
+        ],
+        "similarSoftwareExternalDataIds": [
+            "Q10135"
+        ],
+        "externalId": "Q11272",
+        "license": "Payant",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "versionMin": "1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+        "keywords": [
+            ""
         ]
     }
 ]

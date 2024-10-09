@@ -15,5 +15,10 @@
         "email": "mohamed.benomar@ars.sante.fr",
         "organization": "ARS IDF",
         "isPublic": false
+    },
+    {
+        "email": "vincent.lanchec@ars.sante.fr",
+        "organization": "ARS IDF",
+        "isPublic": false
     }
 ]
