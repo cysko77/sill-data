@@ -616,6 +616,15 @@
     ],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": []
+    "instances": [
+      {
+        "id": 9,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "utilisateur",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": []
+      }
+    ]
   }
 ]
