@@ -1680,6 +1680,15 @@
         "cloudValue": "dnum",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 40,
+        "organization": "ARS Bretagne",
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "outscale-snc",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   }
