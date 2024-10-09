@@ -439,6 +439,14 @@
             }
           }
         ]
+      },
+      {
+        "id": 11,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "infra",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": []
       }
     ]
   },
