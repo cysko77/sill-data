@@ -180,6 +180,16 @@
     "similarExternalSoftwares": [],
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 5,
+        "organization": "ARS Normandie",
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dnum",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      }
+    ]
   }
 ]
