@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "id": 1,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Nouvelle-Aquitaine",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728477785845,
+        "updateTime": 1728477785845
+    }
+]
