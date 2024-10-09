@@ -87,7 +87,15 @@
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "ARS Nouvelle-Aquitaine",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
+      }
+    ]
   },
   {
     "serviceProviders": [

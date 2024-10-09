@@ -88,7 +88,16 @@
     },
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 1,
+        "organization": "ARS Nouvelle-Aquitaine",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      }
+    ]
   },
   {
     "id": 2,
