@@ -955,6 +955,13 @@
         "targetAudience": "dev",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 32,
+        "organization": "ARS Grand Est",
+        "targetAudience": "dev",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
