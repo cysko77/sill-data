@@ -439,5 +439,17 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728458005567,
         "updateTime": 1728458005567
+    },
+    {
+        "id": 40,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Bretagne",
+        "mainSoftwareSillId": 11,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "outscale-snc",
+        "referencedSinceTime": 1728467951879,
+        "updateTime": 1728467951879
     }
 ]
