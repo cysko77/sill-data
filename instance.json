@@ -213,5 +213,16 @@
         "osSelectValue": "windows",
         "referencedSinceTime": 1728549796562,
         "updateTime": 1728549796562
+    },
+    {
+        "id": 20,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Bretagne",
+        "mainSoftwareSillId": 3,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728562358654,
+        "updateTime": 1728562358654
     }
 ]
