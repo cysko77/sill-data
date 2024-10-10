@@ -339,6 +339,15 @@
         "cloudValue": "clever",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 11,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   }

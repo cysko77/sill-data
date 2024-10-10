@@ -323,6 +323,14 @@
         "softwareType": "cloud",
         "cloudValue": "clever",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 11,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": []
       }
     ]
   }
