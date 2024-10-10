@@ -264,7 +264,9 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "java"
+      "java",
+      "programmation",
+      "dev"
     ],
     "license": "GPL",
     "name": "Java",
@@ -282,7 +284,7 @@
       "semVer": "javamelody-core-2.2.0",
       "publicationTime": 1717036014000
     },
-    "updateTime": 1728545334690,
+    "updateTime": 1728545664012,
     "versionMin": "javamelody-core-2.2.0",
     "workshopUrls": [],
     "softwareExternalData": {
