@@ -144,5 +144,17 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728546359566,
         "updateTime": 1728546359566
+    },
+    {
+        "id": 14,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Hauts-de-France",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "referencedSinceTime": 1728546590466,
+        "updateTime": 1728546590466
     }
 ]
