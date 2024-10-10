@@ -178,7 +178,7 @@
     "name": "JavaScript",
     "description": "langage de programmation",
     "referencedSinceTime": 1728476750015,
-    "updateTime": 1728546593728,
+    "updateTime": 1728546828396,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
@@ -205,7 +205,9 @@
     "categories": [],
     "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
     "keywords": [
-      "développement"
+      "développeur",
+      "web",
+      "css"
     ],
     "serviceProviders": [
       {

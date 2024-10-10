@@ -188,7 +188,9 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "développement"
+      "développeur",
+      "web",
+      "css"
     ],
     "license": "GNU",
     "name": "JavaScript",
@@ -197,7 +199,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1728546593728,
+    "updateTime": 1728546828396,
     "versionMin": "v18.3.1",
     "workshopUrls": [],
     "softwareExternalData": {
