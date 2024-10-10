@@ -188,9 +188,7 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "abcdef",
-      "ababab",
-      "vscvsv"
+      "abcdef"
     ],
     "license": "GNU",
     "name": "JavaScript",
@@ -199,7 +197,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1728565350018,
+    "updateTime": 1728565601990,
     "versionMin": "v18.3.1",
     "workshopUrls": [],
     "softwareExternalData": {
