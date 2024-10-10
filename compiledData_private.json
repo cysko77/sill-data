@@ -385,6 +385,15 @@
         "softwareType": "stack",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 19,
+        "organization": "ARS Bourgogne-Franche-Comté",
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
