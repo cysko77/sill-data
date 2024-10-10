@@ -110,5 +110,17 @@
         "cloudValue": "clever",
         "referencedSinceTime": 1728545384800,
         "updateTime": 1728545384800
+    },
+    {
+        "id": 11,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Centre-Val de Loire",
+        "mainSoftwareSillId": 3,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "referencedSinceTime": 1728545662288,
+        "updateTime": 1728545662288
     }
 ]
