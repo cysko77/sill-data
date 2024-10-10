@@ -121,5 +121,43 @@
             "programmation",
             "dev"
         ]
+    },
+    {
+        "id": 4,
+        "name": "PHP",
+        "description": "langage de programmation orienté serveur web",
+        "referencedSinceTime": 1728547171471,
+        "updateTime": 1728547171471,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 3,
+            "scoreTracabilite": 2,
+            "scoreConfidentialite": 1,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q59",
+        "comptoirDuLibreId": 199,
+        "license": "GNU GPLv2",
+        "softwareType": {
+            "type": "stack"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "php"
+        ]
     }
 ]
