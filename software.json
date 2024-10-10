@@ -80,7 +80,7 @@
     {
         "id": 3,
         "referencedSinceTime": 1728545334690,
-        "updateTime": 1728546160609,
+        "updateTime": 1728549798106,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
@@ -117,9 +117,7 @@
         },
         "externalId": "Q251",
         "keywords": [
-            "java",
-            "programmation",
-            "dev"
+            "fds"
         ]
     },
     {
