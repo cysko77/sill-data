@@ -504,6 +504,14 @@
         "targetAudience": "Développeur",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 18,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur web",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": []
       }
     ]
   }
