@@ -201,5 +201,17 @@
         "cloudValue": "dinum",
         "referencedSinceTime": 1728549683809,
         "updateTime": 1728549683809
+    },
+    {
+        "id": 19,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Bourgogne-Franche-Comté",
+        "mainSoftwareSillId": 3,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "osSelectValue": "windows",
+        "referencedSinceTime": 1728549796562,
+        "updateTime": 1728549796562
     }
 ]
