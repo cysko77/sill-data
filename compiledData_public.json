@@ -188,7 +188,7 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "abcdef"
+      "a"
     ],
     "license": "GNU",
     "name": "JavaScript",
@@ -197,7 +197,7 @@
       "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1728565601990,
+    "updateTime": 1728565772729,
     "versionMin": "v18.3.1",
     "workshopUrls": [],
     "softwareExternalData": {
