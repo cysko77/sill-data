@@ -239,6 +239,15 @@
         "cloudValue": "dnum",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 14,
+        "organization": "ARS Hauts-de-France",
+        "targetAudience": "Développeur",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },

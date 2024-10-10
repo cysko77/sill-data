@@ -224,6 +224,14 @@
         "softwareType": "cloud",
         "cloudValue": "dnum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 14,
+        "organization": "ARS Hauts-de-France",
+        "targetAudience": "Développeur",
+        "softwareType": "cloud",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": []
       }
     ]
   },
