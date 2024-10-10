@@ -41,7 +41,7 @@
     {
         "id": 2,
         "referencedSinceTime": 1728476750015,
-        "updateTime": 1728546593728,
+        "updateTime": 1728546828396,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
@@ -72,7 +72,9 @@
         },
         "externalId": "Q2005",
         "keywords": [
-            "développement"
+            "développeur",
+            "web",
+            "css"
         ]
     },
     {
