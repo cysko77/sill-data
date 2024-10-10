@@ -232,6 +232,13 @@
         "softwareType": "cloud",
         "cloudValue": "dinum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 15,
+        "organization": "ARS Bretagne",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
