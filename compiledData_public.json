@@ -490,6 +490,14 @@
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": []
+    "instances": [
+      {
+        "id": 16,
+        "organization": "ARS Grand Est",
+        "targetAudience": "Chef de projet",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
+      }
+    ]
   }
 ]
