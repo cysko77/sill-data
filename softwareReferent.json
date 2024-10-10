@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "softwareId": 1,
+        "agentEmail": "mohamed.benomar@ars.sante.fr",
+        "isExpert": true,
+        "serviceUrl": "",
+        "useCaseDescription": "oui"
+    }
+]
