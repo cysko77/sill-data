@@ -330,6 +330,16 @@
     },
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 10,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur",
+        "softwareType": "cloud",
+        "cloudValue": "clever",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      }
+    ]
   }
 ]

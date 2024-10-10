@@ -315,6 +315,15 @@
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": []
+    "instances": [
+      {
+        "id": 10,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur",
+        "softwareType": "cloud",
+        "cloudValue": "clever",
+        "otherWikidataSoftwares": []
+      }
+    ]
   }
 ]
