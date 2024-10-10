@@ -77,12 +77,15 @@
     },
     {
         "id": 3,
-        "name": "Java",
-        "description": "langage de programmation informatique orienté objet",
         "referencedSinceTime": 1728545334690,
-        "updateTime": 1728545334690,
+        "updateTime": 1728545664012,
         "isStillInObservation": false,
         "doRespectRgaa": false,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
+        "comptoirDuLibreId": 195,
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": false,
         "dicts": {
@@ -98,9 +101,10 @@
             }
         ],
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q251",
-        "comptoirDuLibreId": 195,
+        "description": "langage de programmation informatique orienté objet",
         "license": "GPL",
+        "versionMin": "javamelody-core-2.2.0",
+        "name": "Java",
         "softwareType": {
             "type": "desktop/mobile",
             "os": {
@@ -109,13 +113,11 @@
                 "mac": false
             }
         },
-        "versionMin": "javamelody-core-2.2.0",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "externalId": "Q251",
         "keywords": [
-            "java"
+            "java",
+            "programmation",
+            "dev"
         ]
     }
 ]
