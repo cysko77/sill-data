@@ -150,6 +150,13 @@
         "targetAudience": "Développeur web",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 13,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },

@@ -162,6 +162,14 @@
         "softwareType": "stack",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 13,
+        "organization": "ARS Centre-Val de Loire",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
