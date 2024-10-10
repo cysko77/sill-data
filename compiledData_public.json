@@ -288,7 +288,9 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "fds"
+      "je",
+      "suis",
+      "mohamed"
     ],
     "license": "GPL",
     "name": "Java",
@@ -306,7 +308,7 @@
       "semVer": "javamelody-core-2.2.0",
       "publicationTime": 1717036014000
     },
-    "updateTime": 1728549798106,
+    "updateTime": 1728562363526,
     "versionMin": "javamelody-core-2.2.0",
     "workshopUrls": [],
     "softwareExternalData": {
