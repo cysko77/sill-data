@@ -40,12 +40,14 @@
     },
     {
         "id": 2,
-        "name": "JavaScript",
-        "description": "langage de programmation",
         "referencedSinceTime": 1728476750015,
-        "updateTime": 1728476750015,
+        "updateTime": 1728546593728,
         "isStillInObservation": false,
         "doRespectRgaa": false,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": false,
         "dicts": {
@@ -61,16 +63,14 @@
             }
         ],
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q2005",
+        "description": "langage de programmation",
         "license": "GNU",
+        "versionMin": "v18.3.1",
+        "name": "JavaScript",
         "softwareType": {
             "type": "cloud"
         },
-        "versionMin": "v18.3.1",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "externalId": "Q2005",
         "keywords": [
             "développement"
         ]
