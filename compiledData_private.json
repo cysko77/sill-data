@@ -350,6 +350,14 @@
         "cloudValue": "dinum",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 12,
+        "organization": "ARS Grand Est",
+        "targetAudience": "dev",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   }

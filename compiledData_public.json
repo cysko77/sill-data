@@ -333,6 +333,13 @@
         "softwareType": "cloud",
         "cloudValue": "dinum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 12,
+        "organization": "ARS Grand Est",
+        "targetAudience": "dev",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   }
