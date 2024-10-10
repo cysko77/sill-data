@@ -4,7 +4,7 @@
     "name": "React",
     "description": "bibliothèque JavaScript",
     "referencedSinceTime": 1728476531039,
-    "updateTime": 1728476531039,
+    "updateTime": 1728483634464,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
@@ -31,7 +31,9 @@
     "categories": [],
     "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
     "keywords": [
-      "benomar"
+      "benomar",
+      "vsvs",
+      "sds"
     ],
     "serviceProviders": [
       {
@@ -87,7 +89,15 @@
       "publicationTime": 1714161222000
     },
     "users": [],
-    "referents": [],
+    "referents": [
+      {
+        "email": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS IDF",
+        "isExpert": true,
+        "serviceUrl": "",
+        "useCaseDescription": "oui"
+      }
+    ],
     "instances": [
       {
         "id": 1,
@@ -116,6 +126,38 @@
       {
         "id": 4,
         "organization": "ARS Mayotte",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 6,
+        "organization": "ARS Mayotte",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 7,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "Chef de projet",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 8,
+        "organization": "ARS Corse",
+        "targetAudience": "Chef de projet",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 9,
+        "organization": "ARS Bretagne",
         "targetAudience": "Développeur web",
         "softwareType": "stack",
         "otherWikidataSoftwares": [],
@@ -194,19 +236,19 @@
   },
   {
     "id": 3,
-    "name": "Visual Studio Code",
-    "description": "Editeur de code multiplateforme gratuit développé par Microsoft",
-    "referencedSinceTime": 1728482037583,
-    "updateTime": 1728482037583,
+    "name": "Java",
+    "description": "langage de programmation informatique orienté objet",
+    "referencedSinceTime": 1728545334690,
+    "updateTime": 1728545334690,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
     "isSoftwareHasHealthData": false,
     "dicts": {
-      "scoreDisponibilite": 0,
+      "scoreDisponibilite": 3,
       "scoreTracabilite": 0,
-      "scoreConfidentialite": 0,
-      "scoreIntegrite": 0
+      "scoreConfidentialite": 3,
+      "scoreIntegrite": 2
     },
     "scopes": [
       {
@@ -214,7 +256,7 @@
         "processus": 1
       }
     ],
-    "license": "MIT licence",
+    "license": "GPL",
     "softwareType": {
       "type": "desktop/mobile",
       "os": {
@@ -223,13 +265,13 @@
         "mac": false
       }
     },
-    "versionMin": "1.94.1",
+    "versionMin": "javamelody-core-2.2.0",
     "workshopUrls": [],
     "testUrls": [],
     "categories": [],
-    "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
     "keywords": [
-      ""
+      "java"
     ],
     "serviceProviders": [
       {
@@ -239,426 +281,55 @@
       }
     ],
     "softwareExternalData": {
-      "externalId": "Q19841877",
+      "externalId": "Q251",
       "externalDataOrigin": "wikidata",
-      "label": "Visual Studio Code",
+      "label": "Java",
       "description": {
-        "fr": "Editeur de code multiplateforme gratuit développé par Microsoft",
-        "en": "source code editor developed by Microsoft"
+        "fr": "langage de programmation informatique orienté objet",
+        "en": "object-oriented programming language"
       },
-      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/220px-Visual_Studio_Code_1.35_icon.svg.png",
-      "sourceUrl": "https://github.com/microsoft/vscode",
-      "websiteUrl": "https://code.visualstudio.com",
-      "license": "MIT licence",
-      "isLibreSoftware": true,
-      "developers": [
-        {
-          "name": "Microsoft",
-          "id": "Q2283"
-        }
-      ]
-    },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q2033",
-        "label": "Notepad++",
-        "description": {
-          "fr": "éditeur de texte libre générique pour Windows",
-          "en": "text editor and source code editor for Windows"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
-    "latestVersion": {
-      "semVer": "1.94.1",
-      "publicationTime": 1728408636000
-    },
-    "users": [
-      {
-        "organization": "ARS IDF",
-        "os": "windows",
-        "useCaseDescription": "Développement",
-        "version": ""
-      }
-    ],
-    "referents": [],
-    "instances": [
-      {
-        "id": 6,
-        "organization": "ARS Île-de-France",
-        "targetAudience": "developpeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
-      },
-      {
-        "id": 7,
-        "organization": "ARS Île-de-France",
-        "targetAudience": "developpeur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
-      },
-      {
-        "id": 10,
-        "organization": "ARS Île-de-France",
-        "targetAudience": "infra",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "PHP",
-    "description": "langage de programmation orienté serveur web",
-    "referencedSinceTime": 1728482521609,
-    "updateTime": 1728482521609,
-    "isStillInObservation": false,
-    "doRespectRgaa": true,
-    "isFromFrenchPublicService": true,
-    "isSoftwareHasHealthData": false,
-    "dicts": {
-      "scoreDisponibilite": 0,
-      "scoreTracabilite": 0,
-      "scoreConfidentialite": 0,
-      "scoreIntegrite": 0
-    },
-    "scopes": [
-      {
-        "missions": "814",
-        "processus": 266
-      }
-    ],
-    "license": "GNU GPLv2",
-    "softwareType": {
-      "type": "cloud"
-    },
-    "versionMin": "1",
-    "workshopUrls": [],
-    "testUrls": [],
-    "categories": [],
-    "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
-    "keywords": [
-      ""
-    ],
-    "serviceProviders": [
-      {
-        "name": "FactorFX",
-        "website": "https://www.factorfx.com",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3284"
-      }
-    ],
-    "softwareExternalData": {
-      "externalId": "Q59",
-      "externalDataOrigin": "wikidata",
-      "label": "PHP",
-      "description": {
-        "fr": "langage de programmation orienté serveur web",
-        "en": "scripting language focused on web development"
-      },
-      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/220px-Webysther_20160423_-_Elephpant.svg.png",
-      "sourceUrl": "https://github.com/php/php-src",
-      "websiteUrl": "https://www.php.net",
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/e/eb/Java_get_powered.jpg",
+      "websiteUrl": "https://www.oracle.com/java/",
+      "license": "GPL",
       "isLibreSoftware": false,
       "developers": [
         {
-          "name": "Rasmus Lerdorf",
-          "id": "Q92768"
+          "name": "James Gosling",
+          "id": "Q92622"
         },
         {
-          "name": "Andi Gutmans",
-          "id": "Q466178"
+          "name": "Sun Microsystems",
+          "id": "Q14647"
         },
         {
-          "name": "PHP Group",
-          "id": "Q99273543"
-        },
-        {
-          "name": "Zend Technologies",
-          "id": "Q189477"
-        },
-        {
-          "name": "Zeev Suraski",
-          "id": "Q64050"
+          "name": "ORCL",
+          "id": "Q19900"
         }
       ]
     },
     "similarExternalSoftwares": [],
     "comptoirDuLibreSoftware": {
-      "id": 199,
-      "created": "2018-09-04T09:12:31+00:00",
-      "modified": "2022-09-07T13:24:32+00:00",
-      "url": "https://comptoir-du-libre.org/fr/softwares/199",
-      "name": "phpBB",
-      "licence": "GNU GPLv2",
+      "id": 195,
+      "created": "2018-09-04T09:00:29+00:00",
+      "modified": "2022-08-07T14:07:05+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/195",
+      "name": "JavaMelody",
+      "licence": "Apache License 2.0",
       "external_resources": {
-        "website": "https://www.phpbb.com/",
-        "repository": "https://github.com/phpbb/phpbb"
+        "website": "https://github.com/javamelody/javamelody/wiki",
+        "repository": "https://github.com/javamelody/javamelody"
       },
-      "providers": [
-        {
-          "id": 3370,
-          "url": "https://comptoir-du-libre.org/fr/users/3370",
-          "name": "ARTABAN",
-          "type": "Company",
-          "external_resources": {
-            "website": "https://www.artaban.fr"
-          }
-        },
-        {
-          "id": 162,
-          "url": "https://comptoir-du-libre.org/fr/users/162",
-          "name": "Your Own Net",
-          "type": "Company",
-          "external_resources": {
-            "website": "https://yourownnet.net"
-          }
-        }
-      ],
-      "users": [
-        {
-          "id": 561,
-          "url": "https://comptoir-du-libre.org/fr/users/561",
-          "name": "CA du Puy-en-Velay",
-          "type": "Administration",
-          "external_resources": {
-            "website": "https://www.agglo-lepuyenvelay.fr/"
-          }
-        }
-      ],
-      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/phpBB/avatar/Logo-Phpbb.png",
+      "providers": [],
+      "users": [],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/JavaMelody/avatar/Logo-00-logiciel-par-defaut.png",
       "keywords": []
     },
+    "latestVersion": {
+      "semVer": "javamelody-core-2.2.0",
+      "publicationTime": 1717036014000
+    },
     "users": [],
     "referents": [],
-    "instances": [
-      {
-        "id": 8,
-        "organization": "ARS Île-de-France",
-        "targetAudience": "developpeur",
-        "softwareType": "stack",
-        "otherWikidataSoftwares": [
-          {
-            "externalId": "Q850",
-            "label": "MySQL",
-            "description": {
-              "fr": "système de gestion de base de données SQL",
-              "en": "SQL database engine software"
-            }
-          }
-        ],
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
-      },
-      {
-        "id": 11,
-        "organization": "ARS Île-de-France",
-        "targetAudience": "infra",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Microsoft Excel",
-    "description": "Logiciel de tableur",
-    "referencedSinceTime": 1728482863465,
-    "updateTime": 1728482863465,
-    "isStillInObservation": false,
-    "doRespectRgaa": null,
-    "isFromFrenchPublicService": false,
-    "isSoftwareHasHealthData": false,
-    "dicts": {
-      "scoreDisponibilite": 0,
-      "scoreTracabilite": 0,
-      "scoreConfidentialite": 0,
-      "scoreIntegrite": 0
-    },
-    "scopes": [
-      {
-        "missions": "810",
-        "processus": 2292
-      }
-    ],
-    "license": "Payant",
-    "softwareType": {
-      "type": "desktop/mobile",
-      "os": {
-        "windows": true,
-        "linux": false,
-        "mac": false
-      }
-    },
-    "versionMin": "1",
-    "workshopUrls": [],
-    "testUrls": [],
-    "categories": [],
-    "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
-    "keywords": [
-      ""
-    ],
-    "serviceProviders": [
-      {
-        "name": "Oziolab",
-        "website": "https://www.oziolab.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
-      },
-      {
-        "name": "YPSI",
-        "website": "https://www.ypsi.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3280"
-      },
-      {
-        "name": "Probesys",
-        "website": "https://www.probesys.com",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
-      },
-      {
-        "name": "Ionzee",
-        "website": "",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
-      },
-      {
-        "name": "Empreinte Digitale SCOP SA",
-        "website": "https://www.empreintedigitale.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
-      },
-      {
-        "name": "Data Bene",
-        "website": "https://data-bene.io",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3188"
-      },
-      {
-        "name": "2i2L",
-        "website": "https://www.2i2l.fr/",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/57"
-      },
-      {
-        "name": "Bearstech",
-        "website": "https://bearstech.com",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
-      },
-      {
-        "name": "Ethicsys",
-        "website": "https://www.ethicsys.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3304"
-      },
-      {
-        "name": "Champs-Libres",
-        "website": "https://www.champs-libres.coop",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/991"
-      },
-      {
-        "name": "Ouidou",
-        "website": "https://www.ouidou.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3857"
-      },
-      {
-        "name": "Your Own Net",
-        "website": "https://yourownnet.net",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
-      },
-      {
-        "name": "Talan",
-        "website": "https://talan.com",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
-      },
-      {
-        "name": "SIGMAZ Consilium",
-        "website": "https://sigmaz-consilium.fr/",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3893"
-      },
-      {
-        "name": "BeeZim",
-        "website": "https://www.beezim.fr/",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3445"
-      },
-      {
-        "name": "APLOSE",
-        "website": "https://www.aplose.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
-      },
-      {
-        "name": "Liberasys",
-        "website": "https://www.liberasys.com",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2351"
-      },
-      {
-        "name": "TEICEE",
-        "website": "https://www.teicee.com",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
-      },
-      {
-        "name": "AUKFOOD",
-        "website": "https://www.aukfood.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
-      },
-      {
-        "name": "JECI",
-        "website": "https://jeci.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
-      },
-      {
-        "name": "Julien Palard",
-        "website": "https://mdk.fr",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3408"
-      },
-      {
-        "name": "Worteks",
-        "website": "https://www.worteks.com/fr/",
-        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
-      }
-    ],
-    "softwareExternalData": {
-      "externalId": "Q11272",
-      "externalDataOrigin": "wikidata",
-      "label": "Microsoft Excel",
-      "description": {
-        "fr": "Logiciel de tableur",
-        "en": "spreadsheet editor, part of Microsoft 365"
-      },
-      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png",
-      "websiteUrl": "https://products.office.com/en-us/excel",
-      "isLibreSoftware": false,
-      "developers": [
-        {
-          "name": "Microsoft",
-          "id": "Q2283"
-        }
-      ]
-    },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q10135",
-        "label": "LibreOffice",
-        "description": {
-          "fr": "suite bureautique soutenue par la communauté du logiciel libre",
-          "en": "office suite supported by the free software community"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
-    "users": [],
-    "referents": [],
-    "instances": [
-      {
-        "id": 9,
-        "organization": "ARS Île-de-France",
-        "targetAudience": "utilisateur",
-        "softwareType": "desktop",
-        "osSelectValue": "windows",
-        "otherWikidataSoftwares": [],
-        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
-      }
-    ]
+    "instances": []
   }
 ]
