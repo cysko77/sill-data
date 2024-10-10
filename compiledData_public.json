@@ -288,9 +288,7 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "java",
-      "programmation",
-      "dev"
+      "fds"
     ],
     "license": "GPL",
     "name": "Java",
@@ -308,7 +306,7 @@
       "semVer": "javamelody-core-2.2.0",
       "publicationTime": 1717036014000
     },
-    "updateTime": 1728546160609,
+    "updateTime": 1728549798106,
     "versionMin": "javamelody-core-2.2.0",
     "workshopUrls": [],
     "softwareExternalData": {
