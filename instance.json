@@ -122,5 +122,16 @@
         "cloudValue": "dinum",
         "referencedSinceTime": 1728545662288,
         "updateTime": 1728545662288
+    },
+    {
+        "id": 12,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Grand Est",
+        "mainSoftwareSillId": 3,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dev",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728546158718,
+        "updateTime": 1728546158718
     }
 ]
