@@ -156,5 +156,16 @@
         "cloudValue": "dinum",
         "referencedSinceTime": 1728546590466,
         "updateTime": 1728546590466
+    },
+    {
+        "id": 15,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Bretagne",
+        "mainSoftwareSillId": 2,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728546824856,
+        "updateTime": 1728546824856
     }
 ]
