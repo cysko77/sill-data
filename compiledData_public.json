@@ -370,6 +370,13 @@
         "softwareType": "desktop",
         "osSelectValue": "windows",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 20,
+        "organization": "ARS Bretagne",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
