@@ -41,7 +41,7 @@
     {
         "id": 2,
         "referencedSinceTime": 1728476750015,
-        "updateTime": 1728565350018,
+        "updateTime": 1728565601990,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
@@ -72,9 +72,7 @@
         },
         "externalId": "Q2005",
         "keywords": [
-            "abcdef",
-            "ababab",
-            "vscvsv"
+            "abcdef"
         ]
     },
     {
