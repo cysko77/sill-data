@@ -290,5 +290,16 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728632544354,
         "updateTime": 1728632544354
+    },
+    {
+        "id": 27,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Auvergne-Rhône-Alpes",
+        "mainSoftwareSillId": 3,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Chef de projet",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728632558970,
+        "updateTime": 1728632558970
     }
 ]
