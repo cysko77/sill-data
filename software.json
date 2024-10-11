@@ -155,5 +155,43 @@
         "keywords": [
             "developpement"
         ]
+    },
+    {
+        "id": 5,
+        "name": "PhpStorm",
+        "description": "éditeur pour PHP, HTML et JavaScript, édité par JetBrains",
+        "referencedSinceTime": 1728655140576,
+        "updateTime": 1728655140576,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 3,
+            "scoreTracabilite": 1,
+            "scoreConfidentialite": 2,
+            "scoreIntegrite": 2
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q1786113",
+        "license": "non-free license",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "fsdfs"
+        ],
+        "isAccepted": false
     }
 ]
