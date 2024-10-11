@@ -405,6 +405,13 @@
         "targetAudience": "Développeur",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 25,
+        "organization": "ARS Auvergne-Rhône-Alpes",
+        "targetAudience": "Chef de projet",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
