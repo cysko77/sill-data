@@ -586,5 +586,175 @@
         "otherWikidataSoftwares": []
       }
     ]
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "Oziolab",
+        "website": "https://www.oziolab.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
+      },
+      {
+        "name": "YPSI",
+        "website": "https://www.ypsi.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3280"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "Data Bene",
+        "website": "https://data-bene.io",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3188"
+      },
+      {
+        "name": "2i2L",
+        "website": "https://www.2i2l.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/57"
+      },
+      {
+        "name": "Bearstech",
+        "website": "https://bearstech.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
+      },
+      {
+        "name": "Ethicsys",
+        "website": "https://www.ethicsys.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3304"
+      },
+      {
+        "name": "Champs-Libres",
+        "website": "https://www.champs-libres.coop",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/991"
+      },
+      {
+        "name": "Ouidou",
+        "website": "https://www.ouidou.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3857"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "SIGMAZ Consilium",
+        "website": "https://sigmaz-consilium.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3893"
+      },
+      {
+        "name": "BeeZim",
+        "website": "https://www.beezim.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3445"
+      },
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
+      },
+      {
+        "name": "Liberasys",
+        "website": "https://www.liberasys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2351"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "Julien Palard",
+        "website": "https://mdk.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3408"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "categories": [],
+    "description": "éditeur pour PHP, HTML et JavaScript, édité par JetBrains",
+    "doRespectRgaa": false,
+    "id": 5,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 1,
+      "scoreConfidentialite": 2,
+      "scoreIntegrite": 2
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "fsdfs"
+    ],
+    "license": "non-free license",
+    "name": "PhpStorm",
+    "referencedSinceTime": 1728655140576,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1728655140576,
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q1786113",
+      "externalDataOrigin": "wikidata",
+      "label": "PhpStorm",
+      "description": {
+        "fr": "éditeur pour PHP, HTML et JavaScript, édité par JetBrains",
+        "en": "PHP IDE"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/03/JetBrains_PhpStorm_Product_Logo.svg/220px-JetBrains_PhpStorm_Product_Logo.svg.png",
+      "websiteUrl": "https://www.jetbrains.com/phpstorm/",
+      "license": "non-free license",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "JetBrains",
+          "id": "Q1688472"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "isAccepted": false
   }
 ]
