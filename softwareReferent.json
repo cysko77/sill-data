@@ -5,5 +5,12 @@
         "isExpert": true,
         "serviceUrl": "",
         "useCaseDescription": "oui"
+    },
+    {
+        "softwareId": 4,
+        "agentEmail": "vincent.lanchec@ars.sante.fr",
+        "isExpert": false,
+        "serviceUrl": "",
+        "useCaseDescription": "Développement"
     }
 ]
