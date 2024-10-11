@@ -314,7 +314,7 @@
     ],
     "isStillInObservation": false,
     "keywords": [
-      "je"
+      "jedqsqd"
     ],
     "license": "GPL",
     "name": "Java",
@@ -332,7 +332,7 @@
       "semVer": "javamelody-core-2.2.0",
       "publicationTime": 1717036014000
     },
-    "updateTime": 1728632546612,
+    "updateTime": 1728632560389,
     "versionMin": "javamelody-core-2.2.0",
     "workshopUrls": [],
     "softwareExternalData": {
