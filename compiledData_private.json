@@ -208,6 +208,7 @@
     "keywords": [
       "a"
     ],
+    "isAccepted": true,
     "serviceProviders": [
       {
         "name": "Obeo",
