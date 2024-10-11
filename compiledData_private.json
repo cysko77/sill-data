@@ -796,5 +796,334 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 6,
+    "name": "Amazon Web Services",
+    "description": "service de cloud computing",
+    "referencedSinceTime": 1728656237227,
+    "updateTime": 1728656237227,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 1,
+      "scoreConfidentialite": 3,
+      "scoreIntegrite": 2
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "license": "EULA",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "4.21.0",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "developpement"
+    ],
+    "isAccepted": false,
+    "serviceProviders": [
+      {
+        "name": "Oziolab",
+        "website": "https://www.oziolab.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
+      },
+      {
+        "name": "Lan2Net",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/524457520",
+        "siren": "524457520"
+      },
+      {
+        "name": "DEBAMAX",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/813965662",
+        "siren": "813965662"
+      },
+      {
+        "name": "Wiki Valley",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/821345345",
+        "siren": "821345345"
+      },
+      {
+        "name": "INNO3",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/538420753",
+        "siren": "538420753"
+      },
+      {
+        "name": "WebGeoDataVore",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/449989573",
+        "siren": "449989573"
+      },
+      {
+        "name": "PLICIWEB SOLUTIONS",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/499277713",
+        "siren": "499277713"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "APITUX",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/452887441",
+        "siren": "452887441"
+      },
+      {
+        "name": "CENTREON",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/483494589",
+        "siren": "483494589"
+      },
+      {
+        "name": "Bearstech",
+        "website": "https://bearstech.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
+      },
+      {
+        "name": "CIGALL",
+        "website": "Https://www.cigall.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/270"
+      },
+      {
+        "name": "ézéo",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/437827959",
+        "siren": "437827959"
+      },
+      {
+        "name": "ALTER WAY",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/490932308",
+        "siren": "490932308"
+      },
+      {
+        "name": "Azure Informatique",
+        "website": "https://www.azure-informatique.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3962"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "EDISSYUM Consulting",
+        "website": "http://www.edissyum.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/345"
+      },
+      {
+        "name": "EVOLIX",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/451952295",
+        "siren": "451952295"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "Microlinux",
+        "website": "https://www.microlinux.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/295"
+      },
+      {
+        "name": "decaris",
+        "website": "https://mywebdatahome.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/643"
+      },
+      {
+        "name": "SIGMAZ Consilium",
+        "website": "https://sigmaz-consilium.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3893"
+      },
+      {
+        "name": "Ryxéo",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/450656731",
+        "siren": "450656731"
+      },
+      {
+        "name": "Telnowedge",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/495075079",
+        "siren": "495075079"
+      },
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "CAP-REL",
+        "website": "https://cap-rel.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3216"
+      },
+      {
+        "name": "YPOK",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/434940763",
+        "siren": "434940763"
+      },
+      {
+        "name": "Entr'ouvert",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/443170139",
+        "siren": "443170139"
+      },
+      {
+        "name": "COMBODO",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/522588979",
+        "siren": "522588979"
+      },
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "POLLEN ROBOTICS",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/820266211",
+        "siren": "820266211"
+      },
+      {
+        "name": "WORTEKS",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/824429708",
+        "siren": "824429708"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q456157",
+      "externalDataOrigin": "wikidata",
+      "label": "Amazon Web Services",
+      "description": {
+        "fr": "service de cloud computing",
+        "en": "subsidiary of Amazon that provides on-demand cloud computing platforms on a metered pay-as-you-go basis"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/220px-Amazon_Web_Services_Logo.svg.png",
+      "websiteUrl": "https://aws.amazon.com/",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Amazon",
+          "id": "Q3884"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "YPOK",
+        "siren": "434940763",
+        "url": "https://annuaire.cnll.fr/societes/434940763"
+      },
+      {
+        "name": "INNO3",
+        "siren": "538420753",
+        "url": "https://annuaire.cnll.fr/societes/538420753"
+      },
+      {
+        "name": "COMBODO",
+        "siren": "522588979",
+        "url": "https://annuaire.cnll.fr/societes/522588979"
+      },
+      {
+        "name": "APITUX",
+        "siren": "452887441",
+        "url": "https://annuaire.cnll.fr/societes/452887441"
+      },
+      {
+        "name": "POLLEN ROBOTICS",
+        "siren": "820266211",
+        "url": "https://annuaire.cnll.fr/societes/820266211"
+      },
+      {
+        "name": "ézéo",
+        "siren": "437827959",
+        "url": "https://annuaire.cnll.fr/societes/437827959"
+      },
+      {
+        "name": "CENTREON",
+        "siren": "483494589",
+        "url": "https://annuaire.cnll.fr/societes/483494589"
+      },
+      {
+        "name": "Lan2Net",
+        "siren": "524457520",
+        "url": "https://annuaire.cnll.fr/societes/524457520"
+      },
+      {
+        "name": "WORTEKS",
+        "siren": "824429708",
+        "url": "https://annuaire.cnll.fr/societes/824429708"
+      },
+      {
+        "name": "PLICIWEB SOLUTIONS",
+        "siren": "499277713",
+        "url": "https://annuaire.cnll.fr/societes/499277713"
+      },
+      {
+        "name": "Ryxéo",
+        "siren": "450656731",
+        "url": "https://annuaire.cnll.fr/societes/450656731"
+      },
+      {
+        "name": "DEBAMAX",
+        "siren": "813965662",
+        "url": "https://annuaire.cnll.fr/societes/813965662"
+      },
+      {
+        "name": "Telnowedge",
+        "siren": "495075079",
+        "url": "https://annuaire.cnll.fr/societes/495075079"
+      },
+      {
+        "name": "WebGeoDataVore",
+        "siren": "449989573",
+        "url": "https://annuaire.cnll.fr/societes/449989573"
+      },
+      {
+        "name": "Wiki Valley",
+        "siren": "821345345",
+        "url": "https://annuaire.cnll.fr/societes/821345345"
+      },
+      {
+        "name": "ALTER WAY",
+        "siren": "490932308",
+        "url": "https://annuaire.cnll.fr/societes/490932308"
+      },
+      {
+        "name": "Entr'ouvert",
+        "siren": "443170139",
+        "url": "https://annuaire.cnll.fr/societes/443170139"
+      },
+      {
+        "name": "EVOLIX",
+        "siren": "451952295",
+        "url": "https://annuaire.cnll.fr/societes/451952295"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
