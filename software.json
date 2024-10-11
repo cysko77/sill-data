@@ -78,7 +78,7 @@
     {
         "id": 3,
         "referencedSinceTime": 1728545334690,
-        "updateTime": 1728630463666,
+        "updateTime": 1728632546612,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
@@ -115,9 +115,7 @@
         },
         "externalId": "Q251",
         "keywords": [
-            "je",
-            "suis",
-            "mohamed"
+            "je"
         ]
     },
     {
