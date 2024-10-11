@@ -426,7 +426,8 @@
         "softwareType": "stack",
         "otherWikidataSoftwares": []
       }
-    ]
+    ],
+    "isAccepted": true
   },
   {
     "serviceProviders": [
