@@ -296,7 +296,7 @@
     "name": "Java",
     "description": "langage de programmation informatique orienté objet",
     "referencedSinceTime": 1728545334690,
-    "updateTime": 1728630463666,
+    "updateTime": 1728632546612,
     "isStillInObservation": false,
     "doRespectRgaa": false,
     "isFromFrenchPublicService": false,
@@ -328,9 +328,7 @@
     "categories": [],
     "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
     "keywords": [
-      "je",
-      "suis",
-      "mohamed"
+      "je"
     ],
     "serviceProviders": [
       {
