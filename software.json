@@ -123,7 +123,7 @@
     {
         "id": 4,
         "referencedSinceTime": 1728547171471,
-        "updateTime": 1728549685673,
+        "updateTime": 1728630981058,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
@@ -151,7 +151,7 @@
         "versionMin": "v18.3.1",
         "name": "PHP",
         "softwareType": {
-            "type": "stack"
+            "type": "cloud"
         },
         "externalId": "Q59",
         "keywords": [
