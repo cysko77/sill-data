@@ -301,5 +301,16 @@
         "softwareType": "stack",
         "referencedSinceTime": 1728632558970,
         "updateTime": 1728632558970
+    },
+    {
+        "id": 28,
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr",
+        "organization": "ARS Île-de-France",
+        "mainSoftwareSillId": 4,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Informatique",
+        "softwareType": "stack",
+        "referencedSinceTime": 1728634422944,
+        "updateTime": 1728634422944
     }
 ]
