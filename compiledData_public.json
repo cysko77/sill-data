@@ -494,10 +494,10 @@
     "name": "PHP",
     "referencedSinceTime": 1728547171471,
     "softwareType": {
-      "type": "stack"
+      "type": "cloud"
     },
     "testUrls": [],
-    "updateTime": 1728549685673,
+    "updateTime": 1728630981058,
     "versionMin": "v18.3.1",
     "workshopUrls": [],
     "softwareExternalData": {
