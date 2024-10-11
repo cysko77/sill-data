@@ -572,6 +572,13 @@
         "softwareType": "cloud",
         "cloudValue": "dinum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 28,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "Informatique",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   }

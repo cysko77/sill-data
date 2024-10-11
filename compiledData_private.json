@@ -606,6 +606,14 @@
         "cloudValue": "dinum",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 28,
+        "organization": "ARS Île-de-France",
+        "targetAudience": "Informatique",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
       }
     ]
   }
