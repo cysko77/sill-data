@@ -831,7 +831,7 @@
     "keywords": [
       "developpement"
     ],
-    "isAccepted": false,
+    "isAccepted": true,
     "serviceProviders": [
       {
         "name": "Oziolab",
