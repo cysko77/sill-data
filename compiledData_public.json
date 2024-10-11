@@ -412,6 +412,13 @@
         "targetAudience": "Chef de projet",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 26,
+        "organization": "ARS Grand Est",
+        "targetAudience": "dev",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },
