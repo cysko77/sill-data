@@ -580,7 +580,15 @@
       "keywords": []
     },
     "users": [],
-    "referents": [],
+    "referents": [
+      {
+        "email": "vincent.lanchec@ars.sante.fr",
+        "organization": "ARS IDF",
+        "isExpert": false,
+        "serviceUrl": "",
+        "useCaseDescription": "Développement"
+      }
+    ],
     "instances": [
       {
         "id": 16,

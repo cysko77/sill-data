@@ -549,7 +549,12 @@
     },
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "userAndReferentCountByOrganization": {
+      "ARS IDF": {
+        "referentCount": 1,
+        "userCount": 0
+      }
+    },
     "instances": [
       {
         "id": 16,
