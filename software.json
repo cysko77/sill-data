@@ -76,7 +76,8 @@
         "keywords": [
             "a"
         ],
-        "isAccepted": true
+        "isAccepted": true,
+        "status": "accepter"
     },
     {
         "id": 3,
