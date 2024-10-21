@@ -158,7 +158,8 @@
         "softwareType": "stack",
         "otherWikidataSoftwares": []
       }
-    ]
+    ],
+    "status": "accepter"
   },
   {
     "serviceProviders": [
