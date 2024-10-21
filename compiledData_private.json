@@ -1877,5 +1877,98 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 13,
+    "name": "Go",
+    "description": "langage de programmation",
+    "referencedSinceTime": 1729522678921,
+    "updateTime": 1729522678921,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "312",
+        "processus": 9
+      }
+    ],
+    "license": "GNU GPLv2",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "abcd",
+      "efgh",
+      "ijkl"
+    ],
+    "status": "en cours",
+    "serviceProviders": [],
+    "softwareExternalData": {
+      "externalId": "Q37227",
+      "externalDataOrigin": "wikidata",
+      "label": "Go",
+      "description": {
+        "fr": "langage de programmation",
+        "en": "programming language developed by Google and the open-source community"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/220px-Go_Logo_Blue.svg.png",
+      "websiteUrl": "https://go.dev",
+      "isLibreSoftware": true,
+      "developers": [
+        {
+          "name": "Google",
+          "id": "Q95"
+        },
+        {
+          "name": "Rob Pike",
+          "id": "Q517764"
+        },
+        {
+          "name": "Ken Thompson",
+          "id": "Q1107006"
+        },
+        {
+          "name": "The Go Authors",
+          "id": "Q66022953"
+        },
+        {
+          "name": "Robert Griesemer",
+          "id": "Q16729446"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "comptoirDuLibreSoftware": {
+      "id": 99,
+      "created": "2017-03-10T15:21:37+00:00",
+      "modified": "2022-07-27T12:15:56+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/99",
+      "name": "Argonaut",
+      "licence": "GNU GPLv2",
+      "external_resources": {
+        "website": "https://gitlab.fusiondirectory.org/fusiondirectory/argonaut",
+        "repository": "https://gitlab.fusiondirectory.org/fusiondirectory/argonaut"
+      },
+      "providers": [],
+      "users": [],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/99/photo/avatar/argonaut.png",
+      "keywords": []
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
