@@ -438,5 +438,45 @@
             "ijkl"
         ],
         "status": "refuser"
+    },
+    {
+        "id": 12,
+        "name": "Google Chrome",
+        "description": "navigateur web développé par Google",
+        "referencedSinceTime": 1729518296189,
+        "updateTime": 1729518296189,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q777",
+        "license": "gratis software",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "abcd",
+            "efgh",
+            "ijkl"
+        ],
+        "status": "en cours"
     }
 ]
