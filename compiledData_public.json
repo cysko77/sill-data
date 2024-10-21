@@ -1088,5 +1088,97 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "isAccepted": true
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "POP-IT",
+        "website": "http://www.pop-it.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/259"
+      },
+      {
+        "name": "Syloé",
+        "website": "http://www.syloe.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/132"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "categories": [],
+    "description": "langage de script, émulé par un environnement de développement; il est utilisé pour le calcul numérique",
+    "doRespectRgaa": false,
+    "id": 7,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "fdvdfbd"
+    ],
+    "license": "non-free license",
+    "name": "MatLab",
+    "referencedSinceTime": 1729500441905,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1729500441905,
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q169478",
+      "externalDataOrigin": "wikidata",
+      "label": {
+        "fr": "MatLab",
+        "en": "MATLAB"
+      },
+      "description": {
+        "fr": "langage de script, émulé par un environnement de développement; il est utilisé pour le calcul numérique",
+        "en": "numerical computing environment"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/220px-Matlab_Logo.png",
+      "websiteUrl": "https://www.mathworks.com/products/matlab.html",
+      "license": "non-free license",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "MathWorks",
+          "id": "Q1518683"
+        },
+        {
+          "name": "Cleve Moler",
+          "id": "Q92871"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "isAccepted": false
   }
 ]
