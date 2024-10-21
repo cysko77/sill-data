@@ -235,5 +235,43 @@
             "developpement"
         ],
         "isAccepted": true
+    },
+    {
+        "id": 7,
+        "name": "MatLab",
+        "description": "langage de script, émulé par un environnement de développement; il est utilisé pour le calcul numérique",
+        "referencedSinceTime": 1729500441905,
+        "updateTime": 1729500441905,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 3,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 4
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q169478",
+        "license": "non-free license",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "fdvdfbd"
+        ],
+        "isAccepted": false
     }
 ]
