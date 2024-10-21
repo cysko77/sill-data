@@ -1703,5 +1703,66 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "status": "accepter"
+  },
+  {
+    "serviceProviders": [],
+    "categories": [],
+    "description": "application de prise de notes gratuite pour ordinateurs personnels et smartphones",
+    "doRespectRgaa": false,
+    "id": 11,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "abcd",
+      "efgh",
+      "ijkl"
+    ],
+    "license": "gratis software",
+    "name": "Microsoft OneNote",
+    "referencedSinceTime": 1729516311076,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1729516311076,
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q706480",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft OneNote",
+      "description": {
+        "fr": "application de prise de notes gratuite pour ordinateurs personnels et smartphones",
+        "en": "free-form note-taking app for personal computers and smartphones"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg.png",
+      "websiteUrl": "https://products.office.com/onenote",
+      "license": "gratis software",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "en cours"
   }
 ]
