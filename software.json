@@ -312,5 +312,51 @@
             "mer"
         ],
         "isAccepted": false
+    },
+    {
+        "id": 9,
+        "name": "Linux",
+        "description": "système d'exploitation libre « unix-like », incluant GNU/Linux",
+        "referencedSinceTime": 1729501465861,
+        "updateTime": 1729501465861,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 1,
+            "scoreTracabilite": 1,
+            "scoreConfidentialite": 1,
+            "scoreIntegrite": 3
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 2
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q388",
+        "comptoirDuLibreId": 599,
+        "license": "GNU GPLv2",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "abcd",
+            "efgh",
+            "ijkl"
+        ],
+        "isAccepted": false
     }
 ]
