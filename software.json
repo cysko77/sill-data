@@ -358,5 +358,43 @@
             "ijkl"
         ],
         "isAccepted": false
+    },
+    {
+        "id": 10,
+        "name": "Microsoft PowerPoint",
+        "description": "logiciel de présentation de la suite Office éditée par Microsoft",
+        "referencedSinceTime": 1729515199190,
+        "updateTime": 1729515199190,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 4,
+            "scoreTracabilite": 2,
+            "scoreConfidentialite": 1,
+            "scoreIntegrite": 3
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q11266",
+        "license": "non-free license",
+        "softwareType": {
+            "type": "stack"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "fdsf"
+        ],
+        "status": "en cours"
     }
 ]
