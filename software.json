@@ -478,5 +478,46 @@
             "ijkl"
         ],
         "status": "refuser"
+    },
+    {
+        "id": 13,
+        "name": "Go",
+        "description": "langage de programmation",
+        "referencedSinceTime": 1729522678921,
+        "updateTime": 1729522678921,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "312",
+                "processus": 9
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q37227",
+        "comptoirDuLibreId": 99,
+        "license": "GNU GPLv2",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "abcd",
+            "efgh",
+            "ijkl"
+        ],
+        "status": "en cours"
     }
 ]
