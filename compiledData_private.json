@@ -1221,5 +1221,268 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 8,
+    "name": "Python",
+    "description": "langage de programmation objet, multi-paradigme et multi-plateformes",
+    "referencedSinceTime": 1729500507942,
+    "updateTime": 1729500507942,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 2,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "license": "PSF license‎",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "4.21.0",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "mer"
+    ],
+    "isAccepted": false,
+    "serviceProviders": [
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/534906698",
+        "siren": "534906698"
+      },
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "OPCoach",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/512740572",
+        "siren": "512740572"
+      },
+      {
+        "name": "BlueMind",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/525347498",
+        "siren": "525347498"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q28865",
+      "externalDataOrigin": "wikidata",
+      "label": "Python",
+      "description": {
+        "fr": "langage de programmation objet, multi-paradigme et multi-plateformes",
+        "en": "general-purpose programming language"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/220px-Python_logo_and_wordmark.svg.png",
+      "websiteUrl": "https://www.python.org/",
+      "documentationUrl": "https://docs.python.org/",
+      "license": "PSF license‎",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "PSF",
+          "id": "Q83818"
+        },
+        {
+          "name": "Guido van Rossum",
+          "id": "Q30942"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "comptoirDuLibreSoftware": {
+      "id": 489,
+      "created": "2022-06-25T20:41:47+00:00",
+      "modified": "2024-05-26T11:26:28+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/489",
+      "name": "Python",
+      "licence": "Python License (Python-2.0)",
+      "external_resources": {
+        "website": "https://python.org",
+        "repository": "https://github.com/python/cpython/"
+      },
+      "providers": [
+        {
+          "id": 3486,
+          "url": "https://comptoir-du-libre.org/fr/users/3486",
+          "name": "Abilian",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://abilian.com/"
+          }
+        },
+        {
+          "id": 3960,
+          "url": "https://comptoir-du-libre.org/fr/users/3960",
+          "name": "Bearstech",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://bearstech.com"
+          }
+        },
+        {
+          "id": 3456,
+          "url": "https://comptoir-du-libre.org/fr/users/3456",
+          "name": "CourtBouillon",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.courtbouillon.org/"
+          }
+        },
+        {
+          "id": 3681,
+          "url": "https://comptoir-du-libre.org/fr/users/3681",
+          "name": "Ionzee",
+          "type": "Company",
+          "external_resources": {
+            "website": ""
+          }
+        },
+        {
+          "id": 3408,
+          "url": "https://comptoir-du-libre.org/fr/users/3408",
+          "name": "Julien Palard",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://mdk.fr"
+          }
+        },
+        {
+          "id": 3999,
+          "url": "https://comptoir-du-libre.org/fr/users/3999",
+          "name": "Libre en Ariège",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.libre-en-ariege.fr/"
+          }
+        },
+        {
+          "id": 4051,
+          "url": "https://comptoir-du-libre.org/fr/users/4051",
+          "name": "Maxcom",
+          "type": "Company",
+          "external_resources": {
+            "website": ""
+          }
+        },
+        {
+          "id": 3863,
+          "url": "https://comptoir-du-libre.org/fr/users/3863",
+          "name": "Paul Peny",
+          "type": "Person",
+          "external_resources": {
+            "website": "https://github.com/pmp-p"
+          }
+        },
+        {
+          "id": 398,
+          "url": "https://comptoir-du-libre.org/fr/users/398",
+          "name": "Probesys",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.probesys.com"
+          }
+        },
+        {
+          "id": 4029,
+          "url": "https://comptoir-du-libre.org/fr/users/4029",
+          "name": "Stackhero",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.stackhero.io"
+          }
+        },
+        {
+          "id": 4021,
+          "url": "https://comptoir-du-libre.org/fr/users/4021",
+          "name": "Talan",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://talan.com"
+          }
+        },
+        {
+          "id": 3599,
+          "url": "https://comptoir-du-libre.org/fr/users/3599",
+          "name": "Yaal Coop",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://yaal.coop/"
+          }
+        }
+      ],
+      "users": [
+        {
+          "id": 4030,
+          "url": "https://comptoir-du-libre.org/fr/users/4030",
+          "name": "Département de la Creuse",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.creuse.fr/"
+          }
+        },
+        {
+          "id": 675,
+          "url": "https://comptoir-du-libre.org/fr/users/675",
+          "name": "Morbihan énergies",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://morbihan-energies.fr"
+          }
+        },
+        {
+          "id": 3526,
+          "url": "https://comptoir-du-libre.org/fr/users/3526",
+          "name": "SITPI",
+          "type": "Administration",
+          "external_resources": {
+            "website": "http://www.sitpi.fr"
+          }
+        }
+      ],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/Python/avatar/python.png",
+      "keywords": []
+    },
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "APLOSE",
+        "siren": "534906698",
+        "url": "https://annuaire.cnll.fr/societes/534906698"
+      },
+      {
+        "name": "OPCoach",
+        "siren": "512740572",
+        "url": "https://annuaire.cnll.fr/societes/512740572"
+      },
+      {
+        "name": "BlueMind",
+        "siren": "525347498",
+        "url": "https://annuaire.cnll.fr/societes/525347498"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
