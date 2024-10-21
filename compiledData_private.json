@@ -1809,5 +1809,73 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 12,
+    "name": "Google Chrome",
+    "description": "navigateur web développé par Google",
+    "referencedSinceTime": 1729518296189,
+    "updateTime": 1729518296189,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "license": "gratis software",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "abcd",
+      "efgh",
+      "ijkl"
+    ],
+    "status": "en cours",
+    "serviceProviders": [
+      {
+        "name": "Jérôme Kowalczyk",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3886"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q777",
+      "externalDataOrigin": "wikidata",
+      "label": "Google Chrome",
+      "description": {
+        "fr": "navigateur web développé par Google",
+        "en": "web browser developed by Google"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Google_logo_and_Chrome_wordmark.svg/220px-Google_logo_and_Chrome_wordmark.svg.png",
+      "websiteUrl": "https://www.google.com/chrome/",
+      "license": "gratis software",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Google",
+          "id": "Q95"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
