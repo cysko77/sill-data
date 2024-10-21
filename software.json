@@ -37,7 +37,8 @@
             "vsvs",
             "sds"
         ],
-        "isAccepted": true
+        "isAccepted": true,
+        "status": "accepter"
     },
     {
         "id": 2,
