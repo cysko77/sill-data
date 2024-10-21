@@ -1256,7 +1256,7 @@
     "keywords": [
       "mer"
     ],
-    "isAccepted": false,
+    "isAccepted": true,
     "serviceProviders": [
       {
         "name": "APLOSE",
