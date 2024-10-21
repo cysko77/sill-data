@@ -1442,5 +1442,149 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "isAccepted": false
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "AtolCD",
+        "website": "https://www.atolcd.com/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/13"
+      },
+      {
+        "name": "Bearstech",
+        "website": "https://bearstech.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
+      },
+      {
+        "name": "JECI",
+        "website": "https://jeci.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3449"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "France Labs",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/537588089",
+        "siren": "537588089"
+      }
+    ],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "France Labs",
+        "siren": "537588089",
+        "url": "https://annuaire.cnll.fr/societes/537588089"
+      }
+    ],
+    "categories": [],
+    "comptoirDuLibreSoftware": {
+      "id": 599,
+      "created": "2023-05-22T06:31:24+00:00",
+      "modified": "2023-05-22T09:04:28+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/599",
+      "name": "AlmaLinux",
+      "licence": "GNU GPLv2",
+      "external_resources": {
+        "website": "https://almalinux.org/fr/",
+        "repository": "https://github.com/AlmaLinux/"
+      },
+      "providers": [],
+      "users": [
+        {
+          "id": 2455,
+          "url": "https://comptoir-du-libre.org/fr/users/2455",
+          "name": "Département de la Vienne",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.lavienne86.fr"
+          }
+        },
+        {
+          "id": 3728,
+          "url": "https://comptoir-du-libre.org/fr/users/3728",
+          "name": "École des Transmissions (ETRS)",
+          "type": "Administration",
+          "external_resources": {
+            "website": ""
+          }
+        }
+      ],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/AlmaLinux/avatar/AlmaLinux_Icon_Logo.png",
+      "keywords": []
+    },
+    "description": "système d'exploitation libre « unix-like », incluant GNU/Linux",
+    "doRespectRgaa": false,
+    "id": 9,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 1,
+      "scoreTracabilite": 1,
+      "scoreConfidentialite": 1,
+      "scoreIntegrite": 3
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "abcd",
+      "efgh",
+      "ijkl"
+    ],
+    "license": "GNU GPLv2",
+    "name": "Linux",
+    "referencedSinceTime": 1729501465861,
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false
+      }
+    },
+    "testUrls": [],
+    "updateTime": 1729501465861,
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q388",
+      "externalDataOrigin": "wikidata",
+      "label": "Linux",
+      "description": {
+        "fr": "système d'exploitation libre « unix-like », incluant GNU/Linux",
+        "en": "family of Unix-like operating systems"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/220px-Tux.svg.png",
+      "websiteUrl": "https://kernel.org/",
+      "documentationUrl": "https://www.kernel.org/doc/html/latest/",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Linus Torvalds",
+          "id": "Q34253"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "isAccepted": false
   }
 ]
