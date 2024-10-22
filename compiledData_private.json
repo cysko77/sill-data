@@ -1970,5 +1970,97 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 14,
+    "name": "Hypertext Transfer Protocol",
+    "description": "protocole de transfert de données dans un réseau informatique",
+    "referencedSinceTime": 1729602189375,
+    "updateTime": 1729602189375,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 2,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "312",
+        "processus": 10
+      }
+    ],
+    "license": "GNU aGPL v3",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false
+      }
+    },
+    "versionMin": "v2.1.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "fdssfdgs"
+    ],
+    "status": "en cours",
+    "serviceProviders": [],
+    "softwareExternalData": {
+      "externalId": "Q8777",
+      "externalDataOrigin": "wikidata",
+      "label": {
+        "fr": "Hypertext Transfer Protocol",
+        "en": "HTTP"
+      },
+      "description": {
+        "fr": "protocole de transfert de données dans un réseau informatique",
+        "en": "application protocol for distributed, collaborative, hypermedia information systems"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/220px-HTTP_logo.svg.png",
+      "websiteUrl": "https://httpwg.org/specs/",
+      "isLibreSoftware": false,
+      "developers": []
+    },
+    "similarExternalSoftwares": [],
+    "comptoirDuLibreSoftware": {
+      "id": 297,
+      "created": "2019-02-27T10:20:00+00:00",
+      "modified": "2019-02-27T10:20:00+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/297",
+      "name": "GLPI Plugin:https:Geststock",
+      "licence": "GNU aGPL v3",
+      "external_resources": {
+        "website": "https://plugins.glpi-project.org/#/plugin/geststock",
+        "repository": "https://github.com/yllen/geststock"
+      },
+      "providers": [
+        {
+          "id": 734,
+          "url": "https://comptoir-du-libre.org/fr/users/734",
+          "name": "IPEOS",
+          "type": "Company",
+          "external_resources": {
+            "website": "http://www.ipeos.com"
+          }
+        }
+      ],
+      "users": [],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/GLPI%20Plugin%3Ahttps%3AGeststock/avatar/placeholder.png",
+      "keywords": []
+    },
+    "latestVersion": {
+      "semVer": "v2.1.1",
+      "publicationTime": 1713445750000
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
