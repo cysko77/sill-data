@@ -519,5 +519,49 @@
             "ijkl"
         ],
         "status": "accepter"
+    },
+    {
+        "id": 14,
+        "name": "Hypertext Transfer Protocol",
+        "description": "protocole de transfert de données dans un réseau informatique",
+        "referencedSinceTime": 1729602189375,
+        "updateTime": 1729602189375,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 2,
+            "scoreTracabilite": 4,
+            "scoreConfidentialite": 4,
+            "scoreIntegrite": 4
+        },
+        "scopes": [
+            {
+                "missions": "312",
+                "processus": 10
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q8777",
+        "comptoirDuLibreId": 297,
+        "license": "GNU aGPL v3",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": true,
+                "linux": false,
+                "mac": false
+            }
+        },
+        "versionMin": "v2.1.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "fdssfdgs"
+        ],
+        "status": "en cours"
     }
 ]
