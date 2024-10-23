@@ -586,6 +586,13 @@
         "targetAudience": "Informatique",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 29,
+        "organization": "ARS Mayotte",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
       }
     ]
   },

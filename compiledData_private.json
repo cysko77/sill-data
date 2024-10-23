@@ -624,6 +624,14 @@
         "softwareType": "stack",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "vincent.lanchec@ars.sante.fr"
+      },
+      {
+        "id": 29,
+        "organization": "ARS Mayotte",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
