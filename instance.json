@@ -345,5 +345,16 @@
         "softwareType": "stack",
         "referencedSinceTime": 1729673741694,
         "updateTime": 1729673741694
+    },
+    {
+        "id": 32,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Pays de la Loire",
+        "mainSoftwareSillId": 15,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "referencedSinceTime": 1729673863693,
+        "updateTime": 1729673863693
     }
 ]
