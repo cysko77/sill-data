@@ -602,5 +602,48 @@
             "developpement"
         ],
         "status": "accepter"
+    },
+    {
+        "id": 16,
+        "name": "Outlook.com",
+        "description": "service de messagerie web",
+        "referencedSinceTime": 1729671205708,
+        "updateTime": 1729671205708,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 2
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q219136",
+        "license": "GNU",
+        "softwareType": {
+            "type": "desktop/mobile",
+            "os": {
+                "windows": false,
+                "linux": false,
+                "mac": true
+            }
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "developpement"
+        ],
+        "status": "en cours"
     }
 ]
