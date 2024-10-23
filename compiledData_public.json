@@ -2014,5 +2014,195 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "status": "accepter"
+  },
+  {
+    "serviceProviders": [],
+    "categories": [],
+    "comptoirDuLibreSoftware": {
+      "id": 279,
+      "created": "2019-01-30T09:24:47+00:00",
+      "modified": "2024-04-16T15:20:10+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/279",
+      "name": "Symfony",
+      "licence": "MIT",
+      "external_resources": {
+        "website": "https://symfony.com/",
+        "repository": "https://github.com/symfony/symfony"
+      },
+      "providers": [
+        {
+          "id": 3960,
+          "url": "https://comptoir-du-libre.org/fr/users/3960",
+          "name": "Bearstech",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://bearstech.com"
+          }
+        },
+        {
+          "id": 2225,
+          "url": "https://comptoir-du-libre.org/fr/users/2225",
+          "name": "Empreinte Digitale SCOP SA",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.empreintedigitale.fr"
+          }
+        },
+        {
+          "id": 3764,
+          "url": "https://comptoir-du-libre.org/fr/users/3764",
+          "name": "Les-Tilleuls.coop",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://les-tilleuls.coop/"
+          }
+        },
+        {
+          "id": 398,
+          "url": "https://comptoir-du-libre.org/fr/users/398",
+          "name": "Probesys",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.probesys.com"
+          }
+        },
+        {
+          "id": 3172,
+          "url": "https://comptoir-du-libre.org/fr/users/3172",
+          "name": "SensioLabs",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://sensiolabs.com/fr/"
+          }
+        },
+        {
+          "id": 4021,
+          "url": "https://comptoir-du-libre.org/fr/users/4021",
+          "name": "Talan",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://talan.com"
+          }
+        },
+        {
+          "id": 3838,
+          "url": "https://comptoir-du-libre.org/fr/users/3838",
+          "name": "TEICEE",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.teicee.com"
+          }
+        }
+      ],
+      "users": [
+        {
+          "id": 3251,
+          "url": "https://comptoir-du-libre.org/fr/users/3251",
+          "name": "Agence Technique Départementale de Charente",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://atd16.fr"
+          }
+        },
+        {
+          "id": 3396,
+          "url": "https://comptoir-du-libre.org/fr/users/3396",
+          "name": "Bertrand DAVID - CNRS - INSHS - Laboratoire ArAr",
+          "type": "Administration",
+          "external_resources": {
+            "website": ""
+          }
+        },
+        {
+          "id": 4030,
+          "url": "https://comptoir-du-libre.org/fr/users/4030",
+          "name": "Département de la Creuse",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.creuse.fr/"
+          }
+        },
+        {
+          "id": 3377,
+          "url": "https://comptoir-du-libre.org/fr/users/3377",
+          "name": "Département de l'Isère (38)",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.isere.fr/"
+          }
+        },
+        {
+          "id": 254,
+          "url": "https://comptoir-du-libre.org/fr/users/254",
+          "name": "GRAND BESANCON METROPOLE",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://grandbesancon.fr"
+          }
+        }
+      ],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/Symfony/avatar/symfony.png",
+      "keywords": []
+    },
+    "description": "logiciel informatique",
+    "doRespectRgaa": false,
+    "id": 15,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 3,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "312",
+        "processus": 9
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "developpement"
+    ],
+    "license": "MIT licence",
+    "name": "Symfony",
+    "referencedSinceTime": 1729667035171,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "latestVersion": {
+      "semVer": "v7.1.5",
+      "publicationTime": 1726899273000
+    },
+    "updateTime": 1729667035171,
+    "versionMin": "v7.1.5",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q1322933",
+      "externalDataOrigin": "wikidata",
+      "label": "Symfony",
+      "description": {
+        "fr": "logiciel informatique",
+        "en": "PHP web application framework for MVC applications"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Symfony2.svg/220px-Symfony2.svg.png",
+      "sourceUrl": "https://github.com/symfony/symfony",
+      "websiteUrl": "https://symfony.com",
+      "license": "MIT licence",
+      "isLibreSoftware": true,
+      "developers": [
+        {
+          "name": "SensioLabs",
+          "id": "Q56854307"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "en cours"
   }
 ]
