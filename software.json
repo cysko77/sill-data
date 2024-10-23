@@ -566,12 +566,15 @@
     },
     {
         "id": 15,
-        "name": "Symfony",
-        "description": "logiciel informatique",
         "referencedSinceTime": 1729667035171,
-        "updateTime": 1729667035171,
+        "updateTime": 1729673865237,
         "isStillInObservation": false,
         "doRespectRgaa": false,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
+        "comptoirDuLibreId": 279,
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": false,
         "dicts": {
@@ -587,17 +590,14 @@
             }
         ],
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q1322933",
-        "comptoirDuLibreId": 279,
+        "description": "logiciel informatique",
         "license": "MIT licence",
+        "versionMin": "v7.1.5",
+        "name": "Symfony",
         "softwareType": {
             "type": "cloud"
         },
-        "versionMin": "v7.1.5",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "externalId": "Q1322933",
         "keywords": [
             "developpement"
         ],
