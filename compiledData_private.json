@@ -803,7 +803,16 @@
     "similarExternalSoftwares": [],
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 30,
+        "organization": "ARS Occitanie",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      }
+    ]
   },
   {
     "id": 6,
