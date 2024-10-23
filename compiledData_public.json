@@ -2224,7 +2224,15 @@
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": [],
+    "instances": [
+      {
+        "id": 32,
+        "organization": "ARS Pays de la Loire",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
+      }
+    ],
     "status": "accepter"
   },
   {

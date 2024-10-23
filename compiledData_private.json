@@ -2277,7 +2277,16 @@
     },
     "users": [],
     "referents": [],
-    "instances": []
+    "instances": [
+      {
+        "id": 32,
+        "organization": "ARS Pays de la Loire",
+        "targetAudience": "Développeur",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      }
+    ]
   },
   {
     "id": 16,
