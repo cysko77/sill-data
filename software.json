@@ -563,5 +563,44 @@
             "fdssfdgs"
         ],
         "status": "accepter"
+    },
+    {
+        "id": 15,
+        "name": "Symfony",
+        "description": "logiciel informatique",
+        "referencedSinceTime": 1729667035171,
+        "updateTime": 1729667035171,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 4,
+            "scoreTracabilite": 3,
+            "scoreConfidentialite": 3,
+            "scoreIntegrite": 4
+        },
+        "scopes": [
+            {
+                "missions": "312",
+                "processus": 9
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q1322933",
+        "comptoirDuLibreId": 279,
+        "license": "MIT licence",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v7.1.5",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "developpement"
+        ],
+        "status": "en cours"
     }
 ]
