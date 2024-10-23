@@ -42,7 +42,7 @@
     {
         "id": 2,
         "referencedSinceTime": 1728476750015,
-        "updateTime": 1728565772729,
+        "updateTime": 1729675505047,
         "isStillInObservation": false,
         "doRespectRgaa": false,
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
@@ -75,7 +75,6 @@
         "keywords": [
             "a"
         ],
-        "isAccepted": true,
         "status": "accepter"
     },
     {
