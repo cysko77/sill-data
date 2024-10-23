@@ -2204,5 +2204,73 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "status": "accepter"
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "Frank ",
+        "website": "http://www.bareos.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3538"
+      }
+    ],
+    "categories": [],
+    "description": "service de messagerie web",
+    "doRespectRgaa": null,
+    "id": 16,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "developpement"
+    ],
+    "license": "GNU",
+    "name": "Outlook.com",
+    "referencedSinceTime": 1729671205708,
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": false,
+        "linux": false,
+        "mac": true
+      }
+    },
+    "testUrls": [],
+    "updateTime": 1729671205708,
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "softwareExternalData": {
+      "externalId": "Q219136",
+      "externalDataOrigin": "wikidata",
+      "label": "Outlook.com",
+      "description": {
+        "fr": "service de messagerie web",
+        "en": "Microsoft webmail service"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/220px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "en cours"
   }
 ]

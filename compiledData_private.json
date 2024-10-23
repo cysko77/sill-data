@@ -2253,5 +2253,74 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 16,
+    "name": "Outlook.com",
+    "description": "service de messagerie web",
+    "referencedSinceTime": 1729671205708,
+    "updateTime": 1729671205708,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "license": "GNU",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": false,
+        "linux": false,
+        "mac": true
+      }
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "developpement"
+    ],
+    "status": "en cours",
+    "serviceProviders": [
+      {
+        "name": "Frank ",
+        "website": "http://www.bareos.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3538"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q219136",
+      "externalDataOrigin": "wikidata",
+      "label": "Outlook.com",
+      "description": {
+        "fr": "service de messagerie web",
+        "en": "Microsoft webmail service"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/220px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
