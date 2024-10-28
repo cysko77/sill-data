@@ -1055,5 +1055,44 @@
             "fdsf"
         ],
         "status": "en cours"
+    },
+    {
+        "id": 29,
+        "name": "iOS",
+        "description": "système d'exploitation mobile développé par Apple",
+        "referencedSinceTime": 1730126280082,
+        "updateTime": 1730126280082,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "312",
+                "processus": 9
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q48493",
+        "comptoirDuLibreId": 209,
+        "license": "non-free license",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "nagios-4.5.7",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "developpement"
+        ],
+        "status": "accepter"
     }
 ]
