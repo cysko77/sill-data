@@ -2644,5 +2644,78 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "status": "en cours"
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "HYPRA",
+        "website": "https://hypra.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3534"
+      },
+      {
+        "name": "IPEOS",
+        "website": "http://www.ipeos.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/734"
+      },
+      {
+        "name": "Joyce MARKOLL",
+        "website": "https://orditux.org",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/446"
+      },
+      {
+        "name": "Microlinux",
+        "website": "https://www.microlinux.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/295"
+      },
+      {
+        "name": "OpenDSI",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/751305228",
+        "siren": "751305228"
+      }
+    ],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "OpenDSI",
+        "siren": "751305228",
+        "url": "https://annuaire.cnll.fr/societes/751305228"
+      }
+    ],
+    "categories": [],
+    "description": "researcher",
+    "doRespectRgaa": false,
+    "id": 22,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 2,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 3,
+      "scoreIntegrite": 1
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "isStillInObservation": false,
+    "keywords": [
+      "developpement"
+    ],
+    "license": "GNU",
+    "name": "REEACT Team",
+    "referencedSinceTime": 1730119354851,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1730119354851,
+    "versionMin": "v2.1.1",
+    "workshopUrls": [],
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "en cours"
   }
 ]
