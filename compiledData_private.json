@@ -3180,5 +3180,222 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 29,
+    "name": "iOS",
+    "description": "système d'exploitation mobile développé par Apple",
+    "referencedSinceTime": 1730126280082,
+    "updateTime": 1730126280082,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "312",
+        "processus": 9
+      }
+    ],
+    "license": "non-free license",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "nagios-4.5.7",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "developpement"
+    ],
+    "status": "accepter",
+    "serviceProviders": [],
+    "softwareExternalData": {
+      "externalId": "Q48493",
+      "externalDataOrigin": "wikidata",
+      "label": "iOS",
+      "description": {
+        "fr": "système d'exploitation mobile développé par Apple",
+        "en": "mobile operating system by Apple Inc."
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/IOS_wordmark_%282017%29.svg/220px-IOS_wordmark_%282017%29.svg.png",
+      "websiteUrl": "https://www.apple.com/ios/",
+      "license": "non-free license",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Apple",
+          "id": "Q312"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "comptoirDuLibreSoftware": {
+      "id": 209,
+      "created": "2018-09-04T09:40:21+00:00",
+      "modified": "2018-09-05T05:36:06+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/209",
+      "name": "Nagios",
+      "licence": "GNU GPLv2",
+      "external_resources": {
+        "website": "http://www.nagios.org/",
+        "repository": "https://github.com/NagiosEnterprises/nagioscore"
+      },
+      "providers": [
+        {
+          "id": 3288,
+          "url": "https://comptoir-du-libre.org/fr/users/3288",
+          "name": "AUKFOOD",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.aukfood.fr"
+          }
+        },
+        {
+          "id": 734,
+          "url": "https://comptoir-du-libre.org/fr/users/734",
+          "name": "IPEOS",
+          "type": "Company",
+          "external_resources": {
+            "website": "http://www.ipeos.com"
+          }
+        },
+        {
+          "id": 4037,
+          "url": "https://comptoir-du-libre.org/fr/users/4037",
+          "name": "Logmotion",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://logmotion.fr"
+          }
+        },
+        {
+          "id": 4075,
+          "url": "https://comptoir-du-libre.org/fr/users/4075",
+          "name": "Oziolab",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.oziolab.fr"
+          }
+        },
+        {
+          "id": 162,
+          "url": "https://comptoir-du-libre.org/fr/users/162",
+          "name": "Your Own Net",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://yourownnet.net"
+          }
+        }
+      ],
+      "users": [
+        {
+          "id": 561,
+          "url": "https://comptoir-du-libre.org/fr/users/561",
+          "name": "CA du Puy-en-Velay",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.agglo-lepuyenvelay.fr/"
+          }
+        },
+        {
+          "id": 305,
+          "url": "https://comptoir-du-libre.org/fr/users/305",
+          "name": "Département de la Gironde",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://gironde.fr"
+          }
+        },
+        {
+          "id": 726,
+          "url": "https://comptoir-du-libre.org/fr/users/726",
+          "name": "Dracénie Provence Verdon agglomération",
+          "type": "Administration",
+          "external_resources": {
+            "website": "http://www.dracenie.com"
+          }
+        },
+        {
+          "id": 604,
+          "url": "https://comptoir-du-libre.org/fr/users/604",
+          "name": "DRAC Pays de la Loire - Ministère de la Culture",
+          "type": "Administration",
+          "external_resources": {
+            "website": "http://www.culture.gouv.fr/Regions/Drac-Pays-de-la-Loire"
+          }
+        },
+        {
+          "id": 536,
+          "url": "https://comptoir-du-libre.org/fr/users/536",
+          "name": "ENSEA",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.ensea.fr"
+          }
+        },
+        {
+          "id": 399,
+          "url": "https://comptoir-du-libre.org/fr/users/399",
+          "name": "Mairie de Montereau-Fault-Yonne",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.ville-montereau77.fr"
+          }
+        },
+        {
+          "id": 675,
+          "url": "https://comptoir-du-libre.org/fr/users/675",
+          "name": "Morbihan énergies",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://morbihan-energies.fr"
+          }
+        },
+        {
+          "id": 3590,
+          "url": "https://comptoir-du-libre.org/fr/users/3590",
+          "name": "Rumilly (Mairie et Communauté de Communes)",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.mairie-rumilly74.fr"
+          }
+        },
+        {
+          "id": 702,
+          "url": "https://comptoir-du-libre.org/fr/users/702",
+          "name": "Ville de Boé",
+          "type": "Administration",
+          "external_resources": {
+            "website": "https://www.ville-boe.fr/"
+          }
+        },
+        {
+          "id": 252,
+          "url": "https://comptoir-du-libre.org/fr/users/252",
+          "name": "Ville de Clichy-sous-Bois",
+          "type": "Administration",
+          "external_resources": {
+            "website": "http://www.clichy-sous-bois.fr"
+          }
+        }
+      ],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/Nagios/avatar/Logo-Nagios.png",
+      "keywords": []
+    },
+    "latestVersion": {
+      "semVer": "nagios-4.5.7",
+      "publicationTime": 1729784252000
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
