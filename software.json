@@ -1017,5 +1017,43 @@
             "developpement"
         ],
         "status": "accepter"
+    },
+    {
+        "id": 28,
+        "name": "ESLint",
+        "description": "bibliothèque logicielle JavaScript",
+        "referencedSinceTime": 1730125806337,
+        "updateTime": 1730125806337,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q55452824",
+        "license": "MIT licence",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v9.13.0",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "fdsf"
+        ],
+        "status": "en cours"
     }
 ]
