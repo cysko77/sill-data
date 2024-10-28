@@ -2297,7 +2297,15 @@
     "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
-    "instances": [],
+    "instances": [
+      {
+        "id": 34,
+        "organization": "ARS Provence-Alpes-Côte d'Azur",
+        "targetAudience": "Développeur web",
+        "softwareType": "stack",
+        "otherWikidataSoftwares": []
+      }
+    ],
     "status": "accepter"
   },
   {
