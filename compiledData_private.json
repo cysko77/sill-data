@@ -2920,5 +2920,90 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 26,
+    "name": "TypeScript",
+    "description": "langage de programmation qui se transpile en JavaScript",
+    "referencedSinceTime": 1730125493491,
+    "updateTime": 1730125493491,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 2,
+      "scoreTracabilite": 3,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "license": "Apache License v2.0",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v5.6.3",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "developpement"
+    ],
+    "status": "en cours",
+    "serviceProviders": [
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q978185",
+      "externalDataOrigin": "wikidata",
+      "label": "TypeScript",
+      "description": {
+        "fr": "langage de programmation qui se transpile en JavaScript",
+        "en": "programming language, superset of JavaScript that compiles to JavaScript"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/220px-Typescript_logo_2020.svg.png",
+      "sourceUrl": "https://github.com/Microsoft/TypeScript",
+      "websiteUrl": "https://www.typescriptlang.org/",
+      "license": "Apache License v2.0",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Anders Hejlsberg",
+          "id": "Q316544"
+        },
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "latestVersion": {
+      "semVer": "v5.6.3",
+      "publicationTime": 1728439189000
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
