@@ -603,12 +603,14 @@
     },
     {
         "id": 16,
-        "name": "Outlook.com",
-        "description": "service de messagerie web",
         "referencedSinceTime": 1729671205708,
-        "updateTime": 1729671205708,
+        "updateTime": 1730126375236,
         "isStillInObservation": false,
         "doRespectRgaa": null,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "categories": [],
+        "testUrls": [],
+        "workshopUrls": [],
         "isFromFrenchPublicService": false,
         "isSoftwareHasHealthData": false,
         "dicts": {
@@ -624,8 +626,10 @@
             }
         ],
         "similarSoftwareExternalDataIds": [],
-        "externalId": "Q219136",
+        "description": "service de messagerie web",
         "license": "GNU",
+        "versionMin": "v18.3.1",
+        "name": "Outlook.com",
         "softwareType": {
             "type": "desktop/mobile",
             "os": {
@@ -634,11 +638,7 @@
                 "mac": true
             }
         },
-        "versionMin": "v18.3.1",
-        "workshopUrls": [],
-        "testUrls": [],
-        "categories": [],
-        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "externalId": "Q219136",
         "keywords": [
             "developpement"
         ],
