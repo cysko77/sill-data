@@ -2352,7 +2352,14 @@
     },
     "similarExternalSoftwares": [],
     "users": [],
-    "referents": [],
+    "referents": [
+      {
+        "email": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS IDF",
+        "isExpert": true,
+        "useCaseDescription": "oui"
+      }
+    ],
     "instances": [
       {
         "id": 34,

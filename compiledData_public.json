@@ -2295,8 +2295,13 @@
       ]
     },
     "similarExternalSoftwares": [],
-    "hasExpertReferent": false,
-    "userAndReferentCountByOrganization": {},
+    "hasExpertReferent": true,
+    "userAndReferentCountByOrganization": {
+      "ARS IDF": {
+        "referentCount": 1,
+        "userCount": 0
+      }
+    },
     "instances": [
       {
         "id": 34,
