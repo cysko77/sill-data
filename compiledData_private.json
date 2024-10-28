@@ -2431,5 +2431,127 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 19,
+    "name": "twitter",
+    "description": "logiciel de modelisation informatique",
+    "referencedSinceTime": 1730112344805,
+    "updateTime": 1730112344805,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 1
+    },
+    "scopes": [],
+    "license": "GNU",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "1.3.4",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "dev",
+      "ddvs"
+    ],
+    "status": "en cours",
+    "serviceProviders": [
+      {
+        "name": "2i2L",
+        "website": "https://www.2i2l.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/57"
+      },
+      {
+        "name": "CENTREON",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/483494589",
+        "siren": "483494589"
+      },
+      {
+        "name": "CIGALL",
+        "website": "Https://www.cigall.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/270"
+      },
+      {
+        "name": "CAMPTOCAMP",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/433698578",
+        "siren": "433698578"
+      },
+      {
+        "name": "EDISSYUM Consulting",
+        "website": "http://www.edissyum.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/345"
+      },
+      {
+        "name": "Microlinux",
+        "website": "https://www.microlinux.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/295"
+      },
+      {
+        "name": "BeeZim",
+        "website": "https://www.beezim.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3445"
+      },
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "Hasgard",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/435393921",
+        "siren": "435393921"
+      },
+      {
+        "name": "Logmotion",
+        "website": "https://logmotion.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4037"
+      },
+      {
+        "name": "WORTEKS",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/824429708",
+        "siren": "824429708"
+      }
+    ],
+    "similarExternalSoftwares": [],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "CAMPTOCAMP",
+        "siren": "433698578",
+        "url": "https://annuaire.cnll.fr/societes/433698578"
+      },
+      {
+        "name": "Hasgard",
+        "siren": "435393921",
+        "url": "https://annuaire.cnll.fr/societes/435393921"
+      },
+      {
+        "name": "WORTEKS",
+        "siren": "824429708",
+        "url": "https://annuaire.cnll.fr/societes/824429708"
+      },
+      {
+        "name": "CENTREON",
+        "siren": "483494589",
+        "url": "https://annuaire.cnll.fr/societes/483494589"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
