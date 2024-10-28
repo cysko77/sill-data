@@ -2717,5 +2717,72 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "status": "en cours"
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "IPEOS",
+        "website": "http://www.ipeos.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/734"
+      },
+      {
+        "name": "Librezo",
+        "website": "https://librezo.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4015"
+      },
+      {
+        "name": "MDDN",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/296"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      }
+    ],
+    "categories": [],
+    "description": "logiciel de modelisation informatique",
+    "doRespectRgaa": null,
+    "id": 23,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 1
+    },
+    "scopes": [],
+    "isStillInObservation": false,
+    "keywords": [
+      "dev",
+      "ddvs"
+    ],
+    "license": "GNU",
+    "name": "réact",
+    "referencedSinceTime": 1730119418406,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1730119418406,
+    "versionMin": "1.3.4",
+    "workshopUrls": [],
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "en cours"
   }
 ]
