@@ -979,5 +979,43 @@
             "developpement"
         ],
         "status": "en cours"
+    },
+    {
+        "id": 27,
+        "name": "YouTube",
+        "description": "site web d'hébergement de vidéos",
+        "referencedSinceTime": 1730125671779,
+        "updateTime": 1730125671779,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 2
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q866",
+        "license": "EULA",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v18.3.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "developpement"
+        ],
+        "status": "accepter"
     }
 ]
