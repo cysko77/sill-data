@@ -643,5 +643,35 @@
             "developpement"
         ],
         "status": "accepter"
+    },
+    {
+        "id": 17,
+        "name": "draw.io",
+        "description": "logiciel de modelisation informatique",
+        "referencedSinceTime": 1730108958656,
+        "updateTime": 1730108958656,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 0,
+            "scoreTracabilite": 0,
+            "scoreConfidentialite": 0,
+            "scoreIntegrite": 0
+        },
+        "scopes": [],
+        "similarSoftwareExternalDataIds": [],
+        "license": "GNU",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "1.3.4",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [],
+        "status": "en cours"
     }
 ]
