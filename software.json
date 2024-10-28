@@ -805,5 +805,42 @@
             "ddvs"
         ],
         "status": "en cours"
+    },
+    {
+        "id": 22,
+        "name": "REEACT Team",
+        "description": "researcher",
+        "referencedSinceTime": 1730119354851,
+        "updateTime": 1730119354851,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 2,
+            "scoreTracabilite": 3,
+            "scoreConfidentialite": 3,
+            "scoreIntegrite": 1
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 2
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "license": "GNU",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v2.1.1",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "developpement"
+        ],
+        "status": "en cours"
     }
 ]
