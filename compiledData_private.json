@@ -2626,5 +2626,83 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 21,
+    "name": "yarn",
+    "description": "logiciel de modelisation informatique",
+    "referencedSinceTime": 1730112697837,
+    "updateTime": 1730112697837,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 1
+    },
+    "scopes": [],
+    "license": "GNU",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "1.3.4",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "dev",
+      "ddvs"
+    ],
+    "status": "en cours",
+    "serviceProviders": [
+      {
+        "name": "AtolCD",
+        "website": "https://www.atolcd.com/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/13"
+      },
+      {
+        "name": "BeeZim",
+        "website": "https://www.beezim.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3445"
+      },
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "TBNETSYS",
+        "website": "https://tbnetsys.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3252"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
