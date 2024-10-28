@@ -3005,5 +3005,99 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 27,
+    "name": "YouTube",
+    "description": "site web d'hébergement de vidéos",
+    "referencedSinceTime": 1730125671779,
+    "updateTime": 1730125671779,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 0,
+      "scoreTracabilite": 0,
+      "scoreConfidentialite": 0,
+      "scoreIntegrite": 0
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 2
+      }
+    ],
+    "license": "EULA",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "v18.3.1",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "developpement"
+    ],
+    "status": "accepter",
+    "serviceProviders": [
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "Worteks",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q866",
+      "externalDataOrigin": "wikidata",
+      "label": "YouTube",
+      "description": {
+        "fr": "site web d'hébergement de vidéos",
+        "en": "American video-sharing platform owned by Alphabet Inc."
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/YouTube_2024.svg/220px-YouTube_2024.svg.png",
+      "websiteUrl": "https://www.youtube.com/",
+      "license": "EULA",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Steve Chen",
+          "id": "Q379396"
+        },
+        {
+          "name": "Chad Hurley",
+          "id": "Q370299"
+        },
+        {
+          "name": "Jawed Karim",
+          "id": "Q76694"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
