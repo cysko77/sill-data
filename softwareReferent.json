@@ -12,5 +12,11 @@
         "isExpert": false,
         "serviceUrl": "",
         "useCaseDescription": "Développement"
+    },
+    {
+        "softwareId": 16,
+        "agentEmail": "mohamed.benomar@ars.sante.fr",
+        "isExpert": true,
+        "useCaseDescription": "oui"
     }
 ]
