@@ -2553,5 +2553,78 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 20,
+    "name": "daylimotion",
+    "description": "logiciel de modelisation informatique",
+    "referencedSinceTime": 1730112696143,
+    "updateTime": 1730112696143,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 1
+    },
+    "scopes": [],
+    "license": "GNU",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "1.3.4",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "dev",
+      "ddvs"
+    ],
+    "status": "en cours",
+    "serviceProviders": [
+      {
+        "name": "6adminIT",
+        "website": "https://www.6admin.it",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/1089"
+      },
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "Oziolab",
+        "website": "https://www.oziolab.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "YPSI",
+        "website": "https://www.ypsi.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3280"
+      }
+    ],
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]

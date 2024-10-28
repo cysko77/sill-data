@@ -2495,5 +2495,77 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "status": "en cours"
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "6adminIT",
+        "website": "https://www.6admin.it",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/1089"
+      },
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "Oziolab",
+        "website": "https://www.oziolab.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "YPSI",
+        "website": "https://www.ypsi.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3280"
+      }
+    ],
+    "categories": [],
+    "description": "logiciel de modelisation informatique",
+    "doRespectRgaa": null,
+    "id": 20,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 1
+    },
+    "scopes": [],
+    "isStillInObservation": false,
+    "keywords": [
+      "dev",
+      "ddvs"
+    ],
+    "license": "GNU",
+    "name": "daylimotion",
+    "referencedSinceTime": 1730112696143,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1730112696143,
+    "versionMin": "1.3.4",
+    "workshopUrls": [],
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "en cours"
   }
 ]
