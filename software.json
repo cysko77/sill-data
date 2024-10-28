@@ -941,5 +941,43 @@
             "ddvs"
         ],
         "status": "en cours"
+    },
+    {
+        "id": 26,
+        "name": "TypeScript",
+        "description": "langage de programmation qui se transpile en JavaScript",
+        "referencedSinceTime": 1730125493491,
+        "updateTime": 1730125493491,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 2,
+            "scoreTracabilite": 3,
+            "scoreConfidentialite": 4,
+            "scoreIntegrite": 4
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q978185",
+        "license": "Apache License v2.0",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "v5.6.3",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "developpement"
+        ],
+        "status": "en cours"
     }
 ]
