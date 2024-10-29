@@ -218,6 +218,15 @@
         "osSelectValue": "macOs",
         "cloudValue": "",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 41,
+        "organization": "ARS IDF",
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "osSelectValue": "Windows",
+        "cloudValue": "",
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"

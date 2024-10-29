@@ -239,6 +239,16 @@
         "cloudValue": "",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 41,
+        "organization": "ARS IDF",
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "osSelectValue": "Windows",
+        "cloudValue": "",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
