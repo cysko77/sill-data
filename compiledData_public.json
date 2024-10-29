@@ -182,6 +182,15 @@
         "osSelectValue": "",
         "cloudValue": "dinum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 37,
+        "organization": "ARS fdsfs",
+        "targetAudience": "dev",
+        "softwareType": "cloud",
+        "osSelectValue": "",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"
