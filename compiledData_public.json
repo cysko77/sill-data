@@ -164,6 +164,15 @@
         "targetAudience": "Développeur",
         "softwareType": "stack",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 35,
+        "organization": "ARS IDF",
+        "targetAudience": "dev",
+        "softwareType": "cloud",
+        "osSelectValue": "",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"
