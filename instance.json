@@ -443,5 +443,18 @@
         "cloudValue": "dinum",
         "referencedSinceTime": 1730213807026,
         "updateTime": 1730213807026
+    },
+    {
+        "id": 40,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS fg",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "osSelectValue": "macOs",
+        "cloudValue": "",
+        "referencedSinceTime": 1730213808491,
+        "updateTime": 1730213808491
     }
 ]
