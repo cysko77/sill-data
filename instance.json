@@ -378,5 +378,18 @@
         "softwareType": "stack",
         "referencedSinceTime": 1730126373582,
         "updateTime": 1730126373582
+    },
+    {
+        "id": 35,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS IDF",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dev",
+        "softwareType": "cloud",
+        "osSelectValue": "",
+        "cloudValue": "dinum",
+        "referencedSinceTime": 1730213541076,
+        "updateTime": 1730213541076
     }
 ]
