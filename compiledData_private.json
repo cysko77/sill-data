@@ -229,6 +229,16 @@
         "cloudValue": "dinum",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 40,
+        "organization": "ARS fg",
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "osSelectValue": "macOs",
+        "cloudValue": "",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },

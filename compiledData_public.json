@@ -209,6 +209,15 @@
         "osSelectValue": "",
         "cloudValue": "dinum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 40,
+        "organization": "ARS fg",
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "osSelectValue": "macOs",
+        "cloudValue": "",
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"
