@@ -173,6 +173,15 @@
         "osSelectValue": "",
         "cloudValue": "dinum",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 36,
+        "organization": "ARS IDF",
+        "targetAudience": "dev",
+        "softwareType": "cloud",
+        "osSelectValue": "",
+        "cloudValue": "dinum",
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"
