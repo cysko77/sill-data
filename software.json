@@ -1193,5 +1193,44 @@
             "ddvs"
         ],
         "status": "accepter"
+    },
+    {
+        "id": 33,
+        "name": "Rust",
+        "description": "langage de programmation informatique",
+        "referencedSinceTime": 1730299188047,
+        "updateTime": 1730299188047,
+        "isStillInObservation": false,
+        "doRespectRgaa": false,
+        "isFromFrenchPublicService": false,
+        "isSoftwareHasHealthData": false,
+        "dicts": {
+            "scoreDisponibilite": 1,
+            "scoreTracabilite": 4,
+            "scoreConfidentialite": 4,
+            "scoreIntegrite": 4
+        },
+        "scopes": [
+            {
+                "missions": "311",
+                "processus": 1
+            }
+        ],
+        "similarSoftwareExternalDataIds": [],
+        "externalId": "Q575650",
+        "comptoirDuLibreId": 315,
+        "license": "Apache License v2.0",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "1.82.0",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "rapide"
+        ],
+        "status": "accepter"
     }
 ]
