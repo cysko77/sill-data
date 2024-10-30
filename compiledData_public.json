@@ -4718,5 +4718,259 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "status": "accepter"
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "Axess",
+        "website": "https://www.axess.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3569"
+      },
+      {
+        "name": "Libre en Ariège",
+        "website": "https://www.libre-en-ariege.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3999"
+      },
+      {
+        "name": "GAYA",
+        "website": "https://www.gaya.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3637"
+      },
+      {
+        "name": "INNO3",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/538420753",
+        "siren": "538420753"
+      },
+      {
+        "name": "esprit libre",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/410829477",
+        "siren": "410829477"
+      },
+      {
+        "name": "Makina Corpus",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/518521414",
+        "siren": "518521414"
+      },
+      {
+        "name": "OpenDSI",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/751305228",
+        "siren": "751305228"
+      },
+      {
+        "name": "ENOVATION SOLUTIONS",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/824531115",
+        "siren": "824531115"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "NS-Team",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/449396704",
+        "siren": "449396704"
+      },
+      {
+        "name": "SMILE",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/378615363",
+        "siren": "378615363"
+      },
+      {
+        "name": "Bearstech",
+        "website": "https://bearstech.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
+      },
+      {
+        "name": "ézéo",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/437827959",
+        "siren": "437827959"
+      },
+      {
+        "name": "ALTER WAY",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/490932308",
+        "siren": "490932308"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      },
+      {
+        "name": "SENSIOLABS",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/752893842",
+        "siren": "752893842"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "AODB",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/832342075",
+        "siren": "832342075"
+      },
+      {
+        "name": "BIBLIBRE",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/500369574",
+        "siren": "500369574"
+      },
+      {
+        "name": "AtolCD",
+        "website": "https://www.atolcd.com/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/13"
+      },
+      {
+        "name": "OSInet",
+        "website": "https://osinet.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3253"
+      },
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
+      },
+      {
+        "name": "IDETIC-ss2L",
+        "website": "http://idetic-ss2l.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/241"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "Logmotion",
+        "website": "https://logmotion.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4037"
+      },
+      {
+        "name": "ITSS",
+        "website": "https://www.itss.paris/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3485"
+      },
+      {
+        "name": "Christophe Valentin",
+        "website": "http://www.logicfactory.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/1460"
+      },
+      {
+        "name": "DBM technologies",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/434987608",
+        "siren": "434987608"
+      }
+    ],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "BIBLIBRE",
+        "siren": "500369574",
+        "url": "https://annuaire.cnll.fr/societes/500369574"
+      },
+      {
+        "name": "ENOVATION SOLUTIONS",
+        "siren": "824531115",
+        "url": "https://annuaire.cnll.fr/societes/824531115"
+      },
+      {
+        "name": "AODB",
+        "siren": "832342075",
+        "url": "https://annuaire.cnll.fr/societes/832342075"
+      },
+      {
+        "name": "INNO3",
+        "siren": "538420753",
+        "url": "https://annuaire.cnll.fr/societes/538420753"
+      },
+      {
+        "name": "SMILE",
+        "siren": "378615363",
+        "url": "https://annuaire.cnll.fr/societes/378615363"
+      },
+      {
+        "name": "OpenDSI",
+        "siren": "751305228",
+        "url": "https://annuaire.cnll.fr/societes/751305228"
+      },
+      {
+        "name": "ézéo",
+        "siren": "437827959",
+        "url": "https://annuaire.cnll.fr/societes/437827959"
+      },
+      {
+        "name": "DBM technologies",
+        "siren": "434987608",
+        "url": "https://annuaire.cnll.fr/societes/434987608"
+      },
+      {
+        "name": "ALTER WAY",
+        "siren": "490932308",
+        "url": "https://annuaire.cnll.fr/societes/490932308"
+      },
+      {
+        "name": "NS-Team",
+        "siren": "449396704",
+        "url": "https://annuaire.cnll.fr/societes/449396704"
+      },
+      {
+        "name": "esprit libre",
+        "siren": "410829477",
+        "url": "https://annuaire.cnll.fr/societes/410829477"
+      },
+      {
+        "name": "SENSIOLABS",
+        "siren": "752893842",
+        "url": "https://annuaire.cnll.fr/societes/752893842"
+      },
+      {
+        "name": "Makina Corpus",
+        "siren": "518521414",
+        "url": "https://annuaire.cnll.fr/societes/518521414"
+      }
+    ],
+    "categories": [],
+    "description": "logiciel de modelisation informatique",
+    "doRespectRgaa": null,
+    "id": 36,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 2
+    },
+    "scopes": [],
+    "isStillInObservation": false,
+    "keywords": [
+      "dev",
+      "ddvs"
+    ],
+    "license": "GNU",
+    "name": "dsfr",
+    "referencedSinceTime": 1730303017878,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1730303017878,
+    "versionMin": "1.3.4",
+    "workshopUrls": [],
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "accepter"
   }
 ]
