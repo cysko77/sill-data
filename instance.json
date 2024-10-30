@@ -733,5 +733,16 @@
         "softwareType": "cloud",
         "referencedSinceTime": 1730302907276,
         "updateTime": 1730302907276
+    },
+    {
+        "id": 66,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Mayotte",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dev",
+        "softwareType": "cloud",
+        "referencedSinceTime": 1730302909791,
+        "updateTime": 1730302909791
     }
 ]
