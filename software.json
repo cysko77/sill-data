@@ -1232,5 +1232,38 @@
             "rapide"
         ],
         "status": "accepter"
+    },
+    {
+        "id": 34,
+        "name": "ffgfdf",
+        "description": "logiciel de modelisation informatique",
+        "referencedSinceTime": 1730303015031,
+        "updateTime": 1730303015031,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": true,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 3,
+            "scoreTracabilite": 2,
+            "scoreConfidentialite": 4,
+            "scoreIntegrite": 3
+        },
+        "scopes": [],
+        "similarSoftwareExternalDataIds": [],
+        "license": "GNU",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "1.3.4",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "dev",
+            "ddvs"
+        ],
+        "status": "accepter"
     }
 ]
