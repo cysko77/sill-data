@@ -4671,5 +4671,52 @@
     "userAndReferentCountByOrganization": {},
     "instances": [],
     "status": "accepter"
+  },
+  {
+    "serviceProviders": [
+      {
+        "name": "Libre en Ariège",
+        "website": "https://www.libre-en-ariege.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3999"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      }
+    ],
+    "categories": [],
+    "description": "logiciel de modelisation informatique",
+    "doRespectRgaa": null,
+    "id": 35,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 2
+    },
+    "scopes": [],
+    "isStillInObservation": false,
+    "keywords": [
+      "dev",
+      "ddvs"
+    ],
+    "license": "GNU",
+    "name": "fdsgsg",
+    "referencedSinceTime": 1730303016505,
+    "softwareType": {
+      "type": "cloud"
+    },
+    "testUrls": [],
+    "updateTime": 1730303016505,
+    "versionMin": "1.3.4",
+    "workshopUrls": [],
+    "similarExternalSoftwares": [],
+    "hasExpertReferent": false,
+    "userAndReferentCountByOrganization": {},
+    "instances": [],
+    "status": "accepter"
   }
 ]
