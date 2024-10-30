@@ -249,6 +249,14 @@
         "cloudValue": "",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 42,
+        "organization": "ARS Mayotte",
+        "targetAudience": "dev",
+        "softwareType": "cloud",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
