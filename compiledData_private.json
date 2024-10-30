@@ -4013,5 +4013,125 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 33,
+    "name": "Rust",
+    "description": "langage de programmation informatique",
+    "referencedSinceTime": 1730299188047,
+    "updateTime": 1730299188047,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 1,
+      "scoreTracabilite": 4,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "311",
+        "processus": 1
+      }
+    ],
+    "license": "Apache License v2.0",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "1.82.0",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "rapide"
+    ],
+    "status": "accepter",
+    "serviceProviders": [
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "IndieHosters",
+        "website": "https://indiehosters.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2984"
+      },
+      {
+        "name": "Librezo",
+        "website": "https://librezo.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4015"
+      },
+      {
+        "name": "Your Own Net",
+        "website": "https://yourownnet.net",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/162"
+      }
+    ],
+    "softwareExternalData": {
+      "externalId": "Q575650",
+      "externalDataOrigin": "wikidata",
+      "label": "Rust",
+      "description": {
+        "fr": "langage de programmation informatique",
+        "en": "memory-safe programming language without garbage collection"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/220px-Rust_programming_language_black_logo.svg.png",
+      "sourceUrl": "https://github.com/rust-lang/rust",
+      "websiteUrl": "https://www.rust-lang.org/",
+      "license": "Apache License v2.0",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Mozilla",
+          "id": "Q9661"
+        },
+        {
+          "name": "Graydon Hoare",
+          "id": "Q28937563"
+        },
+        {
+          "name": "Rust Foundation",
+          "id": "Q105394699"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [],
+    "comptoirDuLibreSoftware": {
+      "id": 315,
+      "created": "2019-03-19T17:04:53+00:00",
+      "modified": "2020-07-19T19:01:19+00:00",
+      "url": "https://comptoir-du-libre.org/fr/softwares/315",
+      "name": "Crust",
+      "licence": "Apache License 2.0",
+      "external_resources": {
+        "website": "https://www.crust.tech",
+        "repository": "https://github.com/crusttech"
+      },
+      "providers": [
+        {
+          "id": 385,
+          "url": "https://comptoir-du-libre.org/fr/users/385",
+          "name": "Crust Technology",
+          "type": "Company",
+          "external_resources": {
+            "website": "https://www.crust.tech"
+          }
+        }
+      ],
+      "users": [],
+      "logoUrl": "https://comptoir-du-libre.org//img/files/Softwares/Crust/avatar/crust-logo-with-tagline.png",
+      "keywords": []
+    },
+    "latestVersion": {
+      "semVer": "1.82.0",
+      "publicationTime": 1729183474000
+    },
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
