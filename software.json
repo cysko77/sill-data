@@ -1127,5 +1127,38 @@
             "ddvs"
         ],
         "status": "accepter"
+    },
+    {
+        "id": 31,
+        "name": "hdmi",
+        "description": "logiciel de modelisation informatique",
+        "referencedSinceTime": 1730298625073,
+        "updateTime": 1730298625073,
+        "isStillInObservation": false,
+        "doRespectRgaa": null,
+        "isFromFrenchPublicService": true,
+        "isSoftwareHasHealthData": true,
+        "dicts": {
+            "scoreDisponibilite": 3,
+            "scoreTracabilite": 2,
+            "scoreConfidentialite": 4,
+            "scoreIntegrite": 2
+        },
+        "scopes": [],
+        "similarSoftwareExternalDataIds": [],
+        "license": "GNU",
+        "softwareType": {
+            "type": "cloud"
+        },
+        "versionMin": "1.3.4",
+        "workshopUrls": [],
+        "testUrls": [],
+        "categories": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "keywords": [
+            "dev",
+            "ddvs"
+        ],
+        "status": "accepter"
     }
 ]
