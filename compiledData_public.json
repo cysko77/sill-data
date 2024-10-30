@@ -318,6 +318,13 @@
         "targetAudience": "dev",
         "softwareType": "desktop",
         "otherWikidataSoftwares": []
+      },
+      {
+        "id": 55,
+        "organization": "ARS Mayotte",
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "otherWikidataSoftwares": []
       }
     ],
     "status": "accepter"
