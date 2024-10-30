@@ -502,5 +502,16 @@
         "softwareType": "desktop",
         "referencedSinceTime": 1730302043228,
         "updateTime": 1730302043228
+    },
+    {
+        "id": 45,
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+        "organization": "ARS Mayotte",
+        "mainSoftwareSillId": 1,
+        "otherSoftwareWikidataIds": [],
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "referencedSinceTime": 1730302045084,
+        "updateTime": 1730302045084
     }
 ]
