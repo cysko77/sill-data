@@ -3557,5 +3557,461 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 32,
+    "name": "erbp",
+    "description": "logiciel de modelisation informatique",
+    "referencedSinceTime": 1730298626747,
+    "updateTime": 1730298626747,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": true,
+    "isSoftwareHasHealthData": true,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 2
+    },
+    "scopes": [],
+    "license": "GNU",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "1.3.4",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "dev",
+      "ddvs"
+    ],
+    "status": "accepter",
+    "serviceProviders": [
+      {
+        "name": "Piwigo.com (Pigolabs)",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/528932114",
+        "siren": "528932114"
+      },
+      {
+        "name": "Oziolab",
+        "website": "https://www.oziolab.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4075"
+      },
+      {
+        "name": "Lan2Net",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/524457520",
+        "siren": "524457520"
+      },
+      {
+        "name": "DEBAMAX",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/813965662",
+        "siren": "813965662"
+      },
+      {
+        "name": "ed3l",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/501943963",
+        "siren": "501943963"
+      },
+      {
+        "name": "BlueMind",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/525347498",
+        "siren": "525347498"
+      },
+      {
+        "name": "OCAMLPRO",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/531468429",
+        "siren": "531468429"
+      },
+      {
+        "name": "Probesys",
+        "website": "https://www.probesys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/398"
+      },
+      {
+        "name": "Ionzee",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3681"
+      },
+      {
+        "name": "LOGILAB",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/432746196",
+        "siren": "432746196"
+      },
+      {
+        "name": "Empreinte Digitale SCOP SA",
+        "website": "https://www.empreintedigitale.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2225"
+      },
+      {
+        "name": "2i2L",
+        "website": "https://www.2i2l.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/57"
+      },
+      {
+        "name": "APITUX",
+        "website": "http://www.apitux.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/174",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/452887441",
+        "siren": "452887441"
+      },
+      {
+        "name": "SMILE",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/378615363",
+        "siren": "378615363"
+      },
+      {
+        "name": "Camptocamp France SAS",
+        "website": "https://www.camptocamp.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2258"
+      },
+      {
+        "name": "Bearstech",
+        "website": "https://bearstech.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3960"
+      },
+      {
+        "name": "Ethicsys",
+        "website": "https://www.ethicsys.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3304"
+      },
+      {
+        "name": "HYPRA",
+        "website": "https://hypra.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3534"
+      },
+      {
+        "name": "DotRiver Newgeneration SR",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/528010382",
+        "siren": "528010382"
+      },
+      {
+        "name": "ézéo",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/437827959",
+        "siren": "437827959"
+      },
+      {
+        "name": "France Labs",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/537588089",
+        "siren": "537588089"
+      },
+      {
+        "name": "Azure Informatique",
+        "website": "https://www.azure-informatique.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3962"
+      },
+      {
+        "name": "sos consulting",
+        "website": "",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3985"
+      },
+      {
+        "name": "CAMPTOCAMP",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/433698578",
+        "siren": "433698578"
+      },
+      {
+        "name": "EDISSYUM Consulting",
+        "website": "http://www.edissyum.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/345"
+      },
+      {
+        "name": "EVOLIX",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/451952295",
+        "siren": "451952295"
+      },
+      {
+        "name": "Talan",
+        "website": "https://talan.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4021"
+      },
+      {
+        "name": "JANUA",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/478075369",
+        "siren": "478075369"
+      },
+      {
+        "name": "SIGMAZ Consilium",
+        "website": "https://sigmaz-consilium.fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3893"
+      },
+      {
+        "name": "Ryxéo",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/450656731",
+        "siren": "450656731"
+      },
+      {
+        "name": "Tranquil IT Systems",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/443884580",
+        "siren": "443884580"
+      },
+      {
+        "name": "6adminIT",
+        "website": "https://www.6admin.it",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/1089"
+      },
+      {
+        "name": "Freexian",
+        "website": "https://www.freexian.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3544",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/481385649",
+        "siren": "481385649"
+      },
+      {
+        "name": "Telnowedge",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/495075079",
+        "siren": "495075079"
+      },
+      {
+        "name": "IPEOS",
+        "website": "http://www.ipeos.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/734"
+      },
+      {
+        "name": "APLOSE",
+        "website": "https://www.aplose.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/165"
+      },
+      {
+        "name": "Liberasys",
+        "website": "https://www.liberasys.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/2351"
+      },
+      {
+        "name": "Joyce MARKOLL",
+        "website": "https://orditux.org",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/446"
+      },
+      {
+        "name": "TEICEE",
+        "website": "https://www.teicee.com",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3838"
+      },
+      {
+        "name": "CAP-REL",
+        "website": "https://cap-rel.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3216"
+      },
+      {
+        "name": "LES DEVELOPPEMENTS DURABLES",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/450866231",
+        "siren": "450866231"
+      },
+      {
+        "name": "SARL Libricks",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/492522883",
+        "siren": "492522883"
+      },
+      {
+        "name": "Librezo",
+        "website": "https://librezo.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4015"
+      },
+      {
+        "name": "Entr'ouvert",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/443170139",
+        "siren": "443170139"
+      },
+      {
+        "name": "Iwios",
+        "website": "https://www.iwios.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3766"
+      },
+      {
+        "name": "NEXEDI",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/440047504",
+        "siren": "440047504"
+      },
+      {
+        "name": "AUKFOOD",
+        "website": "https://www.aukfood.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3288"
+      },
+      {
+        "name": "YALTIK",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/802056994",
+        "siren": "802056994"
+      },
+      {
+        "name": "Hasgard",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/435393921",
+        "siren": "435393921"
+      },
+      {
+        "name": "Logmotion",
+        "website": "https://logmotion.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/4037"
+      },
+      {
+        "name": "Julien Palard",
+        "website": "https://mdk.fr",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/3408"
+      },
+      {
+        "name": "WORTEKS",
+        "website": "https://www.worteks.com/fr/",
+        "cdlUrl": "https://comptoir-du-libre.org/fr/users/255",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/824429708",
+        "siren": "824429708"
+      },
+      {
+        "name": "DBM technologies",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/434987608",
+        "siren": "434987608"
+      },
+      {
+        "name": "ADLINK TECHNOLOGY",
+        "cnllUrl": "https://annuaire.cnll.fr/societes/382565422",
+        "siren": "382565422"
+      }
+    ],
+    "similarExternalSoftwares": [],
+    "annuaireCnllServiceProviders": [
+      {
+        "name": "CAMPTOCAMP",
+        "siren": "433698578",
+        "url": "https://annuaire.cnll.fr/societes/433698578"
+      },
+      {
+        "name": "JANUA",
+        "siren": "478075369",
+        "url": "https://annuaire.cnll.fr/societes/478075369"
+      },
+      {
+        "name": "Hasgard",
+        "siren": "435393921",
+        "url": "https://annuaire.cnll.fr/societes/435393921"
+      },
+      {
+        "name": "SMILE",
+        "siren": "378615363",
+        "url": "https://annuaire.cnll.fr/societes/378615363"
+      },
+      {
+        "name": "DotRiver Newgeneration SR",
+        "siren": "528010382",
+        "url": "https://annuaire.cnll.fr/societes/528010382"
+      },
+      {
+        "name": "APITUX",
+        "siren": "452887441",
+        "url": "https://annuaire.cnll.fr/societes/452887441"
+      },
+      {
+        "name": "ADLINK TECHNOLOGY",
+        "siren": "382565422",
+        "url": "https://annuaire.cnll.fr/societes/382565422"
+      },
+      {
+        "name": "ed3l",
+        "siren": "501943963",
+        "url": "https://annuaire.cnll.fr/societes/501943963"
+      },
+      {
+        "name": "BlueMind",
+        "siren": "525347498",
+        "url": "https://annuaire.cnll.fr/societes/525347498"
+      },
+      {
+        "name": "SARL Libricks",
+        "siren": "492522883",
+        "url": "https://annuaire.cnll.fr/societes/492522883"
+      },
+      {
+        "name": "Lan2Net",
+        "siren": "524457520",
+        "url": "https://annuaire.cnll.fr/societes/524457520"
+      },
+      {
+        "name": "LES DEVELOPPEMENTS DURABLES",
+        "siren": "450866231",
+        "url": "https://annuaire.cnll.fr/societes/450866231"
+      },
+      {
+        "name": "Ryxéo",
+        "siren": "450656731",
+        "url": "https://annuaire.cnll.fr/societes/450656731"
+      },
+      {
+        "name": "DEBAMAX",
+        "siren": "813965662",
+        "url": "https://annuaire.cnll.fr/societes/813965662"
+      },
+      {
+        "name": "YALTIK",
+        "siren": "802056994",
+        "url": "https://annuaire.cnll.fr/societes/802056994"
+      },
+      {
+        "name": "Telnowedge",
+        "siren": "495075079",
+        "url": "https://annuaire.cnll.fr/societes/495075079"
+      },
+      {
+        "name": "ézéo",
+        "siren": "437827959",
+        "url": "https://annuaire.cnll.fr/societes/437827959"
+      },
+      {
+        "name": "DBM technologies",
+        "siren": "434987608",
+        "url": "https://annuaire.cnll.fr/societes/434987608"
+      },
+      {
+        "name": "OCAMLPRO",
+        "siren": "531468429",
+        "url": "https://annuaire.cnll.fr/societes/531468429"
+      },
+      {
+        "name": "France Labs",
+        "siren": "537588089",
+        "url": "https://annuaire.cnll.fr/societes/537588089"
+      },
+      {
+        "name": "NEXEDI",
+        "siren": "440047504",
+        "url": "https://annuaire.cnll.fr/societes/440047504"
+      },
+      {
+        "name": "Piwigo.com (Pigolabs)",
+        "siren": "528932114",
+        "url": "https://annuaire.cnll.fr/societes/528932114"
+      },
+      {
+        "name": "Freexian",
+        "siren": "481385649",
+        "url": "https://annuaire.cnll.fr/societes/481385649"
+      },
+      {
+        "name": "Entr'ouvert",
+        "siren": "443170139",
+        "url": "https://annuaire.cnll.fr/societes/443170139"
+      },
+      {
+        "name": "EVOLIX",
+        "siren": "451952295",
+        "url": "https://annuaire.cnll.fr/societes/451952295"
+      },
+      {
+        "name": "LOGILAB",
+        "siren": "432746196",
+        "url": "https://annuaire.cnll.fr/societes/432746196"
+      },
+      {
+        "name": "Tranquil IT Systems",
+        "siren": "443884580",
+        "url": "https://annuaire.cnll.fr/societes/443884580"
+      },
+      {
+        "name": "WORTEKS",
+        "siren": "824429708",
+        "url": "https://annuaire.cnll.fr/societes/824429708"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
