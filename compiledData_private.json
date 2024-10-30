@@ -529,6 +529,14 @@
         "softwareType": "desktop",
         "otherWikidataSoftwares": [],
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
+      },
+      {
+        "id": 77,
+        "organization": "ARS Mayotte",
+        "targetAudience": "dev",
+        "softwareType": "desktop",
+        "otherWikidataSoftwares": [],
+        "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
   },
