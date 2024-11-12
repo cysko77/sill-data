@@ -5009,7 +5009,7 @@
       }
     },
     "testUrls": [],
-    "updateTime": 1731400733300,
+    "updateTime": 1731400879170,
     "versionMin": "1.3",
     "workshopUrls": [],
     "softwareExternalData": {
@@ -5031,31 +5031,7 @@
         }
       ]
     },
-    "similarExternalSoftwares": [
-      {
-        "externalId": "Q274098",
-        "label": {
-          "fr": "bloc-notes",
-          "en": "Notepad"
-        },
-        "description": {
-          "fr": "logiciel informatique",
-          "en": "simple text editor included with Microsoft Windows"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      },
-      {
-        "externalId": "Q10135",
-        "label": "LibreOffice",
-        "description": {
-          "fr": "suite bureautique soutenue par la communauté du logiciel libre",
-          "en": "office suite supported by the free software community"
-        },
-        "isLibreSoftware": false,
-        "externalDataOrigin": "wikidata"
-      }
-    ],
+    "similarExternalSoftwares": [],
     "hasExpertReferent": false,
     "userAndReferentCountByOrganization": {},
     "instances": [
