@@ -5103,5 +5103,94 @@
     "users": [],
     "referents": [],
     "instances": []
+  },
+  {
+    "id": 37,
+    "name": "Microsoft Word",
+    "description": "logiciel informatique",
+    "referencedSinceTime": 1731400733300,
+    "updateTime": 1731400733300,
+    "isStillInObservation": false,
+    "doRespectRgaa": false,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 4,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 1,
+      "scoreIntegrite": 4
+    },
+    "scopes": [
+      {
+        "missions": "903",
+        "processus": 208
+      }
+    ],
+    "license": "EULA",
+    "softwareType": {
+      "type": "desktop/mobile",
+      "os": {
+        "windows": true,
+        "linux": false,
+        "mac": false
+      }
+    },
+    "versionMin": "1.3",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "bureautique"
+    ],
+    "status": "accepter",
+    "serviceProviders": [],
+    "softwareExternalData": {
+      "externalId": "Q11261",
+      "externalDataOrigin": "wikidata",
+      "label": "Microsoft Word",
+      "description": {
+        "fr": "logiciel informatique",
+        "en": "word processor software part of Microsoft 365"
+      },
+      "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/220px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png",
+      "websiteUrl": "https://products.office.com/word",
+      "license": "EULA",
+      "isLibreSoftware": false,
+      "developers": [
+        {
+          "name": "Microsoft",
+          "id": "Q2283"
+        }
+      ]
+    },
+    "similarExternalSoftwares": [
+      {
+        "externalId": "Q274098",
+        "label": {
+          "fr": "bloc-notes",
+          "en": "Notepad"
+        },
+        "description": {
+          "fr": "logiciel informatique",
+          "en": "simple text editor included with Microsoft Windows"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      },
+      {
+        "externalId": "Q10135",
+        "label": "LibreOffice",
+        "description": {
+          "fr": "suite bureautique soutenue par la communauté du logiciel libre",
+          "en": "office suite supported by the free software community"
+        },
+        "isLibreSoftware": false,
+        "externalDataOrigin": "wikidata"
+      }
+    ],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
