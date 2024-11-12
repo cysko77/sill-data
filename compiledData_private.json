@@ -5178,5 +5178,42 @@
         "addedByAgentEmail": "mohamed.benomar@ars.sante.fr"
       }
     ]
+  },
+  {
+    "id": 38,
+    "name": "GLPI",
+    "description": "logiciel de gestion de ticket",
+    "referencedSinceTime": 1731401374844,
+    "updateTime": 1731401374844,
+    "isStillInObservation": false,
+    "doRespectRgaa": null,
+    "isFromFrenchPublicService": false,
+    "isSoftwareHasHealthData": false,
+    "dicts": {
+      "scoreDisponibilite": 3,
+      "scoreTracabilite": 2,
+      "scoreConfidentialite": 4,
+      "scoreIntegrite": 1
+    },
+    "scopes": [],
+    "license": "gnu",
+    "softwareType": {
+      "type": "cloud"
+    },
+    "versionMin": "1.3",
+    "workshopUrls": [],
+    "testUrls": [],
+    "categories": [],
+    "addedByAgentEmail": "mohamed.benomar@ars.sante.fr",
+    "keywords": [
+      "si",
+      "ticketing"
+    ],
+    "status": "accepter",
+    "serviceProviders": [],
+    "similarExternalSoftwares": [],
+    "users": [],
+    "referents": [],
+    "instances": []
   }
 ]
